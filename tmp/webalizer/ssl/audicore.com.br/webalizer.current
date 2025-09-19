@@ -1,0 +1,2616 @@
+# Webalizer V2.23-08 Incremental Data - 09/18/2025 22:35:47
+2025 9 18 22 35 47
+3122 2914 224 755 47 86 29863474 469 222 0
+18 2 1202 1 18
+24 21 116013 9 5 5
+34 27 523906 8 5 5
+19 16 68571 9 4 4
+39 37 123680 10 6 6
+48 44 258112 12 17 10
+1509 1460 15712054 42 269 58
+165 159 1742930 15 9 8
+171 155 1089394 34 17 14
+168 158 1492034 18 17 14
+84 66 663238 21 14 13
+17 9 98832 9 6 5
+234 217 1424208 16 20 13
+125 113 2054845 17 13 10
+142 128 1241639 16 12 9
+45 34 486455 20 15 14
+127 117 1242545 16 11 10
+87 78 774569 18 15 12
+84 75 750449 18 14 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+12 6 86436 3
+52 42 126367 15
+18 14 87514 8
+14 12 57388 5
+62 58 592823 6
+10 4 43682 2
+164 153 1619378 18
+160 148 1879290 16
+104 98 1247959 20
+35 32 415938 6
+133 121 825877 8
+287 276 1784489 28
+91 86 1015759 9
+8 7 42641 2
+59 42 466639 14
+92 80 1460290 10
+62 57 590745 3
+25 24 81013 4
+24 24 59989 2
+100 93 628862 7
+76 67 618193 3
+1210 1171 12265025 221
+318 295 3852600 56
+6 4 14577 3
+0
+0
+0
+2914
+0
+0
+0
+0
+0
+4
+0
+37
+14
+0
+0
+0
+0
+0
+2
+0
+78
+73
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-admin/css/widgets.min.css
+0 1 7814716426037852777 3092 0 0
+/sitemap_index.xml
+0 24 8443743754445993269 7117 0 0
+/wp-content/uploads/2025/09/Blue-Brain-Human-Technology-Logo.png
+0 1 4048785775765844841 42810 0 0
+/wp-content/plugins/elementor-pro/assets/css/modules/notes.min.css
+0 1 7809631416767967341 526 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/parallelogram-right.svg
+0 1 94898909707040 107 0 0
+/wp-json/rankmath/v1/updateMeta
+0 17 3329911857878742062 12814 8 2
+/wp-content/plugins/seo-by-rank-math/assets/front/css/rank-math.css
+0 1 0 263 0 0
+/wp-admin/options-permalink.php
+0 1 0 27063 0 0
+/wp-content/plugins/elementor/assets/css/widget-text-path.min.css
+0 1 0 342 0 0
+/wp-content/plugins/elementor/assets/css/widget-progress.min.css
+0 1 0 340 0 0
+/wp-content/uploads/elementor/google-fonts/fonts/roboto-fb5169d9.woff2
+0 25 0 1003200 0 0
+/wp-content/plugins/elementor/assets/shapes/waves-pattern.svg
+0 1 0 7297 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInDownLeft.min.css
+0 1 0 118 0 0
+/wp-json/wp/v2/users/me
+0 1 0 2378 0 0
+/wp-includes/js/dist/vendor/wp-polyfill.min.js
+0 1 0 14049 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-loop-carousel.min.css
+0 1 0 1236 0 0
+/wp-content/plugins/elementor/assets/shapes/opacity-tilt.svg
+0 1 0 354 0 0
+/2025/08/15/hello-world/
+0 8 0 73684 5 2
+/wp-content/plugins/elementor/assets/lib/animations/styles/shake.min.css
+0 1 0 184 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-author-box.min.css
+0 1 0 456 0 0
+/wp-includes/js/dist/style-engine.min.js
+0 1 0 1940 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/css/elementor.css
+0 1 0 2161 0 0
+/wp-content/plugins/elementor/assets/js/ai-media-library.min.js
+0 1 0 161669 0 0
+/wp-content/uploads/2025/08/Group-1171275212-287x300.webp
+0 1 0 19578 0 0
+/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/inter.css
+0 28 3543551395249862701 62260 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/bounceInUp.min.css
+0 1 7020671440528433454 175 0 0
+/wp-content/themes/hello-elementor/assets/css/theme.css
+0 1 7881631836155506797 1127 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/gutenberg.js
+0 1 3329901965810335744 99832 0 0
+/wp-content/plugins/elementor/assets/lib/color-thief/color-thief.min.js
+0 1 3257289114846913381 2577 0 0
+/wp-includes/js/clipboard.min.js
+0 1 4121130307996103214 2988 0 0
+/wp-includes/js/dist/date.min.js
+0 1 7957713625452457521 35056 0 0
+/wp-admin/js/dashboard.min.js
+0 1 0 2862 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base.min.css
+0 1 0 584 0 0
+/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css
+0 1 0 117 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/elementor.js
+0 1 0 99828 0 0
+/wp-content/plugins/elementor/assets/css/widget-image.min.css
+0 26 0 3342 0 0
+/wp-admin/js/widgets/media-gallery-widget.min.js
+0 1 0 1117 0 0
+/wp-content/plugins/elementor-pro/assets/js/nav-menu.a23fbd67486c5bedf26c.bundle.min.js
+0 1 0 1739 0 0
+/wp-admin/js/common.min.js
+0 1 0 7435 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-31-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-25-300x169.jpg
+0 1 0 12985 0 0
+/wp-admin/update-core.php
+0 3 0 80008 0 0
+/wp-includes/js/codemirror/codemirror.min.css
+0 1 0 3983 0 0
+/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css
+0 1 0 2775 0 0
+/wp-content/plugins/elementor-pro/assets/js/app.min.js
+0 1 0 23302 0 0
+/wp-content/plugins/elementor/assets/js/packages/menus/menus.min.js
+0 1 0 721 0 0
+/wp-admin/css/l10n.min.css
+0 2 0 1342 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css
+0 1 0 12102 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-slides.min.css
+0 1 0 527 0 0
+/wp-content/plugins/elementor/assets/css/app.min.css
+0 1 0 12957 0 0
+/wp-includes/js/dist/block-directory.min.js
+0 1 0 6684 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/pill-horizontal.svg
+0 1 0 143 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+0 1 0 1621 0 0
+/author/turbowp/feed/
+0 1 470020206190 2041 1 1
+/wp-content/themes/hello-elementor/assets/css/reset.css
+0 1 7020671440528433454 1575 0 0
+/wp-content/plugins/elementor/assets/shapes/drops.svg
+0 1 3347150208414743137 2343 0 0
+/wp-content/themes/hello-elementor/assets/images/image-optimizer.svg
+0 1 3545509608412820791 1004 0 0
+/wp-includes/js/codemirror/htmlhint.js
+0 1 8746952747455574121 5462 0 0
+/wp-content/plugins/elementor/assets/css/widget-star-rating.min.css
+0 1 3474018232865731117 480 0 0
+/wp-admin/options-reading.php
+0 1 3328498972702879283 25596 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-code-highlight.min.css
+0 1 0 2888 0 0
+/wp-includes/js/customize-preview.min.js
+0 1 0 2858 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/headShake.min.css
+0 1 0 150 0 0
+/wp-content/plugins/elementor/assets/shapes/opacity-fan.svg
+0 1 0 488 0 0
+/wp-json/elementor/v1/user-data/current-user
+0 1 0 1974 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 1 0 286 0 0
+/wp-content/plugins/elementor/assets/js/nested-elements.min.js
+0 1 0 2270 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/post-list.js
+0 1 0 5196 0 0
+/wp-content/plugins/elementor-pro/assets/js/packages/editor-site-navigation-extended/editor-site-navigation-extended.min.js
+0 1 0 447 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.min.css
+0 1 0 158 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/content-ai/assets/js/content-ai-media.js
+0 1 0 6379 0 0
+/wp-content/plugins/elementor/assets/lib/inline-editor/js/inline-editor.min.js
+0 1 0 5928 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-29-300x169.jpg
+0 1 0 12985 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 1 0 3989 0 0
+/wp-includes/js/dist/private-apis.min.js
+0 1 0 899 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/trapezoid-down.svg
+0 1 0 109 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-33-300x169.jpg
+0 1 0 12985 0 0
+/wp-includes/css/buttons.min.css
+0 1 0 1270 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/post-list.css
+0 1 0 2050 0 0
+/wp-content/uploads/2025/08/Group-1171275211-300x76.webp
+0 1 0 9400 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/flower.svg
+0 1 0 335 0 0
+/wp-content/plugins/elementor/assets/lib/e-select2/js/e-select2.full.min.js
+0 1 0 19632 0 0
+/wp-content/plugins/elementor/assets/shapes/curve.svg
+0 1 0 208 0 0
+/wp-content/plugins/elementor/assets/lib/nouislider/nouislider.min.js
+0 1 0 7708 0 0
+/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js
+0 1 0 59502 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-14-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/js/kit-elements-defaults-editor.min.js
+0 1 0 7885 0 0
+/wp-json/wp/v2/settings
+0 1 0 6979 0 0
+/wp-includes/js/customize-models.js
+0 1 0 1790 0 0
+/wp-content/plugins/elementor/assets/lib/e-select2/css/e-select2.min.css
+0 1 0 1752 0 0
+/wp-includes/js/imgareaselect/border-anim-h.gif
+0 1 0 178 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css
+0 1 0 1507 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/oval-horizontal.svg
+0 1 0 110 0 0
+/wp-content/plugins/elementor/assets/css/admin.min.css
+0 1 0 11544 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-search.min.css
+0 1 0 1913 0 0
+/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css
+0 26 0 31954 0 0
+/wp-admin/js/editor.min.js
+0 1 0 4495 0 0
+/wp-content/uploads/2025/08/POST-1-300x300.png
+0 1 0 47296 0 0
+/wp-admin/js/tags-box.min.js
+0 1 0 1188 0 0
+/wp-content/themes/hello-elementor/assets/js/hello-editor.js
+0 1 0 870 0 0
+/wp-includes/css/customize-preview.min.css
+0 1 0 747 0 0
+/wp-content/uploads/elementor/thumbs/POST01MELHOR-3-rb2pqym30kjzsy8e13lz0cyvvy622jwx9rmci6w6tk.png
+0 21 0 4268523 0 0
+/wp-includes/js/dist/media-utils.min.js
+0 1 0 3488 0 0
+/wp-includes/js/tinymce/wp-tinymce.js
+0 1 0 209751 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/howto/assets/css/howto.css
+0 1 0 585 0 0
+/wp-includes/js/dist/notices.min.js
+0 1 0 875 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/parallelogram-left.svg
+0 1 0 107 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 1 0 823 0 0
+/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css
+0 2 0 326 0 0
+/wp-includes/js/shortcode.min.js
+0 1 0 1078 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-5-300x169.jpg
+0 1 0 12985 0 0
+/wp-includes/js/wp-lists.min.js
+0 1 0 2361 0 0
+/wp-content/plugins/elementor-pro/assets/js/frontend.min.js
+0 21 0 149654 0 0
+/wp-includes/js/dist/viewport.min.js
+0 1 94898909697920 901 0 0
+/wp-content/uploads/2025/08/Group-1171275210-1-275x300.webp
+0 1 0 13868 0 0
+/wp-content/plugins/elementor/assets/js/e1cb4d726bb59646c677.bundle.min.js
+0 1 0 1630 0 0
+/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-4.min.css
+0 1 0 251 0 0
+/wp-content/themes/hello-elementor/assets/js/612.js
+0 1 0 597 0 0
+/wp-content/plugins/elementor/assets/js/ai-layout.min.js
+0 1 0 47980 0 0
+/wp-includes/js/jquery/jquery.query.js
+0 1 0 1525 0 0
+/wp-includes/js/dist/api-fetch.min.js
+0 1 0 2293 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/slideInUp.min.css
+0 1 0 146 0 0
+/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js
+0 1 0 13942 0 0
+/wp-content/themes/hello-elementor/assets/js/468.js
+0 1 0 1360 0 0
+/wp-admin/load-scripts.php
+0 11 0 397931 0 0
+/wp-content/plugins/elementor/assets/css/widget-video.min.css
+0 1 0 354 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/schema/assets/js/
+0 1 0 2062 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/fonts/Rank-Math.ttf
+0 1 0 32424 0 0
+/wp-admin/images/spinner.gif
+0 1 0 3656 0 0
+/wp-json/rankmath/v1/dashboardWidget
+0 3 0 6204 1 0
+/wp-includes/js/jquery/ui/sortable.min.js
+0 1 0 6267 0 0
+/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+0 22 0 54673 0 0
+/wp-content/plugins/elementor-pro/assets/js/display-conditions.min.js
+0 1 0 19683 0 0
+/wp-content/plugins/elementor/assets/js/packages/icons/icons.min.js
+0 1 0 90982 0 0
+/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/theme.css
+0 35 0 43602 0 0
+/wp-content/plugins/elementor-pro/assets/js/page-transitions.min.js
+0 1 0 9013 0 0
+/wp-admin/js/accordion.min.js
+0 1 0 314 0 0
+/wp-includes/js/dist/i18n.min.js
+0 21 0 80213 0 0
+/wp-content/plugins/elementor/assets/js/container-editor-handlers.e7ee82232887ec8b73b7.bundle.min.js
+0 1 0 2752 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.min.css
+0 1 0 201 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-7-300x169.jpg
+0 1 0 12985 0 0
+/wp-admin/js/plugin-install.min.js
+0 1 0 904 0 0
+/wp-json/elementor-hello-elementor/v1/theme-settings
+0 2 0 284 0 0
+/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-2.min.css
+0 1 0 220 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/bounceInRight.min.css
+0 1 0 180 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-1.min.css
+0 1 0 537 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/gutenberg.css
+0 1 0 14949 0 0
+/wp-json/elementor/v1/site-editor/templates
+0 1 0 2 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/blocks.css
+0 1 0 1277 0 0
+/wp-content/plugins/seo-by-rank-math-pro/includes/modules/schema/assets/css/schema.css
+0 1 0 1457 0 0
+/wp-admin/js/post.min.js
+0 1 0 5852 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/wobble.min.css
+0 1 0 134 0 0
+/wp-content/plugins/elementor/assets/js/packages/locations/locations.min.js
+0 1 0 921 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/footer.svg
+0 1 0 4327 0 0
+/post-sitemap.xml
+0 7 0 2538 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+0 1 0 2426 0 0
+/search/
+0 1 0 6905 1 1
+/wp-content/plugins/elementor-pro/assets/css/widget-media-carousel.min.css
+0 1 0 392 0 0
+/wp-content/uploads/2025/08/POST01MELHOR-300x300.png
+0 1 0 34728 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css
+0 1 0 1144 0 0
+/wp-content/plugins/elementor/assets/js/editor-loader-v2.min.js
+0 1 7885630522593735795 249 0 0
+/wp-admin/post.php
+0 2 0 439843 0 0
+/wp-content/uploads/2025/08/Group-1171275186.webp
+0 1 7277816997830721536 3790 0 0
+/wp-admin/js/widgets/media-audio-widget.min.js
+0 1 0 611 0 0
+/wp-content/uploads/elementor/google-fonts/css/roboto.css
+0 1 470020206195 1855 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInLeft.min.css
+0 1 26828 169 0 0
+/wp-admin/css/forms.min.css
+0 1 3978421395393031728 6278 0 0
+/wp-content/plugins/elementor-pro/assets/js/form.5fb35271b8ba3fb1e7d6.bundle.min.js
+0 17 7813868916177253421 113308 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+0 1 2142 13276 0 0
+/wp-content/plugins/elementor/assets/css/widget-divider.min.css
+0 1 0 697 0 0
+/wp-content/plugins/elementor/assets/css/widget-counter.min.css
+0 24 0 6315 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css
+0 1 0 95 0 0
+/wp-content/plugins/elementor/assets/js/editor-environment-v2.min.js
+0 1 0 178 0 0
+/wp-content/plugins/elementor/assets/shapes/arrow.svg
+0 1 0 162 0 0
+/wp-content/plugins/elementor/assets/shapes/curve-asymmetrical.svg
+0 1 0 234 0 0
+/wp-content/uploads/2025/08/agencia-1.jpg
+0 20 0 1065700 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-39-300x169.jpg
+0 1 0 12985 0 0
+/wp-admin/js/widgets/media-image-widget.min.js
+0 1 0 762 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/metabox.css
+0 1 0 2260 0 0
+/wp-content/uploads/2025/09/conheca-as-solucoes-e-auditoria-300x169.jpg
+0 1 0 8155 0 0
+/wp-includes/js/dist/wordcount.min.js
+0 1 0 937 0 0
+/wp-content/plugins/seo-by-rank-math-pro/includes/modules/robots-txt/rtt-library/bundle.js
+0 2 7002646021468613999 34052 0 0
+/wp-content/plugins/elementor/assets/css/admin-bar.min.css
+0 1 3903839365506086193 274 0 0
+/wp-content/plugins/elementor/assets/css/widget-spacer.min.css
+0 1 8026309749655237477 316 0 0
+/wp-includes/js/dist/blocks.min.js
+0 1 109 50694 0 0
+/wp-content/plugins/elementor/assets/css/widget-floating-bars-base.min.css
+0 1 0 1324 0 0
+/wp-content/uploads/2025/08/Group-1171275213-300x285.webp
+0 1 8320225963534868845 22792 0 0
+/wp-content/plugins/elementor/assets/lib/nprogress/nprogress.min.js
+0 1 470020206190 1943 0 0
+/wp-content/plugins/elementor/assets/js/nested-tabs.min.js
+0 1 3258697572179849773 3785 0 0
+/wp-includes/css/editor.min.css
+0 1 3474858294008164963 5515 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.min.css
+0 1 3330185636256690733 112 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rotateIn.min.css
+0 1 3760842337940877569 180 0 0
+/wp-content/themes/hello-elementor/assets/js/770.js
+0 1 116 1577 0 0
+/wp-content/plugins/elementor/assets/js/common-modules.min.js
+0 1 7542348259859641134 25841 0 0
+/wp-content/plugins/elementor/assets/css/theme-dark.min.css
+0 1 0 692 0 0
+/wp-content/plugins/elementor/assets/js/text-editor.abc8f59c62f2820dc25a.bundle.min.js
+0 17 0 12054 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-3-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-32-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-41-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-30-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css
+0 1 0 114 0 0
+/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css
+0 26 0 18893 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-17-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-38-300x169.jpg
+0 1 0 12985 0 0
+/wp-admin/css/media.min.css
+0 1 0 4430 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-video-playlist.min.css
+0 1 0 1696 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/toc/assets/css/toc_list_style.css
+0 1 0 105 0 0
+/wp-content/plugins/elementor-pro/assets/js/e3f4acef69f217322320.bundle.min.js
+0 1 0 1265 0 0
+/wp-content/plugins/elementor/assets/shapes/triangle.svg
+0 1 0 176 0 0
+/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js
+0 21 0 160499 0 0
+/wp-content/uploads/2025/08/Rectangle-6653-300x201.webp
+0 1 0 17280 0 0
+/wp-content/plugins/elementor/assets/shapes/split.svg
+0 1 0 242 0 0
+/wp-content/themes/hello-elementor/assets/js/768.js
+0 1 0 781 0 0
+/wp-content/plugins/elementor/assets/css/editor-preview.min.css
+0 1 0 15109 0 0
+/wp-admin/
+0 4 0 132692 1 1
+/wp-content/uploads/2025/09/cropped-LOGOSITEPRONTA-192x192.png
+0 8 0 49872 0 0
+/wp-includes/js/wp-auth-check.min.js
+0 1 0 691 0 0
+/wp-content/uploads/2025/08/Vector.svg
+0 1 0 9655 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-buzz-out.min.css
+0 1 0 197 0 0
+/wp-content/uploads/2025/08/ChatGPT-Image-31_08_2025-11_39_17-300x300.png
+0 1 0 22166 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.min.css
+0 1 0 217 0 0
+/wp-content/plugins/elementor/assets/css/widget-toggle.min.css
+0 1 0 359 0 0
+/wp-includes/js/dist/priority-queue.min.js
+0 1 0 1450 0 0
+/wp-includes/js/plupload/plupload.min.js
+0 1 0 5356 0 0
+/wp-admin/load-styles.php
+0 9 0 869303 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-6-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/js/admin.min.js
+0 1 0 13257 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/bounceInDown.min.css
+0 1 0 180 0 0
+/wp-content/plugins/elementor/assets/js/app.min.js
+0 1 0 91038 0 0
+/wp-admin/js/word-count.min.js
+0 1 0 629 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/common.css
+0 1 0 8595 0 0
+/wp-content/themes/hello-elementor/assets/css/customizer.css
+0 1 0 344 0 0
+/wp-content/plugins/elementor/assets/css/widget-rating.min.css
+0 1 0 361 0 0
+/wp-content/plugins/elementor/assets/css/editor-v2-app-bar-overrides.min.css
+0 1 0 325 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css
+0 1 0 119 0 0
+/wp-includes/js/dist/vendor/moment.min.js
+0 1 0 18224 0 0
+/wp-content/plugins/elementor/assets/css/widget-image-box.min.css
+0 1 0 305 0 0
+/wp-content/plugins/elementor/assets/js/nested-accordion.min.js
+0 1 0 3790 0 0
+/wp-includes/js/heartbeat.min.js
+0 1 0 1944 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-table-of-contents.min.css
+0 1 0 830 0 0
+/wp-content/uploads/2025/08/POST01MELHOR-2-e1756656261673-300x300.png
+0 1 0 33990 0 0
+/wp-content/plugins/elementor-pro/assets/js/admin.min.js
+0 1 0 7828 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInDownRight.min.css
+0 1 0 113 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/pentagon.svg
+0 1 0 117 0 0
+/wp-content/uploads/2025/08/Frame-13-3-1-1-155x300.jpg
+0 1 0 13819 0 0
+/wp-content/plugins/elementor/assets/css/editor.min.css
+0 1 0 24850 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 1 0 36022 0 0
+/wp-content/plugins/elementor/assets/js/app-packages.min.js
+0 1 0 27295 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-12-300x169.jpg
+0 1 0 12985 0 0
+/wp-includes/js/dist/a11y.min.js
+0 1 0 830 0 0
+/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css
+0 2 0 1390 0 0
+/wp-includes/js/zxcvbn.min.js
+0 2 0 776342 0 0
+/wp-json/elementor/v1/globals
+0 1 0 981 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.min.css
+0 1 0 95 0 0
+/wp-includes/css/dist/components/style.min.css
+0 1 0 11693 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/sketch.svg
+0 1 0 1010 0 0
+/wp-includes/js/imagesloaded.min.js
+0 1 0 1678 0 0
+/wp-includes/js/dist/preferences-persistence.min.js
+0 1 0 1960 0 0
+/home/
+0 5 0 118628 14 17
+/wp-content/themes/hello-elementor/assets/js/271.js
+0 1 0 374 0 0
+/wp-content/plugins/elementor/assets/css/modules/ai/editor.min.css
+0 1 0 235 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/header.svg
+0 1 0 6895 0 0
+/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css
+0 1 0 1948 0 0
+/wp-content/uploads/2025/08/Frame-14-3-1-1-155x300.jpg
+0 1 0 14682 0 0
+/wp-content/plugins/elementor-pro/assets/js/popup.f7b15b2ca565b152bf98.bundle.min.js
+0 17 0 7429 0 0
+/wp-includes/js/codemirror/codemirror.min.js
+0 1 0 173707 0 0
+/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css
+0 1 0 301 0 0
+/wp-content/plugins/elementor/assets/shapes/mountains.svg
+0 1 0 780 0 0
+/wp-content/plugins/elementor-pro/assets/js/editor.min.js
+0 1 0 33011 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 1 0 214 0 0
+/wp-content/plugins/elementor/assets/shapes/pyramids.svg
+0 1 0 190 0 0
+/wp-content/plugins/seo-by-rank-math/assets/front/js/rank-math.js
+0 1 0 518 0 0
+/wp-content/uploads/2025/08/CAPA-SITE-300x300.png
+0 1 0 10897 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-37-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor-pro/assets/js/preview.min.js
+0 1 0 6831 0 0
+/wp-content/plugins/elementor/assets/shapes/wave-brush.svg
+0 1 0 3121 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-panels/editor-panels.min.js
+0 1 0 1848 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/flash.min.css
+0 1 0 86 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow-rotate.min.css
+0 1 0 108 0 0
+/wp-includes/js/dist/vendor/react-jsx-runtime.min.js
+0 1 0 518 0 0
+/wp-content/uploads/2025/09/cropped-LOGOSITEPRONTA.png
+0 1 0 21683 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-progress-tracker.min.css
+0 1 0 595 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-35-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/oval-vertical.svg
+0 1 0 110 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-bob.min.css
+0 1 0 216 0 0
+/wp-content/uploads/2025/09/cropped-LOGOSITEPRONTA-32x32.png
+0 17 0 13243 0 0
+/wp-content/uploads/2025/08/Group-17-170x300.webp
+0 1 0 7528 0 0
+/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css
+0 1 0 109 0 0
+/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/header-footer.css
+0 33 0 47673 0 0
+/wp-includes/js/media-audiovideo.min.js
+0 1 0 3136 0 0
+/wp-includes/js/wp-ajax-response.min.js
+0 1 0 1005 0 0
+/wp-includes/images/uploader-icons.png
+0 1 0 1556 0 0
+/wp-content/plugins/elementor/assets/css/theme-light.min.css
+0 1 0 684 0 0
+/wp-admin/admin.php
+0 4 0 129949 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css
+0 1 0 130 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-16-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/themes/hello-elementor/assets/js/502.js
+0 1 0 621 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1 0 7953 0 0
+/wp-json/oembed/1.0/embed
+0 1 94898909900032 2040 0 0
+/wp-includes/js/jquery/ui/droppable.min.js
+0 1 0 1903 0 0
+/wp-content/plugins/elementor/assets/js/admin-notifications.min.js
+0 1 0 4238 0 0
+/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css
+0 1 0 585 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+0 24 0 101417 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.min.css
+0 1 0 97 0 0
+/wp-json/elementor-hello-elementor/v1/whats-new
+0 2 0 15064 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-40-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/seo-by-rank-math/includes/3rdparty/elementor/assets/css/elementor-dark.css
+0 1 0 15998 0 0
+/wp-content/uploads/2025/08/Frame-14-3-1-155x300.jpg
+0 1 0 14682 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-26-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/js/ai.min.js
+0 1 0 166706 0 0
+/wp-content/plugins/elementor/assets/js/packages/utils/utils.min.js
+0 1 0 831 0 0
+/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css
+0 1 0 724 0 0
+/wp-content/plugins/elementor/assets/js/styleguide.min.js
+0 1 0 10733 0 0
+/wp-admin/js/customize-nav-menus.min.js
+0 1 0 11483 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-current-user/editor-current-user.min.js
+0 1 0 805 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/css/gutenberg.css
+0 1 0 1723 0 0
+/wp-json/elementor-hello-elementor/v1/promotions
+0 1 0 1073 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/lightSpeedIn.min.css
+0 1 0 143 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-11-300x169.jpg
+0 1 0 12985 0 0
+/wp-includes/js/hoverIntent.min.js
+0 1 0 667 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInDown.min.css
+0 1 0 170 0 0
+/wp-content/plugins/elementor/assets/css/modules/styleguide/editor.min.css
+0 1 0 235 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-24-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-off-canvas.min.css
+0 1 0 719 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-22-300x169.jpg
+0 1 0 12985 0 0
+/wp-includes/js/imgareaselect/border-anim-v.gif
+0 1 0 178 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-site-navigation/editor-site-navigation.min.js
+0 1 0 6278 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.min.css
+0 1 0 130 0 0
+/wp-includes/js/dist/format-library.min.js
+0 1 0 7584 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-34-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-3.min.css
+0 1 0 201 0 0
+/wp-content/plugins/elementor/assets/lib/pickr/themes/monolith.min.css
+0 1 0 1773 0 0
+/wp-admin/update.php
+0 1 0 19493 0 0
+/wp-content/plugins/elementor/assets/js/packages/http-client/http-client.min.js
+0 1 0 13415 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-base.min.css
+0 1 0 2586 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-post-navigation.min.css
+0 1 0 494 0 0
+/wp-content/uploads/2025/08/MyrVcL.tif.svg
+0 1 0 13618 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/schema/assets/css/schema.css
+0 1 0 722 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-app-bar/editor-app-bar.min.js
+0 1 0 5719 0 0
+/wp-content/plugins/elementor/assets/css/widget-tabs.min.css
+0 1 0 668 0 0
+/wp-includes/js/dist/vendor/lodash.min.js
+0 1 0 23889 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-10.min.css
+0 1 0 952 0 0
+/wp-content/uploads/elementor/css/post-9.css
+0 40 0 379272 0 0
+/wp-content/uploads/2025/08/Group-1581.svg
+0 1 0 11614 0 0
+/wp-admin/edit.php
+0 1 0 38410 0 0
+/wp-content/uploads/2025/08/conheca-as-solucoes-e-auditoria-300x169.jpg
+0 1 0 8155 0 0
+/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js
+0 21 0 59220 0 0
+/wp-admin/options-writing.php
+0 1 0 26198 0 0
+/wp-includes/js/customize-views.js
+0 1 0 1307 0 0
+/wp-includes/js/dist/components.min.js
+0 1 0 217027 0 0
+/wp-content/uploads/2025/08/Frame-15-3-1-1-155x300.jpg
+0 1 0 15886 0 0
+/wp-admin/js/widgets/custom-html-widgets.min.js
+0 1 0 1769 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/content-ai/assets/css/content-ai.css
+0 1 0 5083 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-19-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/css/widget-alert.min.css
+0 1 0 452 0 0
+/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+0 23 0 375240 0 0
+/wp-content/plugins/elementor/assets/shapes/tilt.svg
+0 1 0 160 0 0
+/wp-includes/js/wp-sanitize.min.js
+0 1 0 236 0 0
+/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-7.min.css
+0 1 0 400 0 0
+/wp-includes/js/media-editor.min.js
+0 1 0 3444 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css
+0 1 0 155 0 0
+/wp-content/plugins/elementor/assets/js/admin-modules.min.js
+0 1 0 4680 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/circle.svg
+0 1 0 100 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css
+0 1 0 1341 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-documents/editor-documents.min.js
+0 1 0 2056 0 0
+/wp-includes/js/customize-base.min.js
+0 1 0 2378 0 0
+/wp-admin/js/inline-edit-post.min.js
+0 1 0 3116 0 0
+/wp-content/themes/hello-elementor/assets/css/editor.css
+0 1 0 78 0 0
+/category-sitemap.xml
+0 6 0 2122 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css
+0 1 0 166 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css
+0 1 0 143 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-20-300x169.jpg
+0 1 0 12985 0 0
+/author/turbowp/
+0 22 0 165525 6 4
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-bounce-in.min.css
+0 1 0 124 0 0
+/wp-content/plugins/elementor-pro/assets/css/admin.min.css
+0 1 0 3435 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css
+0 1 0 106 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/blocks.js
+0 1 0 1303 0 0
+/wp-content/uploads/2025/09/cropped-LOGOSITEPRONTA-180x180.png
+0 5 0 29270 0 0
+/wp-content/plugins/elementor/assets/js/image-carousel.6167d20b95b33386757b.bundle.min.js
+0 1 0 256 0 0
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+0 1 0 478 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/bounce.min.css
+0 1 0 181 0 0
+/wp-includes/js/comment-reply.min.js
+0 1 0 1248 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+0 1 0 283 0 0
+/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.4c8abccc3e268b0767b2.bundle.min.js
+0 17 0 54955 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 21 0 107385 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css
+0 24 0 39506 0 0
+/wp-includes/js/zxcvbn-async.min.js
+0 2 0 374 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/diamond.svg
+0 1 0 105 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/faq/assets/js/
+0 1 0 4221 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+0 1 0 78196 0 0
+/wp-includes/js/dist/token-list.min.js
+0 1 0 520 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/rank-math-app.js
+0 1 0 44004 0 0
+/wp-content/uploads/2025/08/Frame-13-3-1-155x300.jpg
+0 1 0 13819 0 0
+/wp-content/themes/hello-elementor/assets/css/header-footer.css
+0 1 0 1259 0 0
+/wp-content/plugins/elementor/assets/js/editor-notifications.min.js
+0 1 0 5050 0 0
+/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/robotoslab.css
+0 36 0 43453 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/error-404.svg
+0 1 0 11549 0 0
+/wp-content/uploads/2025/08/Pipedrive_full_logo.svg
+0 1 0 11362 0 0
+/wp-content/plugins/elementor/assets/css/widget-accordion.min.css
+0 26 0 11347 0 0
+/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js
+0 21 0 248146 0 0
+/wp-content/plugins/elementor/assets/js/9f88a0d716a691c2448a.bundle.min.js
+0 1 0 3799 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 21 0 157778 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/css/post-list.css
+0 1 0 413 0 0
+/wp-includes/js/dist/editor.min.js
+0 1 0 105651 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/links.js
+0 1 0 200 0 0
+/wp-includes/js/dist/block-serialization-default-parser.min.js
+0 1 0 1052 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-8.min.css
+0 1 0 877 0 0
+/wp-content/plugins/elementor/assets/js/admin-top-bar.min.js
+0 1 0 3634 0 0
+/wp-includes/js/dist/redux-routine.min.js
+0 1 0 2707 0 0
+/wp-content/themes/hello-elementor/assets/js/91.js
+0 1 0 1126 0 0
+/wp-admin/tools.php
+0 1 0 24209 0 0
+/wp-includes/js/jquery/ui/resizable.min.js
+0 1 0 5120 0 0
+/wp-content/themes/hello-elementor/assets/js/387.js
+0 1 0 789 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+0 1 0 284 0 0
+/wp-content/uploads/2025/08/POST01MELHOR-1-300x300.png
+0 1 0 34713 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css
+0 1 0 1212 0 0
+/wp-includes/js/wp-util.min.js
+0 1 0 690 0 0
+/category/uncategorized/
+0 8 0 58699 3 4
+/wp-includes/js/mediaelement/wp-playlist.min.js
+0 1 0 1002 0 0
+/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js
+0 1 0 2175 0 0
+/wp-json/elementor/v1/template-library/templates
+0 1 0 1918 0 0
+/wp-content/plugins/elementor/assets/js/packages/query/query.min.js
+0 1 0 10521 0 0
+/wp-content/plugins/elementor/assets/lib/perfect-scrollbar/js/perfect-scrollbar.min.js
+0 1 0 5134 0 0
+/wp-content/themes/hello-elementor/assets/images/image-optimization-bg.svg
+0 1 0 1196 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/content-ai/blocks/command/assets/js/
+0 1 0 1901 0 0
+/wp-includes/js/dist/html-entities.min.js
+0 1 0 386 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/trapezoid-up.svg
+0 1 0 109 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css
+0 1 0 183 0 0
+/wp-includes/js/jquery/suggest.min.js
+0 1 0 1205 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.min.css
+0 1 0 193 0 0
+/wp-includes/js/media-models.min.js
+0 1 0 3964 0 0
+/wp-admin/js/updates.min.js
+0 1 0 9719 0 0
+/wp-content/plugins/elementor/assets/shapes/triangle-asymmetrical.svg
+0 1 0 170 0 0
+/wp-login.php
+0 29 0 223775 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rubberBand.min.css
+0 1 0 121 0 0
+/wp-includes/js/dist/hooks.min.js
+0 22 0 37913 0 0
+/wp-includes/js/dist/keycodes.min.js
+0 1 0 1330 0 0
+/sample-page/feed/
+0 1 0 810 1 0
+/wp-content/plugins/elementor-pro/assets/css/widget-reviews.min.css
+0 1 0 1082 0 0
+/wp-content/plugins/elementor/assets/css/widget-link-in-bio-var-5.min.css
+0 1 0 368 0 0
+/wp-admin/css/login.min.css
+0 2 0 3922 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-loop-grid.min.css
+0 1 0 1111 0 0
+/wp-includes/js/dist/commands.min.js
+0 1 0 15804 0 0
+/wp-content/plugins/elementor/assets/css/modules/ai/layout-preview.min.css
+0 1 0 987 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/uploads/2025/08/Blue-Brain-Human-Technology-Logo-300x300.png
+0 1 0 11966 0 0
+/wp-admin/js/site-health.min.js
+0 1 0 2014 0 0
+/wp-content/themes/hello-elementor/assets/js/hello-elementor-menu.js
+0 1 0 137 0 0
+/wp-admin/js/edit-comments.min.js
+0 1 0 4905 0 0
+/wp-content/uploads/2025/08/CAPA-SITE.png
+0 14 0 514976 0 0
+/wp-content/themes/hello-elementor/assets/js/415.js
+0 1 0 865 0 0
+/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+0 24 0 13512 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 1 0 3589 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/hexagon-vertical.svg
+0 1 0 121 0 0
+/wp-content/plugins/elementor/assets/css/common.min.css
+0 1 0 3156 0 0
+/wp-content/uploads/2025/08/3-e1756652130811.png
+0 1 0 5086 0 0
+/wp-admin/js/widgets/media-widgets.min.js
+0 1 0 4360 0 0
+/wp-content/themes/hello-elementor/assets/js/hello-frontend.js
+0 1 0 496 0 0
+/wp-includes/js/dist/plugins.min.js
+0 1 0 1755 0 0
+/wp-content/plugins/elementor/assets/js/app-loader.min.js
+0 1 0 23295 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-2-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/css/frontend.min.css
+0 29 0 235587 0 0
+/wp-content/plugins/elementor-pro/assets/css/preview.min.css
+0 1 0 1260 0 0
+/sample-page/
+0 20 0 202979 8 0
+/wp-content/plugins/elementor/assets/js/shared-editor-handlers.a182e3f9ce3b8b1e4b74.bundle.min.js
+0 1 0 585 0 0
+/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css
+0 1 0 1740 0 0
+/wp-content/plugins/elementor/assets/js/counter.12335f45aaa79d244f24.bundle.min.js
+0 17 0 8522 0 0
+/wp-admin/js/tags-suggest.min.js
+0 1 0 974 0 0
+/wp-includes/js/dist/widgets.min.js
+0 1 0 6770 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.min.css
+0 1 0 136 0 0
+/wp-admin/js/application-passwords.min.js
+0 1 0 998 0 0
+/wp-includes/js/dist/is-shallow-equal.min.js
+0 1 0 483 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-sitemap.min.css
+0 1 0 100 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/hexagon.svg
+0 1 0 218 0 0
+/wp-content/uploads/elementor/css/post-6.css
+0 30 0 13899 0 0
+/wp-includes/js/wp-embed.min.js
+0 1 0 617 0 0
+/wp-includes/css/wp-pointer.min.css
+0 1 0 799 0 0
+/wp-content/plugins/elementor-pro/modules/loop-builder/assets/images/loop-item.svg
+0 1 0 21176 0 0
+/wp-admin/options-discussion.php
+0 1 0 27084 0 0
+/wp-includes/js/dist/autop.min.js
+0 1 0 2005 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-buzz.min.css
+0 1 0 163 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/jello.min.css
+0 1 0 177 0 0
+/wp-json/elementor/v1/global-widget/templates
+0 1 0 2 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-search-form.min.css
+0 1 0 919 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 1 0 4717 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css
+0 1 0 198 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-18-300x169.jpg
+0 1 0 12985 0 0
+/wp-admin/js/postbox.min.js
+0 1 0 2057 0 0
+/wp-includes/js/wp-backbone.min.js
+0 1 0 1086 0 0
+/wp-content/uploads/2025/08/elementor/thumbs/CAPA-SITE-150x150.png
+0 1 0 0 0 0
+/wp-content/plugins/turbo-cache/assets/js/wpr-beacon.min.js.map
+0 1 0 33668 0 0
+/wp-json/elementor/v1/kit-elements-defaults
+0 1 0 2 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/post-list.js
+0 1 0 1158 0 0
+/wp-content/uploads/2025/08/2-300x300.png
+0 1 0 1788 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/content-ai/assets/css/content-ai-dark.css
+0 1 0 1098 0 0
+/wp-content/plugins/elementor-pro/assets//lib/instant-page/instant-page.min.js
+0 1 0 1046 0 0
+/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js
+0 1 0 1442 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-bounce-out.min.css
+0 1 0 124 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/dashboard-widget.css
+0 1 0 1539 0 0
+/wp-json/elementor/v1/checklist/user-progress
+0 81 0 49120 3 10
+/wp-content/plugins/elementor/assets/lib/pickr/pickr.min.js
+0 1 0 7885 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/wplink.js
+0 1 0 4203 0 0
+/wp-content/uploads/2025/08/Frame-15-3-1-155x300.jpg
+0 1 0 15886 0 0
+/wp-includes/images/spinner.gif
+0 1 0 3656 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css
+0 1 0 77 0 0
+/wp-content/plugins/elementor/assets/css/widget-testimonial.min.css
+0 1 0 298 0 0
+/wp-content/plugins/elementor/assets/js/styleguide-app-initiator.min.js
+0 1 0 4574 0 0
+/wp-includes/js/dist/element.min.js
+0 1 0 4805 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/pill-vertical.svg
+0 1 0 143 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 1 0 453 0 0
+/wp-includes/js/dist/blob.min.js
+0 1 0 505 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor/editor.min.js
+0 1 0 800 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-10-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/css/widget-heading.min.css
+0 25 0 4364 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-price-list.min.css
+0 1 0 410 0 0
+/wp-content/themes/hello-elementor/assets/js/380.js
+0 1 0 344 0 0
+/wp-content/uploads/2025/09/LOGOSITEPRONTA.png
+0 1 0 41030 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+0 1 0 81612 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/components.js
+0 1 0 31329 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/search-results.svg
+0 1 0 23805 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 1 0 15238 0 0
+/wp-content/themes/hello-elementor/assets/js/763.js
+0 1 0 526 0 0
+/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css
+0 1 0 328 0 0
+/wp-json/wp/v2/widget-types
+0 1 0 6750 0 0
+/wp-includes/js/dist/preferences.min.js
+0 1 0 2710 0 0
+/wp-includes/js/quicktags.min.js
+0 1 0 3312 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/howto/assets/js/
+0 1 0 4474 0 0
+/wp-includes/js/dist/dom-ready.min.js
+0 1 0 275 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/single-post.svg
+0 1 0 10015 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rollIn.min.css
+0 1 0 149 0 0
+/wp-content/uploads/2025/08/Frame-16-2-1-1-155x300.jpg
+0 1 0 12429 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css
+0 1 0 2161 0 0
+/wp-content/plugins/elementor-pro/assets/css/conditionals/ribbon.min.css
+0 24 0 6681 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/assets/css/schema-dark.css
+0 1 0 928 0 0
+/wp-content/plugins/elementor-pro/assets/js/loop-filter-editor.67dfa5d044d7bd86bd6f.bundle.min.js
+0 1 0 1310 0 0
+/wp-includes/js/dist/block-editor.min.js
+0 1 0 246703 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/brands.js
+0 1 0 2243 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-1-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-4.min.css
+0 1 0 1032 0 0
+/wp-content/themes/hello-elementor/assets/js/495.js
+0 1 0 677 0 0
+/wp-content/plugins/elementor/assets/css/admin-top-bar.min.css
+0 1 0 772 0 0
+/wp-content/plugins/elementor/assets/js/frontend.min.js
+0 23 0 261351 0 0
+/wp-content/plugins/elementor-pro/assets/js/nested-carousel-editor.6d7500036d0766bbe2fc.bundle.min.js
+0 1 0 307 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 3042 0 0
+/wp-includes/js/dist/url.min.js
+0 1 0 3645 0 0
+/wp-admin/js/user-profile.min.js
+0 2 0 4776 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-9-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/classic.js
+0 1 0 17714 0 0
+/wp-includes/js/media-grid.min.js
+0 1 0 3633 0 0
+/wp-content/plugins/turbo-cache/assets/js/wpr-beacon.min.js
+0 11 0 39131 0 0
+/wp-admin/js/media-upload.min.js
+0 1 0 540 0 0
+/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css
+0 1 0 746 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 22 0 709370 0 0
+/wp-admin/js/widgets/text-widgets.min.js
+0 1 0 1883 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-6.min.css
+0 1 0 460 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-gallery.min.css
+0 1 0 969 0 0
+/wp-content/themes/hello-elementor/assets/js/516.js
+0 1 0 338 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/assets/js/schema-gutenberg.js
+0 1 0 20571 0 0
+/wp-content/plugins/elementor/assets/js/editor.min.js
+0 1 0 371900 0 0
+/wp-content/plugins/elementor/assets/js/editor-document.min.js
+0 1 0 5334 0 0
+/wp-content/uploads/2025/08/Group-1171275207-300x300.webp
+0 1 0 7178 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-13-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css
+0 1 0 162 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-loop-filter.min.css
+0 1 0 727 0 0
+/wp-includes/js/utils.min.js
+0 1 0 755 0 0
+/
+0 184 0 3662748 137 30
+/wp-content/plugins/elementor-pro/assets/css/widget-lottie.min.css
+0 1 0 187 0 0
+/wp-admin/nav-menus.php
+0 2 0 62641 0 0
+/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js
+0 21 0 15455 0 0
+/wp-content/plugins/turbo-cache/assets/css/wpr-admin-common.css
+0 1 0 448 0 0
+/wp-admin/js/svg-painter.js
+0 1 0 1111 0 0
+/wp-includes/js/dist/deprecated.min.js
+0 1 0 409 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/toc/assets/css/toc.css
+0 1 0 323 0 0
+/wp-content/uploads/2025/08/POST01MELHOR-3-300x300.png
+0 1 0 34301 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/hexagon-horizontal.svg
+0 1 0 121 0 0
+/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css
+0 1 0 4056 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel.min.css
+0 1 0 1359 0 0
+/wp-includes/js/mediaelement/renderers/vimeo.min.js
+0 1 0 2069 0 0
+/wp-content/plugins/elementor/assets/js/packages/env/env.min.js
+0 1 0 585 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-8-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/js/import-export-admin.min.js
+0 1 0 1997 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/octagon.svg
+0 1 0 137 0 0
+/wp-content/uploads/2025/08/Frame-16-2-1-155x300.jpg
+0 1 0 12429 0 0
+/wp-includes/js/dist/block-library.min.js
+0 1 0 203889 0 0
+/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/js/hello-frontend.js
+0 31 0 16803 0 0
+/wp-content/plugins/seo-by-rank-math-pro/includes/modules/schema/assets/js/schemaFilters.js
+0 1 0 35256 0 0
+/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-3.min.css
+0 1 0 807 0 0
+/wp-content/plugins/elementor/assets/css/widget-floating-bars-var-2.min.css
+0 1 0 892 0 0
+/wp-includes/js/codemirror/csslint.js
+0 1 0 62567 0 0
+/wp-content/uploads/2025/09/Blue-Brain-Human-Technology-Logo-300x300.png
+0 1 0 11966 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-price-table.min.css
+0 24 0 18794 0 0
+/wp-content/uploads/2025/08/Group-17-1-170x300.webp
+0 1 0 7528 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-36-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/dashboard.js
+0 1 0 1149 0 0
+/wp-json/elementor-hello-elementor/v1/admin-settings
+0 1 0 3759 0 0
+/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css
+0 33 0 147034 0 0
+/wp-admin/css/site-health.min.css
+0 1 0 1431 0 0
+/wp-content/plugins/elementor/assets/js/editor-v4-opt-in-alphachip.min.js
+0 1 0 3016 0 0
+/wp-admin/js/widgets/media-video-widget.min.js
+0 1 0 1057 0 0
+/wp-content/uploads/elementor/google-fonts/css/robotoslab.css
+0 1 0 716 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.min.css
+0 1 0 108 0 0
+/wp-content/plugins/seo-by-rank-math-pro/includes/modules/schema/assets/js/schema.js
+0 1 0 439 0 0
+/wp-content/plugins/elementor/assets/js/b96d70044d0d67c2df19.bundle.min.js
+0 1 0 4134 0 0
+/wp-content/plugins/elementor/assets/js/ai-gutenberg.min.js
+0 1 0 162919 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/analyzer.js
+0 1 0 84262 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css
+0 1 0 137 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-notifications/editor-notifications.min.js
+0 1 0 8987 0 0
+/wp-admin/options-media.php
+0 1 0 24673 0 0
+/wp-includes/js/dist/keyboard-shortcuts.min.js
+0 1 0 1232 0 0
+/wp-content/plugins/elementor/assets/js/packages/store/store.min.js
+0 1 0 12447 0 0
+/wp-includes/js/codemirror/esprima.js
+0 1 0 40717 0 0
+/wp-includes/js/dist/compose.min.js
+0 1 0 12404 0 0
+/wp-content/themes/hello-elementor/assets/js/hello-home-app.js
+0 1 0 60830 0 0
+/wp-content/uploads/2025/09/cropped-LOGOSITEPRONTA-300x300.png
+0 1 0 11421 0 0
+/wp-admin/options-general.php
+0 5 0 304135 0 0
+/wp-content/themes/hello-elementor/assets/js/998.js
+0 1 0 352 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/content-ai/assets/css/content-ai-page.css
+0 1 0 12689 0 0
+/wp-includes/js/jquery/jquery.color.min.js
+0 1 0 2641 0 0
+/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+0 2 0 7164 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-15-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.min.css
+0 1 0 180 0 0
+/wp-content/plugins/elementor/assets/js/container-converter.min.js
+0 1 0 4482 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-vertical.min.css
+0 1 0 185 0 0
+/wp-content/plugins/elementor/assets/js/web-cli.min.js
+0 1 0 38467 0 0
+/wp-includes/js/dist/shortcode.min.js
+0 1 0 1327 0 0
+/wp-content/uploads/elementor/thumbs/3-e1756652130811-rb2migi5i3ggkcznyjuvyytedjdrwmmkfvg8e8bg2o.png
+0 21 0 111909 0 0
+/wp-content/uploads/2025/08/LOGO-300x300.png
+0 1 0 7980 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/solid.js
+0 1 0 4365 0 0
+/wp-includes/js/dist/patterns.min.js
+0 1 0 6885 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-social.min.css
+0 1 0 120 0 0
+/wp-content/plugins/seo-by-rank-math/includes/3rdparty/elementor/assets/css/elementor.css
+0 1 0 15439 0 0
+/wp-content/uploads/2025/09/visualizacao-de-dados-com-manus--300x169.jpg
+0 1 0 12909 0 0
+/wp-admin/js/password-strength-meter.min.js
+0 2 0 1114 0 0
+/wp-content/plugins/elementor-pro/assets/js/packages/editor-notes/editor-notes.min.js
+0 1 0 599 0 0
+/wp-includes/js/dist/escape-html.min.js
+0 1 0 476 0 0
+/wp-content/uploads/2025/09/LOGOSITEPRONTA-300x300.png
+0 1 0 11388 0 0
+/wp-content/cache/min/1/wp-content/themes/hello-elementor/assets/css/reset.css
+0 34 0 57751 0 0
+/wp-includes/css/media-views.min.css
+0 1 0 8088 0 0
+/wp-content/uploads/elementor/google-fonts/css/inter.css
+0 1 0 900 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-top.min.css
+0 1 0 193 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css
+0 1 0 186 0 0
+/wp-includes/css/wp-auth-check.min.css
+0 1 0 620 0 0
+/wp-content/themes/hello-elementor/assets/js/835.js
+0 1 0 564 0 0
+/wp-includes/js/plupload/moxie.min.js
+0 1 0 26238 0 0
+/wp-content/plugins/elementor/assets/shapes/zigzag.svg
+0 1 0 2827 0 0
+/wp-content/themes/hello-elementor/assets/images/send-logo.gif
+0 1 0 574506 0 0
+/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js
+0 1 0 37704 0 0
+/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js
+0 1 0 4403 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-3.min.css
+0 1 0 1239 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.min.css
+0 1 0 109 0 0
+/wp-content/plugins/elementor/assets/js/checklist.min.js
+0 1 0 12083 0 0
+/wp-includes/js/jquery/ui/autocomplete.min.js
+0 1 0 2706 0 0
+/wp-json/elementor/v1/site-navigation/recent-posts
+0 1 0 988 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css
+0 1 0 2293 0 0
+/wp-content/plugins/elementor/assets/js/packages/ui/ui.min.js
+0 1 0 242186 0 0
+/wp-content/plugins/turbo-cache/assets/js/wpr-admin-common.js
+0 1 0 637 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/single-page.svg
+0 1 0 7867 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/updates.js
+0 1 0 549 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-9.min.css
+0 1 0 904 0 0
+/wp-content/themes/hello-elementor/assets/js/299.js
+0 1 0 700 0 0
+/wp-content/plugins/elementor/assets/css/widget-contact-buttons-var-7.min.css
+0 1 0 440 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/js/common.js
+0 1 0 8275 0 0
+/robots.txt
+0 20 0 2031 0 0
+/wp-admin/js/nav-menu.min.js
+0 1 0 7876 0 0
+/wp-content/plugins/elementor/assets/shapes/book.svg
+0 1 0 288 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/slideInDown.min.css
+0 1 0 153 0 0
+/wp-admin/profile.php
+0 2 0 181748 0 0
+/wp-includes/js/dist/rich-text.min.js
+0 1 0 9916 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInUpRight.min.css
+0 1 0 116 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-23-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/js/editor-modules.min.js
+0 1 0 12770 0 0
+/wp-content/plugins/seo-by-rank-math/vendor/cmb2/cmb2/css/cmb2.min.css
+0 1 0 4981 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/swing.min.css
+0 1 0 115 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-login.min.css
+0 1 0 142 0 0
+/wp-admin/js/site-icon.js
+0 1 0 1769 0 0
+/page-sitemap.xml
+0 12 0 5821 0 0
+/wp-content/plugins/elementor/assets/js/accordion.28788e18d1d35c23f450.bundle.min.js
+0 17 0 27397 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-responsive/editor-responsive.min.js
+0 1 0 868 0 0
+/wp-admin/async-upload.php
+0 2 0 1636 0 0
+/wp-content/plugins/elementor/assets/images/app/site-editor/archive.svg
+0 1 0 16399 0 0
+/wp-includes/js/codemirror/fakejshint.js
+0 1 0 447 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 1 0 2181 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInRight.min.css
+0 1 0 167 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-blockquote.min.css
+0 1 0 971 0 0
+/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css
+0 1 0 208 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css
+0 1 0 137 0 0
+/wp-includes/js/customize-selective-refresh.min.js
+0 1 0 3480 0 0
+/wp-includes/js/mce-view.min.js
+0 1 0 3429 0 0
+/wp-content/plugins/elementor/assets/lib/jquery-hover-intent/jquery-hover-intent.min.js
+0 1 0 409 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInUp.min.css
+0 1 0 167 0 0
+/wp-content/plugins/elementor-pro/assets/css/app.min.css
+0 1 0 1750 0 0
+/wp-content/uploads/2025/08/video-1-300x169.webp
+0 1 0 8610 0 0
+/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css
+0 1 0 210 0 0
+/wp-cron.php
+0 368 0 0 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-28-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/js/regular.js
+0 1 0 720 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-27-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInUpLeft.min.css
+0 1 0 117 0 0
+/wp-content/uploads/elementor/google-fonts/fonts/inter-e9bdaa9d.woff2
+0 21 0 1013376 0 0
+/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css
+0 1 0 221 0 0
+/wp-content/uploads/2025/08/3-e1756652130811-300x107.png
+0 1 0 1926 0 0
+/wp-content/plugins/elementor/assets/shapes/clouds.svg
+0 1 0 1193 0 0
+/wp-includes/js/jquery/ui/menu.min.js
+0 1 0 2892 0 0
+/wp-content/plugins/seo-by-rank-math-pro/includes/modules/robots-txt/rtt-library/main.css
+0 2 0 6782 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/heptagon.svg
+0 1 0 129 0 0
+/wp-content/uploads/2025/08/Group-1585.svg
+0 1 0 5107 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/blob.svg
+0 1 0 407 0 0
+/wp-content/plugins/elementor/assets/js/common.min.js
+0 1 0 35354 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css
+0 1 0 155 0 0
+/wp-includes/js/dist/primitives.min.js
+0 1 0 762 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/assets/css/schema.css
+0 1 0 3435 0 0
+/wp-includes/js/dist/dom.min.js
+0 1 0 4516 0 0
+/wp-includes/js/dist/reusable-blocks.min.js
+0 1 0 2378 0 0
+/wp-includes/js/dist/warning.min.js
+0 1 0 209 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/content-ai/assets/js/content-ai.js
+0 1 0 89929 0 0
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+0 1 0 2379 0 0
+/wp-includes/js/dist/server-side-render.min.js
+0 1 0 1810 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css
+0 1 0 139 0 0
+/wp-content/themes/hello-elementor/assets/images/elementor.svg
+0 1 0 7002 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-4-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/triangle.svg
+0 1 0 155 0 0
+/wp-content/plugins/elementor/assets/lib/tipsy/tipsy.min.js
+0 1 0 1566 0 0
+/wp-admin/admin-ajax.php
+0 188 0 1000815 0 0
+/wp-includes/js/media-views.min.js
+0 1 0 24901 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/css/cmb2.css
+0 1 0 3216 0 0
+/wp-content/plugins/elementor-pro/assets/js/packages/editor-documents-extended/editor-documents-extended.min.js
+0 1 0 3111 0 0
+/wp-content/themes/hello-elementor/assets/js/799.js
+0 1 0 484 0 0
+/wp-admin/js/image-edit.min.js
+0 1 0 4456 0 0
+/wp-includes/js/dist/customize-widgets.min.js
+0 1 0 10443 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/slideInLeft.min.css
+0 1 0 153 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/tada.min.css
+0 1 0 132 0 0
+/wp-content/plugins/seo-by-rank-math/includes/3rdparty/elementor/assets/js/elementor.js
+0 1 0 14440 0 0
+/wp-content/themes/hello-elementor/assets/js/hello-elementor-settings.js
+0 1 0 60481 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/bounceInLeft.min.css
+0 1 0 182 0 0
+/wp-content/plugins/elementor/assets/js/packages/editor-v1-adapters/editor-v1-adapters.min.js
+0 1 0 2098 0 0
+/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.min.css
+0 1 0 201 0 0
+/wp-admin/js/code-editor.min.js
+0 1 0 1228 0 0
+/wp-content/uploads/2025/09/cropped-LOGOSITEPRONTA-150x150.png
+0 6 0 27372 0 0
+/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+0 25 0 33612 0 0
+/wp-content/plugins/seo-by-rank-math/includes/modules/schema/blocks/toc/assets/js/
+0 1 0 4363 0 0
+/wp-content/plugins/elementor/assets/js/ef2100ac3eda1a957819.bundle.min.js
+0 1 0 1476 0 0
+/wp-content/plugins/elementor/assets/js/dev-tools.min.js
+0 1 0 2373 0 0
+/wp-admin/customize.php
+0 1 0 160073 0 0
+/wp-content/uploads/2025/08/visualizacao-de-dados-com-manus--300x169.jpg
+0 1 0 12909 0 0
+/wp-content/uploads/2025/08/mercado-de-afiliados-e-real-ou-e-21-300x169.jpg
+0 1 0 12985 0 0
+/wp-content/plugins/elementor-pro/assets/css/editor.min.css
+0 1 0 2796 0 0
+/wp-includes/js/dist/data.min.js
+0 1 0 8576 0 0
+/wp-content/plugins/elementor/assets/shapes/waves.svg
+0 1 0 419 0 0
+/wp-content/plugins/elementor/assets/css/modules/container-converter/editor.min.css
+0 1 0 180 0 0
+/wp-includes/js/dist/core-data.min.js
+0 1 0 18622 0 0
+/wp-content/plugins/elementor-pro/assets/js/off-canvas-editor.3bc6e394bd20d4fd64dc.bundle.min.js
+0 1 0 1115 0 0
+/wp-includes/css/dist/block-library/style.min.css
+0 5 0 70415 0 0
+/wp-content/plugins/seo-by-rank-math/vendor/cmb2/cmb2/js/cmb2.min.js
+0 1 0 8771 0 0
+/wp-content/plugins/elementor-pro/assets/css/widget-hotspot.min.css
+0 1 0 1193 0 0
+/wp-content/plugins/seo-by-rank-math-pro/assets/admin/js/wplink.js
+0 1 0 4360 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-40-77-167-44.search.msn.com
+0 1 1 290 0 0
+-
+ec2-54-189-107-153.us-west-2.compute.amazonaws.com
+0 1 1 6645 1 1756715133
+/
+msnbot-52-167-144-18.search.msn.com
+0 1 1 290 0 0
+-
+104.210.140.139
+0 6 0 0 0 0
+-
+ec2-52-53-232-245.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758120139
+-
+ec2-35-92-253-54.us-west-2.compute.amazonaws.com
+0 1 1 6645 1 1756715001
+/
+ec2-54-183-141-238.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757457617
+-
+4.227.36.109
+0 2 0 0 0 0
+-
+79.st.louis-06-08rs.mo.dial-access.att.net
+0 1 0 0 1 1758195870
+/
+ec2-54-221-113-164.compute-1.amazonaws.com
+0 1 1 21994 1 1757574195
+/
+104.28.63.57
+0 40 39 505454 1 1757196114
+/
+msnbot-40-77-178-142.search.msn.com
+0 1 1 48256 0 0
+-
+149.57.180.176
+0 1 1 21519 1 1757826813
+/
+ec2-54-177-136-237.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758234947
+-
+104-11-7-233.lightspeed.rcsntx.sbcglobal.net
+0 1 1 21522 1 1758195880
+/
+ec2-54-170-96-48.eu-west-1.compute.amazonaws.com
+0 1 1 37050 1 1757523546
+/
+146.75.191.51
+0 9 8 35844 1 1757506879
+/
+ec2-3-81-208-185.compute-1.amazonaws.com
+0 1 1 21514 1 1757751570
+/
+157.230.239.58
+0 1 1 12080 1 1756949918
+/
+179-174-57-65.user.vivozap.com.br
+0 67 63 612840 2 1757671911
+/
+msnbot-52-167-144-238.search.msn.com
+0 2 2 21664 1 1757250990
+/
+msnbot-40-77-177-237.search.msn.com
+0 1 1 3791 0 0
+-
+165.227.70.84
+0 1 1 20915 1 1757441334
+/
+ec2-13-52-97-237.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757257531
+-
+104.210.140.142
+0 4 0 0 0 0
+-
+104.28.63.99
+0 11 6 89267 1 1757663741
+/
+104.210.140.132
+0 2 0 0 0 0
+-
+msnbot-52-167-144-24.search.msn.com
+0 9 9 24008 0 0
+-
+40.116.73.219
+0 1 0 0 1 1757195717
+/
+proxy-fr009-san175.ahrefs.net
+0 1 0 0 0 0
+-
+ec2-34-250-208-103.eu-west-1.compute.amazonaws.com
+0 1 1 21516 1 1757538582
+/
+209.38.214.118
+0 2 0 2484 1 1756787289
+/
+208.54.41.228
+0 48 48 548751 1 1758023330
+/
+ec2-54-215-243-85.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757889430
+-
+151.248.88.25
+0 1 1 21522 1 1757926701
+/
+ec2-54-193-179-17.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757861030
+-
+104.248.28.234
+0 2 0 104 1 1757046864
+/
+msnbot-52-167-144-232.search.msn.com
+0 1 1 349 0 0
+-
+msnbot-40-77-167-20.search.msn.com
+0 1 1 550 0 0
+-
+ec2-34-209-6-220.us-west-2.compute.amazonaws.com
+0 1 1 116141 1 1757753885
+/
+196.251.70.73
+0 27 23 220026 2 1757858646
+/
+ec2-54-183-27-141.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1756823814
+-
+118.25.190.160
+0 1 1 6645 1 1757151302
+/
+msnbot-52-167-144-55.search.msn.com
+0 5 4 384 0 0
+-
+ec2-54-193-250-148.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1757031824
+-
+msnbot-40-77-167-11.search.msn.com
+0 1 0 0 1 1757195909
+/
+ec2-54-241-215-41.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757803122
+-
+40.116.73.222
+0 1 0 0 1 1757195718
+/
+ec2-35-87-221-90.us-west-2.compute.amazonaws.com
+0 43 43 552451 1 1757228686
+/
+crawl-66-249-66-194.googlebot.com
+0 1 1 290 0 0
+-
+ec2-54-90-13-109.compute-1.amazonaws.com
+0 8 8 53609 1 1757058493
+/
+msnbot-52-167-144-216.search.msn.com
+0 1 1 286 0 0
+-
+msnbot-52-167-144-207.search.msn.com
+0 1 1 550 0 0
+-
+4.227.36.120
+0 2 0 0 0 0
+-
+104.210.140.140
+0 2 0 0 0 0
+-
+ec2-54-177-101-24.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1756766502
+-
+ecs-190-92-202-79.compute.hwclouds-dns.com
+0 1 1 20915 1 1757340158
+/
+104.210.140.136
+0 4 0 0 0 0
+-
+ec2-54-90-114-81.compute-1.amazonaws.com
+0 1 1 21522 1 1757923754
+/
+104.210.140.129
+0 2 0 0 0 0
+-
+msnbot-52-167-144-189.search.msn.com
+0 1 1 550 0 0
+-
+ec2-3-254-89-219.eu-west-1.compute.amazonaws.com
+0 1 0 0 1 1757504967
+/
+ec2-44-250-243-239.us-west-2.compute.amazonaws.com
+0 1 1 6641 1 1756795554
+/
+msnbot-40-77-167-123.search.msn.com
+0 1 1 286 0 0
+-
+google-proxy-66-249-88-5.google.com
+0 23 23 135083 1 1757675743
+/
+a172-225-83-25.deploy.static.akamaitechnologies.com
+0 14 12 53737 1 1757194855
+/
+msnbot-40-77-167-71.search.msn.com
+0 1 1 290 0 0
+-
+ec2-54-160-108-251.compute-1.amazonaws.com
+0 1 1 21995 1 1757315697
+/
+ec2-52-53-188-219.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757774310
+-
+104.210.140.128
+0 2 0 0 0 0
+-
+104.28.63.60
+0 5 4 243521 1 1757196538
+/
+msnbot-65-55-210-252.search.msn.com
+0 1 1 946 0 0
+-
+google-proxy-66-249-85-9.google.com
+0 1 1 20948 1 1757675742
+/
+23.27.145.232
+0 1 1 21519 1 1757820355
+/
+crawl-66-249-66-42.googlebot.com
+0 1 1 10052 1 1757030045
+/sample-page/
+185.209.199.150
+0 2 1 22163 1 1758088728
+/
+crawl-66-249-66-37.googlebot.com
+0 64 63 206109 3 1757415572
+/sample-page/feed/
+msnbot-40-77-167-3.search.msn.com
+0 1 1 290 0 0
+-
+ip54.ip-15-235-96.net
+0 1 0 0 0 0
+-
+23.27.145.183
+0 1 1 21522 1 1757910623
+/
+msnbot-52-167-144-213.search.msn.com
+0 1 1 359 0 0
+-
+ec2-54-183-213-153.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757198330
+-
+198.235.24.48
+0 1 1 25486 1 1757063150
+/
+ec2-18-144-147-89.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757572894
+-
+40.116.73.208
+0 1 0 0 1 1757195716
+/
+64.227.154.24
+0 1 1 12086 1 1756873265
+/
+web-3-233-107-52.iframely.com
+0 3 3 27513 1 1758225948
+/
+40.116.73.217
+0 1 0 0 1 1757195737
+/
+ec2-54-145-18-119.compute-1.amazonaws.com
+0 2 1 20913 1 1757778143
+/
+52.231.92.121
+0 1 1 65536 1 1758089094
+/
+34.34.246.178
+0 48 48 548747 1 1758128336
+/
+171.162.203.35.bc.googleusercontent.com
+0 1 1 21516 1 1757925237
+/
+179-245-41-2.user.vivozap.com.br
+0 49 49 549995 1 1757249657
+/
+185.50.251.216
+0 7 7 46964 0 0
+-
+104.210.140.134
+0 5 0 0 0 0
+-
+ec2-44-227-127-2.us-west-2.compute.amazonaws.com
+0 3 0 0 1 1758109130
+/
+crawl-66-249-66-38.googlebot.com
+0 29 29 76572 3 1757673260
+/
+104.28.198.102
+0 76 76 725313 1 1757401167
+/
+ec2-13-57-41-166.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1756939291
+-
+ec2-3-255-144-170.eu-west-1.compute.amazonaws.com
+0 1 0 0 1 1757532316
+/
+msnbot-40-77-167-155.search.msn.com
+0 1 1 290 0 0
+-
+ec2-3-87-3-148.compute-1.amazonaws.com
+0 1 1 6640 1 1756889335
+/
+104.28.146.7
+0 1 0 6798 0 0
+-
+ec2-54-165-106-85.compute-1.amazonaws.com
+0 1 1 21518 1 1757657986
+/
+4.227.36.53
+0 2 0 0 0 0
+-
+ec2-100-25-135-16.compute-1.amazonaws.com
+0 2 2 13832 2 1757140913
+/
+134.209.38.188
+0 1 1 20913 1 1757398696
+/
+ec2-34-223-108-25.us-west-2.compute.amazonaws.com
+0 2 2 21639 1 1757470034
+/
+msnbot-40-77-167-58.search.msn.com
+0 1 1 20911 1 1757987169
+/
+msnbot-40-77-167-43.search.msn.com
+0 1 1 350 0 0
+-
+ns1.geap.com.br
+0 49 49 549530 1 1758023324
+/
+149.57.180.9
+0 48 48 548749 1 1757825145
+/
+ec2-3-83-38-89.compute-1.amazonaws.com
+0 1 1 21522 1 1757485559
+/
+ec2-54-193-124-37.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757976179
+-
+2a06:98c0:3600::103
+0 2 2 0 2 1758186540
+/
+40.116.73.211
+0 1 0 0 1 1757195732
+/
+msnbot-52-167-144-199.search.msn.com
+0 1 1 21372 1 1757196540
+/
+104.28.63.58
+0 1 0 6798 0 0
+-
+crawl-66-249-75-133.googlebot.com
+0 1 1 4562 0 0
+-
+179-175-54-41.user.vivozap.com.br
+0 9 8 35371 1 1757498417
+/
+ec2-54-205-193-109.compute-1.amazonaws.com
+0 1 1 6645 1 1756975216
+/
+msnbot-52-167-144-17.search.msn.com
+0 1 1 20928 1 1757196460
+/
+unn-45-134-142-73.datapacket.com
+0 48 48 548749 1 1757752539
+/
+40.116.73.213
+0 1 0 0 1 1757195831
+/
+b3d646e2.virtua.com.br
+0 111 108 1142067 3 1758225957
+/
+msnbot-65-55-210-249.search.msn.com
+0 1 1 752 0 0
+-
+40.116.73.216
+0 1 0 0 1 1757195717
+/
+200.173.49.104
+0 1 1 0 0 0
+-
+40.116.73.220
+0 1 0 0 1 1757195731
+/
+ec2-54-183-56-237.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757371128
+-
+a172-225-223-51.deploy.static.akamaitechnologies.com
+0 28 27 408547 1 1757492061
+/
+40.116.73.221
+0 1 0 0 1 1757195732
+/
+ec2-54-183-227-147.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758148862
+-
+ec2-35-175-104-75.compute-1.amazonaws.com
+0 2 2 43036 2 1758094639
+/
+40.116.73.209
+0 1 0 0 1 1757195735
+/
+104.28.63.114
+0 51 50 529771 1 1757358101
+/
+40.116.73.210
+0 1 0 0 1 1757195735
+/
+ec2-34-212-18-94.us-west-2.compute.amazonaws.com
+0 43 43 552451 1 1757228669
+/
+104.210.140.135
+0 1 0 0 0 0
+-
+ec2-54-176-6-185.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757516585
+-
+8.36.86.54
+0 2 2 43031 2 1757948501
+/
+br.leia7410.com.br
+0 492 468 1093376 39 1758198848
+/
+ec2-54-67-114-148.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757687847
+-
+crawl-66-249-66-3.googlebot.com
+0 1 1 10052 1 1757031017
+/sample-page/
+crawl-66-249-66-8.googlebot.com
+0 1 1 29531 0 0
+-
+40.116.73.214
+0 1 0 0 1 1757195736
+/
+web-44-194-139-157.iframely.com
+0 3 3 12867 0 0
+-
+104.210.140.137
+0 1 0 0 0 0
+-
+ec2-54-151-1-11.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757428932
+-
+msnbot-65-55-210-26.search.msn.com
+0 1 1 40128 0 0
+-
+104.236.26.193
+0 1 1 20915 1 1757408893
+/
+msnbot-52-167-144-194.search.msn.com
+0 1 1 350 0 0
+-
+68.183.48.93
+0 2 1 7892 1 1756815798
+/
+148.69.182.34.bc.googleusercontent.com
+0 2 1 116141 1 1757940230
+/
+4.227.36.49
+0 1 0 0 0 0
+-
+bfb53bd5.virtua.com.br
+0 51 49 547255 1 1757400946
+/
+17-241-75-161.applebot.apple.com
+0 1 1 377 0 0
+-
+bd061936.virtua.com.br
+0 1189 1167 13901185 19 1757841711
+/
+ec2-54-165-26-200.compute-1.amazonaws.com
+0 1 1 21516 1 1757399611
+/
+crawl-66-249-66-39.googlebot.com
+0 17 17 67679 4 1757675744
+/
+ec2-3-101-18-170.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757630403
+-
+104.28.150.99
+0 1 0 6798 0 0
+-
+165.232.115.46
+0 2 0 2484 1 1757373053
+/
+139.59.5.190
+0 2 2 22296 1 1757354053
+/
+189.85.81.198
+0 1 0 108 1 1756800727
+-
+104.210.140.141
+0 3 0 0 0 0
+-
+104.210.140.138
+0 3 0 0 0 0
+-
+ec2-50-18-247-4.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757947211
+-
+17-241-75-46.applebot.apple.com
+0 1 1 384 0 0
+-
+msnbot-65-55-210-158.search.msn.com
+0 1 1 1392 0 0
+-
+msnbot-40-77-167-10.search.msn.com
+0 7 7 19044 0 0
+-
+ec2-54-183-235-1.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1756881440
+-
+msnbot-20-15-133-174.search.msn.com
+0 1 1 9391 1 1758224069
+/2025/08/15/hello-world/
+msnbot-52-167-144-59.search.msn.com
+0 3 3 288 0 0
+-
+100.224.143.34.bc.googleusercontent.com
+0 1 1 21997 1 1757386185
+/
+152.42.133.51
+0 2 2 22296 1 1757980841
+/
+ec2-18-144-170-182.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1757141041
+-
+104.28.144.41
+0 2 1 28179 1 1757371597
+/
+planetlab24.gino-research.net.in.tum.de
+0 3 3 357 0 0
+-
+ec2-54-183-197-170.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758033733
+-
+40.116.73.215
+0 1 0 0 1 1757195729
+/
+146.75.191.50
+0 2 1 28182 1 1757507155
+/
+msnbot-40-77-167-75.search.msn.com
+0 1 1 359 0 0
+-
+104.28.63.59
+0 1 0 6797 0 0
+-
+103.49.196.104.bc.googleusercontent.com
+0 3 2 137656 2 1757934629
+/
+msnbot-40-77-178-216.search.msn.com
+0 1 1 8525 0 0
+-
+msnbot-52-167-144-16.search.msn.com
+0 1 1 290 0 0
+-
+crawl-66-249-65-64.googlebot.com
+0 1 1 4562 0 0
+-
+ec2-174-129-137-212.compute-1.amazonaws.com
+0 1 0 1242 0 0
+-
+msnbot-40-77-178-238.search.msn.com
+0 1 1 19784 0 0
+-
+ec2-98-80-230-244.compute-1.amazonaws.com
+0 1 1 21996 1 1757227778
+/
+ec2-52-208-151-205.eu-west-1.compute.amazonaws.com
+0 1 1 20911 1 1757977149
+/
+46.101.79.11
+0 2 0 2484 1 1758005970
+/
+ec2-54-151-82-164.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757313874
+-
+ec2-3-94-191-23.compute-1.amazonaws.com
+0 49 49 1255428 1 1757778140
+/
+msnbot-52-167-144-231.search.msn.com
+0 1 1 20914 1 1757425225
+/
+ec2-3-101-20-127.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1757084647
+-
+187.43.175.110
+0 13 11 435260 0 0
+-
+137.184.67.184
+0 1 1 12073 1 1758108975
+/
+ec2-54-219-165-104.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1756997062
+-
+msnbot-52-167-144-166.search.msn.com
+0 1 1 20911 1 1758198848
+/
+crawl-66-249-75-134.googlebot.com
+0 1 1 96 0 0
+-
+msnbot-20-15-133-164.search.msn.com
+0 1 1 96 0 0
+-
+104.210.140.131
+0 4 0 0 0 0
+-
+rnd.group-ib.com
+0 7 7 46964 0 0
+-
+msnbot-52-167-144-150.search.msn.com
+0 1 1 286 0 0
+-
+141.138.211.251
+0 1 1 21514 1 1758025744
+/
+google-proxy-66-249-88-1.google.com
+0 18 18 35099 0 0
+-
+crawl-66-249-65-65.googlebot.com
+0 1 1 96 0 0
+-
+msnbot-40-77-167-132.search.msn.com
+0 22 22 91623 0 0
+-
+ec2-54-202-145-150.us-west-2.compute.amazonaws.com
+0 1 1 6645 1 1756714796
+/
+google-proxy-66-249-88-4.google.com
+0 25 25 130995 1 1757675743
+/
+40.116.73.212
+0 1 0 0 1 1757195737
+/
+ec2-3-101-41-155.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758062649
+-
+crawl-66-249-75-105.googlebot.com
+0 4 4 5498 0 0
+-
+ec2-54-219-65-201.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1757716818
+-
+104.237.189.18
+0 11 11 74549 1 1757194902
+/
+104.210.140.133
+0 4 0 0 0 0
+-
+ec2-54-215-189-60.us-west-1.compute.amazonaws.com
+0 1 0 24557 1 1756737632
+-
+17-241-75-25.applebot.apple.com
+0 1 1 571 0 0
+-
+68.183.200.61
+0 1 1 12079 1 1758183091
+/
+ec2-54-183-255-254.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758206110
+-
+167.71.8.44
+0 2 0 1251 1 1757153253
+/
+17-241-227-164.applebot.apple.com
+0 2 2 439 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+79.st.louis-06-08rs.mo.dial-access.att.net
+0 1 0 0 1 1758195870
+/
+ec2-54-177-136-237.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758234947
+-
+104-11-7-233.lightspeed.rcsntx.sbcglobal.net
+0 1 1 21522 1 1758195880
+/
+104.210.140.140
+0 1 0 0 0 0
+-
+web-3-233-107-52.iframely.com
+0 3 3 27513 1 1758225948
+/
+104.210.140.134
+0 1 0 0 0 0
+-
+2a06:98c0:3600::103
+0 1 1 0 1 1758186540
+/
+b3d646e2.virtua.com.br
+0 49 49 569661 1 1758225957
+/
+br.leia7410.com.br
+0 15 13 21516 2 1758198848
+/
+web-44-194-139-157.iframely.com
+0 3 3 12867 0 0
+-
+104.210.140.141
+0 1 0 0 0 0
+-
+msnbot-20-15-133-174.search.msn.com
+0 1 1 9391 1 1758224069
+/2025/08/15/hello-world/
+planetlab24.gino-research.net.in.tum.de
+0 1 1 119 0 0
+-
+msnbot-52-167-144-166.search.msn.com
+0 1 1 20911 1 1758198848
+/
+msnbot-20-15-133-164.search.msn.com
+0 1 1 96 0 0
+-
+104.210.140.131
+0 1 0 0 0 0
+-
+68.183.200.61
+0 1 1 12079 1 1758183091
+/
+ec2-54-183-255-254.us-west-1.compute.amazonaws.com
+0 1 0 27387 1 1758206110
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://audicore.com.br/wp-admin/tools.php
+0 2
+https://audicore.com.br/wp-admin/edit.php
+0 13
+https://audicore.com.br/wp-admin/options-reading.php
+0 1
+https://audicore.com.br/search/
+0 7
+https://audicore.com.br/wp-admin/customize.php
+0 53
+https://audicore.com.br/wp-admin/options-general.php
+0 115
+https://audicore.com.br/wp-content/uploads/elementor/google-fonts/css/roboto.css
+0 1
+http://www.wotbox.com/
+0 48
+https://audicore.com.br/2025/08/15/hello-world/
+0 3
+https://audicore.com.br/
+0 1223
+https://audicore.com.br/wp-content/uploads/elementor/google-fonts/css/inter.css
+0 1
+https://chatgpt.com/
+0 1
+https://audicore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css
+0 1
+https://audicore.com.br/category/uncategorized/
+0 8
+https://audicore.com.br/wp-admin/options-writing.php
+0 2
+http://audicore.com.br
+0 3
+https://www.audicore.com.br/
+0 1
+https://audicore.com.br/sample-page/
+0 1
+https://audicore.com.br/wp-admin/options-permalink.php
+0 1
+https://www.google.com/
+0 2
+- (Direct Request)
+0 896
+https://audicore.com.br/home/
+0 1
+https://audicore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css
+0 1
+https://audicore.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css
+0 1
+https://audicore.com.br/wp-admin/update.php
+0 1
+http://audicore.com.br/
+0 20
+https://br.leia7410.com.br:2083/
+0 9
+https://audicore.com.br/wp-admin/options-discussion.php
+0 1
+https://audicore.com.br/wp-admin/profile.php
+0 13
+https://audicore.com.br/wp-admin/css/login.min.css
+0 1
+https://audicore.com.br/wp-includes/js/imgareaselect/imgareaselect.css
+0 2
+https://audicore.com.br/wp-admin/admin.php
+0 51
+https://br.leia7410.com.br:2087/
+0 2
+https://www.canva.com/
+0 1
+https://audicore.com.br/wp-login.php
+0 25
+https://webdisk.audicore.com.br/
+0 1
+https://cpcalendars.audicore.com.br/
+0 1
+https://audicore.com.br/wp-admin/post.php
+0 452
+https://audicore.com.br/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/roboto.css
+0 18
+https://audicore.com.br/wp-content/plugins/seo-by-rank-math/assets/admin/css/common.css
+0 1
+https://audicore.com.br/wp-admin/nav-menus.php
+0 16
+https://audicore.com.br/wp-admin/
+0 94
+https://audicore.com.br/wp-admin/options-media.php
+0 1
+https://audicore.com.br/wp-content/cache/min/1/wp-content/uploads/elementor/google-fonts/css/inter.css
+0 14
+https://cpcontacts.audicore.com.br/
+0 2
+https://audicore.com.br/wp-admin/load-styles.php
+0 4
+https://audicore.com.br/wp-admin/update-core.php
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 27
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/139.0.7
+0 26
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.48
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+0 49
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7204.183 Mobile
+0 8
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+WordPress/6.8.2; https://audicore.com.br
+0 385
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 1171
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+0 98
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 28
+Pandalytics/2.0 (https://domainsbot.com/pandalytics/)
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; HWI-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.3
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Mobile S
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 4
+\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 1
+WP Rocket/Preload
+0 59
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 43
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/68.0.3440.106 Safari/537.36
+0 86
+Iframely/1.3.1 (+https://iframely.com/docs/about)
+0 5
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 2
+Mozilla/5.0 (Linux; U; Android 1.5; en-us; SPH-M900 Build/CUPCAKE) AppleWebKit/528.5  (KHTML, like Gecko) Version/3.1.2 Mobil
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 2
+Googlebot-Image/1.0
+0 9
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 73
+Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 7
+NetSurf/1.2 (NetBSD; amd64)
+0 1
+Go-http-client/2.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Sa
+0 61
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 103
+Iframely/1.3.1 (+https://iframely.com/docs/about) Canva
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; 
+0 67
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+0 71
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 OPR/86.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.154 Mobile
+0 3
+WhatsApp/2.23.20.0
+0 7
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+0 3
+NetworkingExtension/8621.3.11.10.3 Network/4277.140.33 iOS/18.6.2
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 48
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/0.14.6 Chrome/100.0.4896.75 Electron/18.0.4 S
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:16.0) Gecko/20120813 Firefox/16.0
+0 1
+Mozilla/5.0 (Linux; Android 12; motorola edge 20 pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safa
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/139.0.7258.76 Mobile/
+0 13
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+0 54
+WP Rocket/Preload Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 
+0 48
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+0 50
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/100.0.4896.77 Mobile/15
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+0 7
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.127 Mobile
+0 47
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 13
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 
+0 128
+Mozilla/5.0 (Linux; Android 8.0.0; SM-T820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.89 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; Pixel XL Build/OPR6.170623.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.10
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/101.0.4950.0 Safari/537.36 Elementor Sc
+0 48
+Mozilla/5.0 (compatible; wpbot/1.3; +https://forms.gle/ajBaxygz9jSR8p8G9)
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:19.0) Gecko/20100101 Firefox/19.0 Iceweasel/19.0.2
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/109.0.5414.46 Safari/537.36
+0 48
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+0 48
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/137.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot
+0 14
+Mozilla/5.0 Firefox/33.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,319 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /home/audicore/tmp/awstats/awstats.audicore.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2685                
+POS_VISITOR 6708                
+POS_DAY 7537                
+POS_DOMAIN 3216                
+POS_LOGIN 3505                
+POS_ROBOT 3660                
+POS_WORMS 3933                
+POS_EMAILSENDER 4064                
+POS_EMAILRECEIVER 4207                
+POS_SESSION 7915                
+POS_SIDER 8095                
+POS_FILETYPES 4342                
+POS_DOWNLOADS 4469                
+POS_OS 4517                
+POS_BROWSER 4787                
+POS_SCREENSIZE 5288                
+POS_UNKNOWNREFERER 5362                
+POS_UNKNOWNREFERERBROWSER 5505                
+POS_ORIGIN 5643                
+POS_SEREFERRALS 5776                
+POS_PAGEREFS 5920                
+POS_SEARCHWORDS 6068                
+POS_KEYWORDS 6220                
+POS_MISC 2349                
+POS_ERRORS 6279                
+POS_CLUSTER 3361                
+POS_SIDER_404 6383                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250917144005 7 900 9865063296538
+FirstTime 20250901065123
+LastTime 20250917144005
+LastUpdate 20250918031711 7 0 7 0 0
+TotalVisits 60                  
+TotalUnique 18                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 1 2 0
+1 0 0 0 0 0 0
+2 1 1 0 1 1 0
+3 1 1 0 0 1 96
+4 0 1 83759 0 0 0
+5 0 0 0 0 0 0
+6 19 22 56524 7 7 0
+7 12 16 48015 8 8 0
+8 19 19 47092 6 6 0
+9 1 1 0 1 2 0
+10 2 2 0 2 3 0
+11 5 5 13847 2 2 6468
+12 5 5 6648 2 5 213
+13 0 0 0 0 0 0
+14 3 3 0 2 3 96
+15 3 3 0 2 3 96
+16 2 2 0 0 2 192
+17 3 3 25483 1 3 0
+18 1 1 0 0 1 96
+19 2 5 29375 0 0 0
+20 0 0 0 0 0 0
+21 1 1 0 1 2 117
+22 0 0 0 0 0 0
+23 2 2 0 2 3 25579
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 58 58 0
+us 21 25 154928
+nl 2 5 36029
+ua 1 4 29375
+id 1 1 6652
+za 0 1 83759
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 8 768 20250917144004 8
+survey 1 25483 20250901232423 0
+bot[\s_+:,\.\;\/\\-] 1 117 20250910210939 1
+unknown 1 117 20250916122901 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+php 58 0 0 0
+js 2 87462 0 0
+css 9 68181 0 0
+html 25 155100 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+ios_iphone 6 2
+androidlollipop 1 1
+winxp 1 1
+android 1 1
+macosx15 1 1
+win8.1 1 1
+androidics 1 1
+androidoreo 1 1
+win10 5 5
+macosx10 1 0
+Unknown 58 58
+android10 1 1
+win7 5 2
+j2me 1 1
+linux 8 5
+macosx14 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome66.0.3359.181 4 4
+opera12.00 1 1
+chrome100.0.4896.127 1 1
+chrome89.0.4389.90 1 1
+Unknown 58 58
+chrome75.0.3765.0 1 1
+chrome139.0.0.0 1 1
+chrome45.0.2454.85 5 2
+opera7.51 1 1
+chrome98.0.4758.101 1 1
+chrome101.0.4951.41 1 1
+opera8.01 1 1
+mozilla 1 1
+chrome116.0.0.0 4 1
+chrome39.0.2171.95 1 0
+chrome73.0.3683.90 1 1
+safari 5 1
+chrome99.0.4844.84 1 1
+chrome128.0.0.0 1 1
+safari7.0 1 1
+chrome47.0.2526.80 1 1
+safari12.1.2 1 1
+opera18.0.1284.49 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WordPress/6.8.2;_https://audicore.com.br 20250917144005
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/6.8.2;_https://audicore.com.br 20250917144005
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 83 84
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 10
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 2 0
+404 1 6468
+301 34 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/wordpress/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+177.154.191.152 58 58 0 20250917144005 20250917144005 /wp-cron.php
+54.90.13.109 3 7 48015 20250905074816
+100.25.135.16 3 3 13847 20250906064200
+3.87.3.148 3 3 13837 20250903084902
+54.205.193.109 2 2 13302 20250904084016
+94.102.63.27 2 4 35538 20250901065136
+98.80.230.244 1 1 0 20250907064938
+102.165.48.83 1 1 6652 20250905115821
+54.189.107.153 1 1 6651 20250901082522
+54.160.108.251 1 1 0 20250908071457
+68.183.48.93 1 1 6648 20250902122316
+54.165.106.85 1 1 0 20250912061946
+34.142.147.86 1 1 7195 20250904114651
+185.50.251.216 1 4 29375 20250902195606
+35.92.253.54 1 1 6651 20250901082249
+44.250.243.239 1 1 6648 20250902064550
+54.202.145.150 1 1 6651 20250901081941
+3.80.94.180 1 1 25483 20250905174710
+196.251.70.73 0 1 83759 
+93.174.93.114 0 1 491 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20250901 11 14 55982 7
+20250902 6 9 42671 6
+20250903 4 4 13837 2
+20250904 6 6 20497 4
+20250905 10 14 80150 7
+20250906 5 5 13847 3
+20250907 3 3 0 2
+20250908 6 6 0 5
+20250909 3 3 0 2
+20250910 4 4 0 3
+20250911 2 2 0 1
+20250912 3 3 0 3
+20250913 5 5 0 3
+20250914 1 2 83759 1
+20250915 8 8 0 5
+20250916 3 3 0 3
+20250917 3 3 0 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 53
+5mn-15mn 2
+15mn-30mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/wp-cron.php 58 0 43 42
+/ 25 155100 17 17
+END_SIDER

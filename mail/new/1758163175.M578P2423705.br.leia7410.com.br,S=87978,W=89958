@@ -1,0 +1,1980 @@
+Return-Path: <microsoft-noreply@microsoft.com>
+Delivered-To: audicore@br.leia7410.com.br
+Received: from br.leia7410.com.br
+	by br.leia7410.com.br with LMTP
+	id +DYTO+Zwy2iZ+yQAh08LBg
+	(envelope-from <microsoft-noreply@microsoft.com>)
+	for <audicore@br.leia7410.com.br>; Wed, 17 Sep 2025 23:39:34 -0300
+Return-path: <microsoft-noreply@microsoft.com>
+Envelope-to: adm@audicore.com.br
+Delivery-date: Wed, 17 Sep 2025 23:39:34 -0300
+Received: from mail-eastusazon11022090.outbound.protection.outlook.com ([52.101.53.90]:54243 helo=BL0PR03CU003.outbound.protection.outlook.com)
+	by br.leia7410.com.br with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <microsoft-noreply@microsoft.com>)
+	id 1uz4YZ-00A41g-1g
+	for adm@audicore.com.br;
+	Wed, 17 Sep 2025 23:39:34 -0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=W3WeK4ly/sFiDmeVYXsKIk0yxCXCrZsyP3i83kvbhvQpjuHkTSIBygTkCAurAEBSqTLjrfdfHUKh9xyKhgBpQhXpe4vmwx0syZdYRrphllb156VoAjkV3u5frAaj8rk37hOnPi0jXkgHpnMvnwCYZDXFWNxHtoRUOV6kazCER9I0tQToMUxUiVVLkqNVt/EVrny6P/LUMwhGoCzjtMkvHc+fdVFixdMnz6rBJXHYxOymbAxz8RAdZLTqFSg1E1M/+NmJllp382IeufNrSyI9SjOKlDJw3jqx7m//5qZbFOGs0G4upHP+sAnbgDnT8HPBIHbt7rvgx5nNrZ8AGq15qg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=LfBLpz5KGRBSZuR7a4VMUDMrmC12tUoCkd9ARC0BBS4=;
+ b=Oeu/P651hD034FTAZI6SYUHuPN9mI2rJ37AZCV+daLzKYvMpcox9+H8ubcZDElsXiOUhhXSTFcSH+dZ3BUu874yKsQiod3p6fXWCD5f9qjUwarvIbj1ZiiJMjeR3o54qY/pbKzFvDOymFWhf8Q4ICzdcSAj7hvsQD3/ADMHX3uLkppOwC0o2Ki6LQvV8ZoZy5C+zvhqg1ChEqZeN5eBgJpXrYShuEKqvvHKSj6rp3bWWo0bXLekbLv+NKYhimDzVLEBzS6/o8Pe4pFchAq0QrzSNZNghfYrJEXrej3+JAXvBJEpQjIuQifGYDXbWU0UzRmen/FLt60BucfQFBu16uQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+Received: from outlook.office365.com (2603:10b6:303:129::11) by
+ MW4PR06MB8330.namprd06.prod.outlook.com with HTTP via
+ PH7PR17CA0007.NAMPRD17.PROD.OUTLOOK.COM; Thu, 18 Sep 2025 02:38:47 +0000
+DKIM-Signature: v=1; a=rsa-sha256; d=microsoft.com; s=s1024-meo;
+	c=relaxed/relaxed; i=microsoft-noreply@microsoft.com; t=1758163127;
+	h=from:subject:date:message-id:to:mime-version:content-type;
+	bh=LfBLpz5KGRBSZuR7a4VMUDMrmC12tUoCkd9ARC0BBS4=;
+	b=I9DONz25IBLtLCMJxxNdDPxYenP80vYLdTkDN29WrS7NBMTRe0qj/h4GGQNMdD+qV63Tui/ngbE
+	R0rotMETIiUroGT1fXPGl2Tp4uVpZ3uzx/ndJJyAuu7B3x5RbEVIQE8mzOYMDcOz4suEHVRSyexJY
+	6AWTIg7gGWhPuLVZE+g=
+From: Microsoft <microsoft-noreply@microsoft.com>
+Date: Thu, 18 Sep 2025 02:38:47 +0000
+Subject: Sua fatura G114020907 da Microsoft =?utf-8?b?ZXN0w6E=?= pronta
+Message-Id: <e73013e4-a66e-4c9a-b34c-b97eb16d1834@az.centralus.microsoft.com>
+To: adm@audicore.com.br
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-qNQf3+zIBNRzsesDlZE3/w=="
+X-MS-PublicTrafficType: Email
+client-request-id: 6a17b051-4f99-410e-826a-47969d32dffa
+request-id: a085cb60-7f98-1734-cc49-6b36fc55aacd
+X-MS-TrafficTypeDiagnostic: MW4PR06MB8330:EE_MeoEmail
+X-MS-Exchange-SenderADCheck: 0
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam:
+	BCL:0;ARA:13230040|586017|34036016|376014|69100299015|61400799027|13003099007|4076899003|8096899003|3613699012|19033499003;
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?WThEUDlvVC9UT0x6U0oxbmxYdDhFWkxnbFp1Z0V6Vit3Um5oRGJRbHRKd3ZX?=
+ =?utf-8?B?M0FpRlZzcUlmQWtaRUNzTjJTUlNlK3hja1lKTDhHdS9MS2RlYmVSb3NoRkRX?=
+ =?utf-8?B?SWovUVpmVy9GVDNDME1BZW1nR1U3Y2MzN2lrMFVqdGpHNnJlajdpOUZrUDFZ?=
+ =?utf-8?B?SXR4c1ljQXg3QlJsY2o0c3NoN0ZUZWZLRGFVOUUyZ3dBR3orSFVGZ3MvRkEv?=
+ =?utf-8?B?UkppZ0I1OVpva0E0NVBIbWZKckxKUEhoRGhHUG9kNko5bGJUSUlvNkx3bDlP?=
+ =?utf-8?B?MkNHWDhvVTQ1bkNjcmhJSnd4RG9hTFVudTZDbitCL0tPMU1YN3hCUnlBNjJ4?=
+ =?utf-8?B?MkUzRi83Y3Y4ZzlyNGQ3eUdBeTBoVFdZdWxvcWs5aVZFQ1NlY1hkbWVvMWwr?=
+ =?utf-8?B?VUtvaDN2N0wzeFg3TUw2VGk5Tk13cExxMHFqL0oxa3YreUhXT1F2K0JKaytD?=
+ =?utf-8?B?bHJIbnMvUEFmQUJ3M2hPSkdxTStlWWZmdjM1ZzI2MEU2RExtVjMrNkhqdTdB?=
+ =?utf-8?B?VHYxSFhqNThHMHZidFlCaXJEa3Z4VWZITlFQdnl3N3NKQ1Zob3k2a0E5YWNy?=
+ =?utf-8?B?N0xEbzZUcEEwNW5wUDByWG9Vd2lZYTNQWHRhbGtHVWhRYmlTdUY1MSt2M3JR?=
+ =?utf-8?B?ODlmYWpaUlltcXp6ZnZwRVlCZXl5YzdCdjZJNzdPY0p4V3pJM0tBL1FEUWph?=
+ =?utf-8?B?RnkxZmZKdVNjM0dXU2p5cDNEcjBxTXFmNnBaRm1POTN3N0ZFeDNxenN2UXY5?=
+ =?utf-8?B?WWJJdGlqanhKL3IycTlBUnFyNW9WS1dkRDZKSXpURDBEZDlUUkhCdUdYUnhY?=
+ =?utf-8?B?TnRYZ0NiU1dvdUNZRVBZVkFLTnRZc0twN0g1QXhub1dyeEtuRk93QXJxaHZ6?=
+ =?utf-8?B?VDNoQmk3WEFFS3hNVkkraG5zTFlKY2tIUlRFdjAreVhQbnJwejNNN3h5dG42?=
+ =?utf-8?B?WlEwcXRQUkxFUStGckRXQmVseGpPTzByWDhKRGswY2FSRU9KRW9ZWEg4K1pj?=
+ =?utf-8?B?dzhkdXpWNWMwV2tZa3NVSGtIdGpuNjZvS1dmRDBVSmd1N1dZdGFrV0sxTU9l?=
+ =?utf-8?B?NXVic3FZdHIza3BnQm5sTlU3WmptUGVUTU5YR3UrVW9mVUhCeFdtM3JxR0U0?=
+ =?utf-8?B?NFBTMVg4ZWF1VHdiVTZiM085dEdqUjFqNnVBcXdqbW9xVTQ1aldRUlo2UVh6?=
+ =?utf-8?B?cjc4S3Y1TnpMVmJLRkpTWFBOb0FDQ0JmaTNqYUF2VElDUE5wUkdkTzhpRHhN?=
+ =?utf-8?B?YUkzb05ORlp6dEZOT1NKbWFURDBpQi9mSThjY29sRGJhT0hoT2hCS1lhMDg3?=
+ =?utf-8?B?QnkrUkRBRld6eUlNRU1uZ0M2RHpMVFdBZklvUGFVbEdEdDFZZHBhTkZldUp0?=
+ =?utf-8?B?WFJFL2FiNUdZdHg1bnNMSGw5Wk1OcEpJQmdCY3cwemFBUkVZNEo1VWErWXBw?=
+ =?utf-8?B?L2hWeU9UNHN6TkowQ2VWRzZWaHdGUUk4OHpqVFh0dHJOSHNuQi9qTWJMeHNp?=
+ =?utf-8?B?ZjVtNmpjV3loKzc4ekxUa2t5elpVNnNIV2NpUWRGamFzUGNWTXNPWWMrMWsz?=
+ =?utf-8?B?TW1GTlFOV1NCNE9JRC9SZTRsVW4rNE8zcU53dUFTaTNXSkVzdzVOUkVXTjNv?=
+ =?utf-8?B?Q2QwWjlSQmx6dUZTZzI5b1RtNmVQV3NQSVBwZGc3UlFlZVNuOVlwc1p3MmFO?=
+ =?utf-8?B?QlR3MXdiQzY3eWZDTTZ0ZEdpZFVjZzNkL1ViZE8xQlI5V3pTcXpiS0xlNngz?=
+ =?utf-8?B?aVY5NmdURW41T0l4SmNSaVFVUWJXN0wvTlNXL2NHN1VtRWx1K1FObm00MGk5?=
+ =?utf-8?B?MnRyc2F6ZjhoenJvV0J4MW5qSmRxRXMvQ1RXOGJoRzlZMU1zV3ZZRmlHenBx?=
+ =?utf-8?B?L1VHRnVzZkVTQ1c0VjQrdEJQc2VmQndnM0E5ZVVmWng5eUx2ajh5S1kxUmR1?=
+ =?utf-8?B?bU1FS3N5NTJBbHZtVHVjTGhndkZ6RTZpTlFydWI0UklKM1pxSnhsdXIxS1Iv?=
+ =?utf-8?B?MFBWNDRFSGt1a0RSNTVoTld0dFdxZHpMRWMySlRsWWZhUHJzcVJoVnFYTXpz?=
+ =?utf-8?B?OTliRzh4YnVldzh5TldIL015bllQRzZUZXlGUT09?=
+X-Forefront-Antispam-Report:
+	CIP:255.255.255.255;CTRY:;LANG:pt;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:;PTR:;CAT:NONE;SFS:(13230040)(586017)(34036016)(376014)(69100299015)(61400799027)(13003099007)(4076899003)(8096899003)(3613699012)(19033499003);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	fCVtr1dHusmGwJWI1+PtRyc9Iaaz0gY+V5PcG7x/MIFgg2dXx4LFTojqrCnZe/eq+mYHa0euQqnAIf8l6jfPeQb6tRGoZw44rc8ejqnzF6i376tO5/kNs0d4XL7Qimm0GZVGxjzu+xMz/7O/+P020/hLD2IKnpfTUbgA6V8VtFV8BXjQouMt2lzVKa/471oFDs1ZmoYFyQb7n9bkPprpBrLfnvDjvQGNRnYOpAIAp4G7sIZgTKq1eOZujaMwC07Ugyjgo5IlCWKSqfi5KZSofrPsoSmVKzf8XgX0/lPrruLZKfVwchPZ/10oHw2+1ODjo7dPwmghcOznLRisiMXBtbI4vjnwLMJEs7LKsxhScQdOCz0p+Rj5dVnYCxzD045Q/FWW+lITjDz4K7JQuVNZyBca/i0oPuQakbElNZsdTM/KJIJXx7vtAvlzffFQiThuli0Wc9KL7mJr0k8aaJVJGVrvxjEdpvwfzUFKdeoyjcrwuhQIGR61+FS8AGyD971p
+X-OriginatorOrg: meonam01exo.onmicrosoft.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: HttpSubmission-MW4PR06MB8330
+X-MS-Exchange-CrossTenant-Id: d821ff6e-cbb4-4b21-915d-29ee700dae21
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Sep 2025 02:38:47.0853 (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+	92a59c1b-cb0c-497d-bdab-08ddf65c7e51
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MW4PR06MB8330
+X-Spam-Status: No, score=-0.3
+X-Spam-Score: -2
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "br.leia7410.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Microsoft Examine sua fatura da Microsoft ===============================
+    Seu demonstrativo está pronto para ser examinado. Entre para vê-la. Se
+   o pagamento já foi efetuado, desconsidere este email. 
+ Content analysis details:   (-0.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.0 RCVD_IN_VALIDITY_SAFE_BLOCKED RBL: ADMINISTRATOR NOTICE: The
+                             query to Validity was blocked.  See
+                             https://knowledge.validity.com/hc/en-us/articles/20961730681243
+                              for more information.
+                           [52.101.53.90 listed in sa-trusted.bondedsender.org]
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: azure.net]
+  0.0 RCVD_IN_VALIDITY_RPBL_BLOCKED RBL: ADMINISTRATOR NOTICE: The
+                             query to Validity was blocked.  See
+                             https://knowledge.validity.com/hc/en-us/articles/20961730681243
+                              for more information.
+                             [52.101.53.90 listed in bl.score.senderscore.com]
+ -0.1 DKIMWL_WL_HIGH         DKIMwl.org - High trust sender
+X-Spam-Flag: NO
+
+--=-qNQf3+zIBNRzsesDlZE3/w==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Microsoft
+
+Examine sua fatura da Microsoft
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+
+Seu demonstrativo est=C3=A1 pronto para ser examinado. Entre para v=C3=AA-l=
+a. Se o pagamento j=C3=A1 foi efetuado, desconsidere este email.
+
+Se pagar com cart=C3=A3o de cr=C3=A9dito, cobraremos automaticamente no car=
+t=C3=A3o que temos registrado dentro de dois dias a partir da data de cobra=
+n=C3=A7a.
+
+N=C3=BAmero da fatura: G114020907
+
+Valor: R$ 35,07 BRL
+
+Per=C3=ADodo de cobran=C3=A7a: ter=C3=A7a-feira, 16 de setembro de 2025 =E2=
+=80=93 ter=C3=A7a-feira, 16 de setembro de 2025
+
+Data de cobran=C3=A7a: quarta-feira, 17 de setembro de 2025
+
+Data de vencimento: quarta-feira, 17 de setembro de 2025
+
+Veja a fatura >>
+https://admin.microsoft.com/Adminportal/Home?source=3Dtcemail#/billoverview=
+/invoice-list/G114020907
+
+Recursos adicionais
+-------------------
+
+- Saiba mais sobre sua fatura
+  https://docs.microsoft.com/pt-br/microsoft-365/commerce/billing-and-payme=
+nts/understand-your-invoice2
+
+- Saiba como navegar nas suas faturas
+  https://docs.microsoft.com/pt-br/microsoft-365/commerce/billing-and-payme=
+nts/view-your-bill-or-invoice
+
+- Altere a forma como voc=C3=AA recebe as faturas
+  https://docs.microsoft.com/pt-br/microsoft-365/commerce/billing-and-payme=
+nts/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-e=
+mail
+
+- Altere sua forma de pagamento
+  https://docs.microsoft.com/pt-br/microsoft-365/commerce/billing-and-payme=
+nts/pay-for-your-subscription
+
+Dados da conta
+--------------
+
+Nome da empresa: Medicore
+
+Nome: Medicore
+
+Perfil de cobran=C3=A7a: Medicore
+
+--------------------------------------------------
+
+
+Sim: https://nam.safelink.emails.azure.net/trackingfeedback/?p=3DbT1lNzMwMT=
+NlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmZj1Qb3NpdGl2ZSZiPXB0LWJyJmE9MTgvM=
+DkvMjAyNSAwMjozODo0NSZ1PWFlbw%3D%3D
+N=C3=A3o: https://nam.safelink.emails.azure.net/trackingfeedback/?p=3DbT1lN=
+zMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmZj1OZWdhdGl2ZSZiPXB0LWJyJmE9=
+MTgvMDkvMjAyNSAwMjozODo0NSZ1PWFlbw%3D%3D
+
+
+Pol=C3=ADtica de Privacidade: https://go.microsoft.com/fwlink/?LinkId=3D521=
+839
+
+Microsoft Corporation, One Microsoft Way, Redmond, WA 98052
+
+Microsoft
+
+--=-qNQf3+zIBNRzsesDlZE3/w==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"https://www.w3.org/1999/xhtml" lang=3D"pt" xmlns:v=3D"urn:sc=
+hemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office=
+" style=3D"min-height: 100%;background: #ffffff"><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+    <meta name=3D"eventId" content=3D"commercial-commerce-invoice-ready">
+    <meta name=3D"messageId" content=3D"e73013e4-a66e-4c9a-b34c-b97eb16d183=
+4">
+    <meta name=3D"cloud" content=3D"AZ">
+
+
+       =20
+
+    <title>
+       =20
+    Sua fatura G114020907 da Microsoft est=C3=A1 pronta
+
+    </title>
+
+        <style id=3D"mediaqueries">@media only screen and (max-width: 640px=
+) {
+  .wrap-dangler {
+    padding-right: 10% !important;
+    mso-padding-right-alt: 10% !important;
+  }
+
+  .wrap-dangler.small-text-center .wrap-dangler.text-center {
+    padding-left: 10% !important;
+    mso-padding-left-alt: 10% !important;
+    padding-right: 10% !important;
+    mso-padding-right-alt: 10% !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  p.comment-border-right {
+    margin-left: 0 !important;
+    Margin-left: 0 !important;
+    mso-margin-left-alt: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  p.comment-border-left {
+    margin-left: 0 !important;
+    Margin-left: 0 !important;
+    mso-margin-left-alt: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .small-float-left {
+    margin-left: 0 !important;
+    float: none !important;
+    text-align: left !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .show-for-large {
+    display: none !important;
+    width: 0;
+    mso-hide: all;
+    overflow: hidden;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .wrap-dangler {
+    padding-right: 10% !important;
+    mso-padding-right-alt: 10% !important;
+  }
+
+  .wrap-dangler.small-text-center .wrap-dangler.text-center {
+    padding-left: 10% !important;
+    mso-padding-left-alt: 10% !important;
+    padding-right: 10% !important;
+    mso-padding-right-alt: 10% !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  p.comment-border-right {
+    margin-left: 0 !important;
+    Margin-left: 0 !important;
+    mso-margin-left-alt: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  p.comment-border-left {
+    margin-left: 0 !important;
+    Margin-left: 0 !important;
+    mso-margin-left-alt: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .small-float-left {
+    margin-left: 0 !important;
+    float: none !important;
+    text-align: left !important;
+  }
+}
+
+@media only screen {
+  html {
+    min-height: 100%;
+    background: #ffffff;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .small-float-center {
+    margin: 0 auto !important;
+    float: none !important;
+    text-align: center !important;
+  }
+
+  .small-text-center {
+    text-align: center !important;
+  }
+
+  .small-text-left {
+    text-align: left !important;
+  }
+
+  .small-text-right {
+    text-align: right !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .hide-for-large {
+    display: block !important;
+    width: auto !important;
+    overflow: visible !important;
+    max-height: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  table.body table.container .hide-for-large,
+  table.body table.container .row.hide-for-large {
+    display: table !important;
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  table.body table.container .callout-inner.hide-for-large {
+    display: table-cell !important;
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  table.body table.container .show-for-large {
+    display: none !important;
+    width: 0;
+    mso-hide: all;
+    overflow: hidden;
+  }
+}
+
+@media only screen {
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .menu.small-vertical .menu-item {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  table.body img {
+    width: auto;
+    height: auto;
+  }
+
+  table.body center {
+    min-width: 0 !important;
+  }
+
+  table.body .container {
+    width: 95% !important;
+  }
+
+  table.body .columns,
+  table.body .column {
+    height: auto !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+
+  table.body .columns .column,
+  table.body .columns .columns,
+  table.body .column .column,
+  table.body .column .columns {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  table.body .collapse .columns,
+  table.body .collapse .column {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  td.small-1,
+  th.small-1 {
+    display: inline-block !important;
+    width: 8.33333% !important;
+  }
+
+  td.small-2,
+  th.small-2 {
+    display: inline-block !important;
+    width: 16.66667% !important;
+  }
+
+  td.small-3,
+  th.small-3 {
+    display: inline-block !important;
+    width: 25% !important;
+  }
+
+  td.small-4,
+  th.small-4 {
+    display: inline-block !important;
+    width: 33.33333% !important;
+  }
+
+  td.small-5,
+  th.small-5 {
+    display: inline-block !important;
+    width: 41.66667% !important;
+  }
+
+  td.small-6,
+  th.small-6 {
+    display: inline-block !important;
+    width: 50% !important;
+  }
+
+  td.small-7,
+  th.small-7 {
+    display: inline-block !important;
+    width: 58.33333% !important;
+  }
+
+  td.small-8,
+  th.small-8 {
+    display: inline-block !important;
+    width: 66.66667% !important;
+  }
+
+  td.small-9,
+  th.small-9 {
+    display: inline-block !important;
+    width: 75% !important;
+  }
+
+  td.small-10,
+  th.small-10 {
+    display: inline-block !important;
+    width: 83.33333% !important;
+  }
+
+  td.small-11,
+  th.small-11 {
+    display: inline-block !important;
+    width: 91.66667% !important;
+  }
+
+  td.small-12,
+  th.small-12 {
+    display: inline-block !important;
+    width: 100% !important;
+  }
+
+  .columns td.small-12,
+  .column td.small-12,
+  .columns th.small-12,
+  .column th.small-12 {
+    display: block !important;
+    width: 100% !important;
+  }
+
+  table.body td.small-offset-1,
+  table.body th.small-offset-1 {
+    margin-left: 8.33333% !important;
+    Margin-left: 8.33333% !important;
+  }
+
+  table.body td.small-offset-2,
+  table.body th.small-offset-2 {
+    margin-left: 16.66667% !important;
+    Margin-left: 16.66667% !important;
+  }
+
+  table.body td.small-offset-3,
+  table.body th.small-offset-3 {
+    margin-left: 25% !important;
+    Margin-left: 25% !important;
+  }
+
+  table.body td.small-offset-4,
+  table.body th.small-offset-4 {
+    margin-left: 33.33333% !important;
+    Margin-left: 33.33333% !important;
+  }
+
+  table.body td.small-offset-5,
+  table.body th.small-offset-5 {
+    margin-left: 41.66667% !important;
+    Margin-left: 41.66667% !important;
+  }
+
+  table.body td.small-offset-6,
+  table.body th.small-offset-6 {
+    margin-left: 50% !important;
+    Margin-left: 50% !important;
+  }
+
+  table.body td.small-offset-7,
+  table.body th.small-offset-7 {
+    margin-left: 58.33333% !important;
+    Margin-left: 58.33333% !important;
+  }
+
+  table.body td.small-offset-8,
+  table.body th.small-offset-8 {
+    margin-left: 66.66667% !important;
+    Margin-left: 66.66667% !important;
+  }
+
+  table.body td.small-offset-9,
+  table.body th.small-offset-9 {
+    margin-left: 75% !important;
+    Margin-left: 75% !important;
+  }
+
+  table.body td.small-offset-10,
+  table.body th.small-offset-10 {
+    margin-left: 83.33333% !important;
+    Margin-left: 83.33333% !important;
+  }
+
+  table.body td.small-offset-11,
+  table.body th.small-offset-11 {
+    margin-left: 91.66667% !important;
+    Margin-left: 91.66667% !important;
+  }
+
+  table.body table.columns td.expander,
+  table.body table.columns th.expander {
+    display: none !important;
+  }
+
+  table.body .right-text-pad,
+  table.body .text-pad-right {
+    padding-left: 12px !important;
+  }
+
+  table.body .left-text-pad,
+  table.body .text-pad-left {
+    padding-right: 12px !important;
+  }
+
+  table.menu {
+    width: 100% !important;
+  }
+
+  table.menu td,
+  table.menu th {
+    width: auto !important;
+    display: inline-block !important;
+  }
+
+  table.menu.vertical td,
+  table.menu.vertical th,
+  table.menu.small-vertical td,
+  table.menu.small-vertical th {
+    display: block !important;
+  }
+
+  table.menu[align=3D"center"] {
+    width: auto !important;
+  }
+
+  table.button.small-expand,
+  table.button.small-expanded {
+    width: 100% !important;
+  }
+
+  table.button.small-expand table,
+  table.button.small-expanded table {
+    width: 100%;
+  }
+
+  table.button.small-expand table a,
+  table.button.small-expanded table a {
+    text-align: center !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  table.button.small-expand center,
+  table.button.small-expanded center {
+    min-width: 0;
+  }
+}
+
+@media (min-resolution: 1dpi) {
+  body[data-outlook-cycle] .main-container > table {
+    width: 640px;
+  }
+
+  body[data-outlook-cycle] .container-wide .main-container > table {
+    width: 888px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .outer-wrapper > tbody > tr > .wrapper-inner,
+  table.body .columns,
+  table.body .column {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  .main-container > .float-center {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 888px) {
+  body.container-wide .main-container > table {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  table.button.secondary a {
+    font-size: 16px !important;
+    line-height: 22px !important;
+  }
+
+  .header-right-column table.button table td a {
+    font-size: 13px !important;
+    line-height: 1 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-table th:first-child {
+    padding-bottom: 0px !important;
+    mso-padding-bottom-alt: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-table td,
+  .section .card-table th:last-child {
+    padding-top: 0px !important;
+    mso-padding-top-alt: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-table.mobile-padding td {
+    padding-top: 8px !important;
+    mso-padding-top-alt: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-table tr.border-top td,
+  .section .card-table tr.border-top th:last-child {
+    border: none !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-table.no-stack tr.border-top td,
+  .section .card-table.no-stack tr.border-top th {
+    border-top: 1px solid #dedede !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-table.no-stack th,
+  .section .card-table.no-stack td {
+    padding-top: 8px !important;
+    mso-padding-top-alt: 8px !important;
+    padding-bottom: 8px !important;
+    mso-padding-bottom-alt: 8px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-row .columns.first {
+    padding-bottom: 0px !important;
+    mso-padding-bottom-alt: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .section .card-row .columns.last {
+    padding-top: 0px !important;
+    mso-padding-top-alt: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .header-section .stack-for-small th {
+    display: block;
+    width: 100% !important;
+  }
+
+  .header-section .stack-for-small .header-right-column {
+    padding-bottom: 0 !important;
+    padding-top: 24px !important;
+  }
+
+  .header-section .stack-for-small .header-right-column,
+  .header-section .stack-for-small .header-right-column p {
+    text-align: left !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .logo-microsoft-azure {
+    max-height: 21px;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .logo-microsoft-viva {
+    max-height: 21px;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .logo-microsoft-dynamic365 {
+    max-height: 21px;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .list-row .columns.first,
+  .list-row .list-items {
+    padding-bottom: 0 !important;
+    mso-padding-bottom-alt: 0 !important;
+  }
+
+  .list-row .columns.last,
+  .list-row .list-items {
+    padding-top: 0 !important;
+    mso-padding-top-alt: 0 !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .number-bar .interior-bar td {
+    padding-top: 0px !important;
+    mso-padding-top-alt: 0px !important;
+    padding-bottom: 0px !important;
+    mso-padding-bottom-alt: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .small-display-block {
+    display: block !important;
+  }
+
+  .small-text-medium {
+    font-size: 18px !important;
+  }
+
+  .small-text-left {
+    text-align: left !important;
+  }
+
+  .small-bottom-padding-8 {
+    padding-bottom: 8px !important;
+    mso-padding-bottom-alt: 8px !important;
+  }
+
+  .small-top-padding-0 {
+    padding-top: 0 !important;
+    mso-padding-top-alt: 0 !important;
+  }
+
+  .video-container img {
+    margin-bottom: 10px;
+    Margin-bottom: 10px;
+    mso-margin-bottom-alt: 10px;
+  }
+
+  .video-container .video-thumbnail img {
+    max-width: 580px;
+    width: 300px;
+  }
+
+  .list-items p {
+    text-align: left !important;
+    font-size: 20px;
+  }
+
+  .list-items p,
+  .list-items img {
+    line-height: 13px !important;
+    mso-line-height-alt: 13px;
+    margin-bottom: 8px;
+    Margin-bottom: 8px;
+    mso-margin-bottom-alt: 8px;
+    text-align: left;
+  }
+
+  .list-items img {
+    vertical-align: middle !important;
+    margin-top: 5px !important;
+  }
+
+  .list-items.bullet-small th img {
+    padding-top: 0;
+    mso-padding-top-alt: 0;
+  }
+
+  table.body {
+    min-width: 320px !important;
+  }
+
+  table.body .main-container {
+    padding: 0 !important;
+  }
+
+  table.body .main-container > table.container {
+    min-width: 300px !important;
+  }
+
+  table.body table.container {
+    width: 100% !important;
+  }
+
+  .header-section img {
+    height: auto !important;
+  }
+
+  .header-section .small-6,
+  .header-section .large-3,
+  .header-section .large-6 {
+    margin-top: 0px;
+    Margin-top: 0px;
+    mso-margin-top-alt: 0px;
+    margin-bottom: 0px;
+    Margin-bottom: 0px;
+    mso-margin-bottom-alt: 0px;
+  }
+
+  .header-section .heading-container {
+    margin-bottom: 0px;
+    Margin-bottom: 0px;
+    mso-margin-bottom-alt: 0px;
+  }
+
+  .header-section .heading-container p {
+    font-family: Segoe UI, SegoeUI, Roboto, "Helvetica Neue", Arial, sans-s=
+erif;
+  }
+
+  .header-section p.amount-title {
+    line-height: 16px;
+    mso-line-height-alt: 16px;
+    font-size: 12px !important;
+    word-wrap: break-word !important;
+    margin: 0 15px 10px 15px;
+    mso-margin-alt: 0 15px 10px 15px;
+    padding-top: 0 !important;
+  }
+
+  .header-section p.amount-value {
+    font-size: 24px;
+    line-height: 18px;
+    mso-line-height-alt: 18px;
+    margin: 0 15px 10px 15px;
+    mso-margin-alt: 0 15px 10px 15px;
+    padding: 0;
+  }
+
+  .section .columns {
+    padding-top: 0px;
+    mso-padding-top-alt: 0px;
+    padding-bottom: 0px;
+    mso-padding-bottom-alt: 0px;
+  }
+
+  .section .show-for-small {
+    display: block !important;
+    visibility: visible !important;
+    height: auto !important;
+    mso-height-alt: auto !important;
+    max-height: none !important;
+    mso-max-height-alt: none !important;
+    mso-hide: none !important;
+    overflow: visible !important;
+  }
+
+  table.footer-template p {
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+
+  .wrapper.wrapper-inner-540-large .wrapper-inner .container {
+    width: 100%;
+  }
+
+  .wrapper.wrapper-inner-20 .wrapper-inner {
+    padding-left: 0px !important;
+    mso-padding-left-alt: 0px !important;
+    padding-right: 20px !important;
+    mso-padding-right-alt: 20px !important;
+  }
+
+  .no-pad-for-small table th {
+    padding-left: 0px !important;
+    mso-padding-left-alt: 0px !important;
+    padding-right: 0px !important;
+    mso-padding-right-alt: 0px !important;
+  }
+
+  .large-pad-left table th {
+    padding-left: 0px !important;
+    mso-padding-left-alt: 0px !important;
+  }
+
+  .large-pad-right table th {
+    padding-right: 0px !important;
+    mso-padding-right-alt: 0px !important;
+  }
+
+  .max-width img {
+    height: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 888px) {
+  .max-width img {
+    height: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .button {
+    min-width: 132px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .standard-table td {
+    padding-bottom: 5px !important;
+    mso-padding-bottom-alt: 5px !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .table-default.table-heading-rows,
+  .table-default.table-heading-rows-loop {
+    display: table !important;
+  }
+
+  .table-default.table-heading-rows th,
+  .table-default.table-heading-rows td,
+  .table-default.table-heading-rows-loop th,
+  .table-default.table-heading-rows-loop td {
+    padding: 0 !important;
+    mso-padding-alt: 0 !important;
+    display: block;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-top: 6px !important;
+  }
+
+  .table-default.table-heading-rows td,
+  .table-default.table-heading-rows-loop td {
+    border-top: none !important;
+    padding-bottom: 6px !important;
+    padding-top: none !important;
+  }
+
+  .table-default.table-heading-rows td.wrap-word,
+  .table-default.table-heading-rows .code-block td.wrapper-inner,
+  .code-block .table-default.table-heading-rows td.wrapper-inner,
+  .table-default.table-heading-rows .code-block-azns td.wrapper-inner,
+  .code-block-azns .table-default.table-heading-rows td.wrapper-inner,
+  .table-default.table-heading-rows-loop td.wrap-word,
+  .table-default.table-heading-rows-loop .code-block td.wrapper-inner,
+  .code-block .table-default.table-heading-rows-loop td.wrapper-inner,
+  .table-default.table-heading-rows-loop .code-block-azns td.wrapper-inner,
+  .code-block-azns .table-default.table-heading-rows-loop td.wrapper-inner =
+{
+    display: block !important;
+  }
+
+  .table-default.table-heading-rows th,
+  .table-default.table-heading-rows-loop th {
+    width: 100% !important;
+    padding-bottom: none !important;
+    padding-top: 6px !important;
+  }
+
+  .table-default.table-heading-rows.no-stack td,
+  .table-default.table-heading-rows-loop.no-stack td {
+    padding-left: 12px !important;
+  }
+
+  .table-default.table-heading-rows.no-stack td.wrap-word,
+  .table-default.table-heading-rows.no-stack .code-block td.wrapper-inner,
+  .code-block .table-default.table-heading-rows.no-stack td.wrapper-inner,
+  .table-default.table-heading-rows.no-stack .code-block-azns td.wrapper-in=
+ner,
+  .code-block-azns .table-default.table-heading-rows.no-stack td.wrapper-in=
+ner,
+  .table-default.table-heading-rows-loop.no-stack td.wrap-word,
+  .table-default.table-heading-rows-loop.no-stack .code-block td.wrapper-in=
+ner,
+  .code-block .table-default.table-heading-rows-loop.no-stack td.wrapper-in=
+ner,
+  .table-default.table-heading-rows-loop.no-stack .code-block-azns td.wrapp=
+er-inner,
+  .code-block-azns .table-default.table-heading-rows-loop.no-stack td.wrapp=
+er-inner {
+    display: table-cell;
+  }
+
+  .table-default.table-heading-rows.no-stack th,
+  .table-default.table-heading-rows-loop.no-stack th {
+    width: 1% !important;
+    padding-right: 12px !important;
+  }
+
+  .table-default.table-heading-rows.no-stack:first-child th,
+  .table-default.table-heading-rows.no-stack:first-child td,
+  .table-default.table-heading-rows.no-stack .table-heading-rows-loop:first=
+-child th,
+  .table-default.table-heading-rows.no-stack .table-heading-rows-loop:first=
+-child td,
+  .table-default.table-heading-rows-loop.no-stack:first-child th,
+  .table-default.table-heading-rows-loop.no-stack:first-child td,
+  .table-default.table-heading-rows-loop.no-stack .table-heading-rows-loop:=
+first-child th,
+  .table-default.table-heading-rows-loop.no-stack .table-heading-rows-loop:=
+first-child td {
+    border-top: none !important;
+  }
+
+  .table-default.table-heading-rows.no-stack th,
+  .table-default.table-heading-rows.no-stack td,
+  .table-default.table-heading-rows-loop.no-stack th,
+  .table-default.table-heading-rows-loop.no-stack td {
+    display: table-cell !important;
+    border-top: solid 1px #dedede !important;
+    padding-top: 8px !important;
+    mso-padding-top-alt: 8px !important;
+    padding-bottom: 8px !important;
+    mso-padding-bottom-alt: 8px !important;
+  }
+
+  .table-default.table-heading-rows.no-stack.table-heading-rows-loop th,
+  .table-default.table-heading-rows.no-stack.table-heading-rows-loop td,
+  .table-default.table-heading-rows-loop.no-stack.table-heading-rows-loop t=
+h,
+  .table-default.table-heading-rows-loop.no-stack.table-heading-rows-loop t=
+d {
+    border-top: none !important;
+  }
+
+  .table-default.table-heading-rows.no-stack.table-heading-rows-loop .table=
+-row-loop-start:first-child th,
+  .table-default.table-heading-rows.no-stack.table-heading-rows-loop .table=
+-row-loop-start:first-child td,
+  .table-default.table-heading-rows-loop.no-stack.table-heading-rows-loop .=
+table-row-loop-start:first-child th,
+  .table-default.table-heading-rows-loop.no-stack.table-heading-rows-loop .=
+table-row-loop-start:first-child td {
+    border-top: none !important;
+  }
+
+  .table-default.table-heading-rows.no-stack.table-heading-rows-loop .table=
+-row-loop-start th,
+  .table-default.table-heading-rows.no-stack.table-heading-rows-loop .table=
+-row-loop-start td,
+  .table-default.table-heading-rows-loop.no-stack.table-heading-rows-loop .=
+table-row-loop-start th,
+  .table-default.table-heading-rows-loop.no-stack.table-heading-rows-loop .=
+table-row-loop-start td {
+    border-top: solid 1px #dedede !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .power-bi.container-mooncake .header-section img {
+    height: auto !important;
+    max-height: 16px;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .synapse-reflex.container-mooncake .header-section img {
+    height: auto !important;
+    max-height: 16px;
+    max-width: 100%;
+  }
+}</style>
+
+    <!--[if gte (gte mso 9)|(IE)]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <style>
+            li {
+                text-align:-webkit-match-parent;
+                display:list-item;
+                text-indent: -1em;
+            }
+
+            .alert span,
+            .arrow-link,
+            b,
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            .heading-group th,
+            strong,
+            .card-table th,
+            .header-right-column,
+            .styled-table th,
+            .styled-table td,
+            .text-heading1,
+            .text-heading2,
+            .text-heading3,
+            .text-heading4,
+            .text-heading5,
+            .text-bold,
+            table.button a,
+            .wrapper-inner a,
+            .wrapper-inner p {
+                font-weight: 400 !important;
+            }
+        </style>
+    <![endif]-->
+</head>
+
+
+
+<body class=3D" ltr " dir=3D"ltr" style=3D"width: 100%;min-width: 100%;-web=
+kit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;padding: 0;-moz-box-s=
+izing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;col=
+or: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&qu=
+ot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-right: 0;pad=
+ding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;l=
+ine-height: 20px">
+        <div class=3D"preheader" style=3D"display: none;visibility: hidden;=
+opacity: 0;color: #f4f4f4;height: 0;width: 0;line-height: 1px;font-size: 1p=
+x;max-height: 0;max-width: 0;overflow: hidden;mso-hide: all">Entre para exa=
+minar a sua =C3=BAltima fatura.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;</div>
+    <table role=3D"presentation" class=3D"body " data-made-with-foundation=3D=
+"data-made-with-foundation" style=3D"border-spacing: 0;border-collapse: col=
+lapse;vertical-align: top;mso-table-lspace: -1pt;mso-table-rspace: -1pt;bac=
+kground: #ffffff;height: 100%;width: 100%;color: #11100f;font-family: Segoe=
+ UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-we=
+ight: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0=
+;Margin: 0;text-align: left;font-size: 14px;line-height: 20px">
+        <tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom:=
+ 0;padding-left: 0;vertical-align: top;text-align: left">
+            <td class=3D"float-center" align=3D"center" valign=3D"top" styl=
+e=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens=
+: auto;border-collapse: collapse;vertical-align: top;color: #11100f;font-fa=
+mily: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-se=
+rif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;padd=
+ing-left: 0;font-size: 14px;line-height: 20px;Margin: 0 auto;float: none;te=
+xt-align: center">
+                <center class=3D"main-container" style=3D"width: 100%;min-w=
+idth: 640px">
+                    <table role=3D"presentation" bgcolor=3D"#ffffff" align=3D=
+"center" class=3D"float-center" style=3D"border-spacing: 0;border-collapse:=
+ collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0=
+;vertical-align: top;mso-table-lspace: -1pt;mso-table-rspace: -1pt;Margin: =
+0 auto;float: none;text-align: center">
+                        <tbody><tr style=3D"padding-top: 0;padding-right: 0=
+;padding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left">
+                            <td style=3D"word-wrap: break-word;-webkit-hyph=
+ens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertic=
+al-align: top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;=
+Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;pad=
+ding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;=
+font-size: 14px;line-height: 20px">
+                               =20
+
+
+<table role=3D"presentation" dir=3D"ltr" align=3D"center" class=3D"containe=
+r header-container section" style=3D"border-spacing: 0;border-collapse: col=
+lapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;ver=
+tical-align: top;mso-table-lspace: -1pt;mso-table-rspace: -1pt;background: =
+#ffffff;width: 640px;Margin: 0 auto;text-align: inherit"><tbody><tr style=3D=
+"padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical=
+-align: top;text-align: left"><td style=3D"word-wrap: break-word;-webkit-hy=
+phens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vert=
+ical-align: top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quo=
+t;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;p=
+adding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: lef=
+t;font-size: 14px;line-height: 20px">
+    <table role=3D"presentation" align=3D"left" class=3D"wrapper outer-wrap=
+per text-left" style=3D"border-spacing: 0;border-collapse: collapse;padding=
+-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: =
+top;mso-table-lspace: -1pt;mso-table-rspace: -1pt;width: 100%;text-align: l=
+eft"><tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;=
+padding-left: 0;vertical-align: top;text-align: left"><td class=3D"wrapper-=
+inner" style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: a=
+uto;hyphens: auto;border-collapse: collapse;vertical-align: top;color: #111=
+00f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Ari=
+al, sans-serif;font-weight: 400;padding-right: 0;padding-left: 0;Margin: 0;=
+text-align: left;font-size: 14px;line-height: 20px;padding-top: 0;mso-paddi=
+ng-top-alt: 0;padding-bottom: 0;mso-padding-bottom-alt: 0">
+        <table role=3D"presentation" align=3D"left" class=3D"row header-sec=
+tion text-left" style=3D"border-spacing: 0;border-collapse: collapse;paddin=
+g-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align:=
+ top;mso-table-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;p=
+osition: relative;text-align: left;display: table"><tbody><tr style=3D"padd=
+ing-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-alig=
+n: top;text-align: left">
+            <th class=3D"text-left small-12 large-12 columns first last" al=
+ign=3D"left" style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyph=
+ens: auto;hyphens: auto;border-collapse: collapse;vertical-align: top;color=
+: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot=
+;, Arial, sans-serif;font-weight: 400;font-size: 14px;line-height: 20px;Mar=
+gin: 0 auto;width: 616px;text-align: left;padding-left: 24px;padding-right:=
+ 24px;padding-top: 24px;mso-padding-top-alt: 24px;padding-bottom: 24px;mso-=
+padding-bottom-alt: 24px"><table role=3D"presentation" style=3D"border-spac=
+ing: 0;border-collapse: collapse;padding-top: 0;padding-right: 0;padding-bo=
+ttom: 0;padding-left: 0;vertical-align: top;text-align: left;mso-table-lspa=
+ce: -1pt;mso-table-rspace: -1pt;width: 100%"><tbody><tr style=3D"padding-to=
+p: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top=
+;text-align: left"><th style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px">
+                <img height=3D"20" width=3D"auto" src=3D"https://images.eco=
+mm.microsoft.com/cdn/mediahandler/azure-emails-templates/production/shared/=
+images/templates/shared/microsoft-2x.png" alt=3D"Microsoft" title=3D"Micros=
+oft" class=3D"logo-microsoft text-left" style=3D"outline: none;text-decorat=
+ion: none;-ms-interpolation-mode: bicubic;max-width: 100%;clear: both;displ=
+ay: block;height: 20px;max-height: 20px;width: auto">
+            </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+        </tr></tbody></table>
+    </td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+<table role=3D"presentation" align=3D"center" class=3D"container template-c=
+ontainer section" style=3D"border-spacing: 0;border-collapse: collapse;padd=
+ing-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-alig=
+n: top;mso-table-lspace: -1pt;mso-table-rspace: -1pt;background: #ffffff;wi=
+dth: 640px;Margin: 0 auto;text-align: inherit"><tbody><tr style=3D"padding-=
+top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: t=
+op;text-align: left"><td style=3D"word-wrap: break-word;-webkit-hyphens: au=
+to;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-alig=
+n: top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helveti=
+ca Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-ri=
+ght: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-si=
+ze: 14px;line-height: 20px">
+    <table role=3D"presentation" class=3D"wrapper outer-wrapper divider-lig=
+ht" align=3D"center" style=3D"border-spacing: 0;border-collapse: collapse;p=
+adding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-a=
+lign: top;text-align: left;mso-table-lspace: -1pt;mso-table-rspace: -1pt;wi=
+dth: 100%;border-bottom: 1px solid #eaebec"><tbody><tr style=3D"padding-top=
+: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;=
+text-align: left"><td class=3D"wrapper-inner" style=3D"word-wrap: break-wor=
+d;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse: c=
+ollapse;vertical-align: top;color: #11100f;font-family: Segoe UI, SegoeUI, =
+Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;padd=
+ing-right: 0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;lin=
+e-height: 20px;padding-bottom: 12px;mso-padding-bottom-alt: 12px;padding-to=
+p: 6px;mso-padding-top-alt: 6px">
+        <center style=3D"width: 100%;min-width: 640px">
+            <table role=3D"presentation" align=3D"center" class=3D"row floa=
+t-center" style=3D"border-spacing: 0;border-collapse: collapse;padding-top:=
+ 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;m=
+so-table-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;positio=
+n: relative;Margin: 0 auto;float: none;text-align: center;display: table"><=
+tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;paddin=
+g-left: 0;vertical-align: top;text-align: left">
+                <th class=3D"small-12 large-12 columns first last" style=3D=
+"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: au=
+to;border-collapse: collapse;vertical-align: top;color: #11100f;font-family=
+: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;=
+font-weight: 400;text-align: left;font-size: 14px;line-height: 20px;Margin:=
+ 0 auto;width: 616px;padding-bottom: 12px;mso-padding-bottom-alt: 12px;padd=
+ing-left: 24px;padding-right: 24px;padding-top: 6px;mso-padding-top-alt: 6p=
+x"><table role=3D"presentation" style=3D"border-spacing: 0;border-collapse:=
+ collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0=
+;vertical-align: top;text-align: left;mso-table-lspace: -1pt;mso-table-rspa=
+ce: -1pt;width: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0;p=
+adding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left"><th =
+style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyp=
+hens: auto;border-collapse: collapse;vertical-align: top;color: #11100f;fon=
+t-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, san=
+s-serif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;=
+padding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 20p=
+x">
+                    <h1 style=3D"padding-top: 0;padding-right: 0;padding-bo=
+ttom: 0;padding-left: 0;Margin: 0;text-align: left;color: inherit;Margin-bo=
+ttom: 16px;-webkit-hyphens: none;-moz-hyphens: none;-ms-hyphens: none;hyphe=
+ns: none;letter-spacing: -.01em;font-family: Segoe UI Semibold, SegoeUISemi=
+bold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-se=
+rif;font-weight: 600;font-size: 28px;line-height: 36px;mso-line-height-alt:=
+ 36px;word-wrap: normal;-webkit-text-size-adjust: none">
+Examine sua fatura da Microsoft                    </h1>
+                </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+            </tr></tbody></table>
+            <table role=3D"presentation" align=3D"center" class=3D"row floa=
+t-center" style=3D"border-spacing: 0;border-collapse: collapse;padding-top:=
+ 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;m=
+so-table-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;positio=
+n: relative;Margin: 0 auto;float: none;text-align: center;display: table"><=
+tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;paddin=
+g-left: 0;vertical-align: top;text-align: left">
+                <th class=3D"small-12 large-12 columns first last" style=3D=
+"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: au=
+to;border-collapse: collapse;vertical-align: top;color: #11100f;font-family=
+: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;=
+font-weight: 400;text-align: left;font-size: 14px;line-height: 20px;Margin:=
+ 0 auto;width: 616px;padding-top: 12px;mso-padding-top-alt: 12px;padding-bo=
+ttom: 12px;mso-padding-bottom-alt: 12px;padding-left: 24px;padding-right: 2=
+4px"><table role=3D"presentation" style=3D"border-spacing: 0;border-collaps=
+e: collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left:=
+ 0;vertical-align: top;text-align: left;mso-table-lspace: -1pt;mso-table-rs=
+pace: -1pt;width: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0=
+;padding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left"><t=
+h style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;h=
+yphens: auto;border-collapse: collapse;vertical-align: top;color: #11100f;f=
+ont-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, s=
+ans-serif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: =
+0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 2=
+0px">
+                        <p style=3D"color: #11100f;font-family: Segoe UI, S=
+egoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: =
+400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margi=
+n: 0;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt=
+: 22px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px=
+;mso-margin-bottom-alt: 12px">Seu demonstrativo est=C3=A1 pronto para ser e=
+xaminado. Entre para v=C3=AA-la. Se o pagamento j=C3=A1 foi efetuado, desco=
+nsidere este email.</p>
+                    <p style=3D"color: #11100f;font-family: Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;=
+padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0=
+;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt: 22=
+px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 0;mso-ma=
+rgin-bottom-alt: 0">Se pagar com cart=C3=A3o de cr=C3=A9dito, cobraremos au=
+tomaticamente no cart=C3=A3o que temos registrado dentro de dois dias a par=
+tir da data de cobran=C3=A7a.</p>
+                </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+            </tr></tbody></table>
+            <table role=3D"presentation" align=3D"center" class=3D"row floa=
+t-center" style=3D"border-spacing: 0;border-collapse: collapse;padding-top:=
+ 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;m=
+so-table-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;positio=
+n: relative;Margin: 0 auto;float: none;text-align: center;display: table"><=
+tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;paddin=
+g-left: 0;vertical-align: top;text-align: left">
+                <th class=3D"small-12 large-12 columns first last" style=3D=
+"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: au=
+to;border-collapse: collapse;vertical-align: top;color: #11100f;font-family=
+: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;=
+font-weight: 400;text-align: left;font-size: 14px;line-height: 20px;Margin:=
+ 0 auto;width: 616px;padding-top: 12px;mso-padding-top-alt: 12px;padding-bo=
+ttom: 12px;mso-padding-bottom-alt: 12px;padding-left: 24px;padding-right: 2=
+4px"><table role=3D"presentation" style=3D"border-spacing: 0;border-collaps=
+e: collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left:=
+ 0;vertical-align: top;text-align: left;mso-table-lspace: -1pt;mso-table-rs=
+pace: -1pt;width: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0=
+;padding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left"><t=
+h style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;h=
+yphens: auto;border-collapse: collapse;vertical-align: top;color: #11100f;f=
+ont-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, s=
+ans-serif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: =
+0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 2=
+0px">
+                    <p style=3D"color: #11100f;font-family: Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;=
+padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0=
+;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt: 22=
+px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px;mso=
+-margin-bottom-alt: 12px"><strong style=3D"font-family: Segoe UI Semibold, =
+SegoeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Ari=
+al, sans-serif;font-weight: 600">N=C3=BAmero da fatura:</strong> G114020907=
+</p>
+                    <p style=3D"color: #11100f;font-family: Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;=
+padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0=
+;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt: 22=
+px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px;mso=
+-margin-bottom-alt: 12px"><strong style=3D"font-family: Segoe UI Semibold, =
+SegoeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Ari=
+al, sans-serif;font-weight: 600">Valor:</strong> R$ 35,07 BRL</p>
+                    <p style=3D"color: #11100f;font-family: Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;=
+padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0=
+;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt: 22=
+px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px;mso=
+-margin-bottom-alt: 12px"><strong style=3D"font-family: Segoe UI Semibold, =
+SegoeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Ari=
+al, sans-serif;font-weight: 600">Per=C3=ADodo de cobran=C3=A7a: </strong> t=
+er=C3=A7a-feira, 16 de setembro de 2025 =E2=80=93 ter=C3=A7a-feira, 16 de s=
+etembro de 2025</p>
+                    <p style=3D"color: #11100f;font-family: Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;=
+padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0=
+;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt: 22=
+px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px;mso=
+-margin-bottom-alt: 12px"><strong style=3D"font-family: Segoe UI Semibold, =
+SegoeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Ari=
+al, sans-serif;font-weight: 600">Data de cobran=C3=A7a:</strong> quarta-fei=
+ra, 17 de setembro de 2025</p>
+                    <p style=3D"color: #11100f;font-family: Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;=
+padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0=
+;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt: 22=
+px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 0;mso-ma=
+rgin-bottom-alt: 0"><strong style=3D"font-family: Segoe UI Semibold, SegoeU=
+ISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sa=
+ns-serif;font-weight: 600">Data de vencimento:</strong> quarta-feira, 17 de=
+ setembro de 2025</p>
+                </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+            </tr></tbody></table>
+            <table role=3D"presentation" align=3D"center" class=3D"row floa=
+t-center" style=3D"border-spacing: 0;border-collapse: collapse;padding-top:=
+ 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;m=
+so-table-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;positio=
+n: relative;Margin: 0 auto;float: none;text-align: center;display: table"><=
+tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;paddin=
+g-left: 0;vertical-align: top;text-align: left">
+                <th class=3D"small-12 large-12 columns first last" style=3D=
+"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: au=
+to;border-collapse: collapse;vertical-align: top;color: #11100f;font-family=
+: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;=
+font-weight: 400;text-align: left;font-size: 14px;line-height: 20px;Margin:=
+ 0 auto;width: 616px;padding-top: 12px;mso-padding-top-alt: 12px;padding-bo=
+ttom: 12px;mso-padding-bottom-alt: 12px;padding-left: 24px;padding-right: 2=
+4px"><table role=3D"presentation" style=3D"border-spacing: 0;border-collaps=
+e: collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left:=
+ 0;vertical-align: top;text-align: left;mso-table-lspace: -1pt;mso-table-rs=
+pace: -1pt;width: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0=
+;padding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left"><t=
+h style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;h=
+yphens: auto;border-collapse: collapse;vertical-align: top;color: #11100f;f=
+ont-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, s=
+ans-serif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: =
+0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 2=
+0px">
+                        <table role=3D"presentation" class=3D"button" style=
+=3D"border-spacing: 0;border-collapse: collapse;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left=
+;mso-table-lspace: -1pt;mso-table-rspace: -1pt;Margin: 0;width: auto"><tbod=
+y><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;padding-le=
+ft: 0;vertical-align: top;text-align: left"><td style=3D"word-wrap: break-w=
+ord;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse:=
+ collapse;vertical-align: top;color: #11100f;font-family: Segoe UI, SegoeUI=
+, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;pa=
+dding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0;t=
+ext-align: left;font-size: 14px;line-height: 20px"><table role=3D"presentat=
+ion" style=3D"border-spacing: 0;border-collapse: collapse;padding-top: 0;pa=
+dding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;text-a=
+lign: left;mso-table-lspace: -1pt;mso-table-rspace: -1pt;width: 100%"><tbod=
+y><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;padding-le=
+ft: 0;vertical-align: top;text-align: left"><td style=3D"word-wrap: break-w=
+ord;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse:=
+ collapse;vertical-align: top;font-family: Segoe UI, SegoeUI, Roboto, &quot=
+;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;pa=
+dding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0;font-size: 14px;=
+line-height: 20px;color: #ffffff;background: #0078d4;border: 0;border-radiu=
+s: 2px;text-align: center"><a href=3D"https://nam.safelink.emails.azure.net=
+/redirect/?destination=3Dhttps%3A%2F%2Fadmin.microsoft.com%2FAdminportal%2F=
+Home%3Fsource%3Dtcemail%23%2Fbilloverview%2Finvoice-list%2FG114020907&amp;p=
+=3DbT1lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmcz0wMDAwMDAwMC0wMDAw=
+LTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAmdT1hZW8mbD1Ib21l" style=3D"text-underline: =
+none;mso-text-underline: none;font-size: 16px;color: #ffffff;text-decoratio=
+n: none;text-align: left;display: inline-block;padding: 12px 16px 12px 16px=
+;border: 0 solid #0078d4;border-radius: 2px;line-height: 1;mso-border-alt: =
+8px solid #0078d4;mso-padding-alt: 0;font-family: Segoe UI Semibold, SegoeU=
+ISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sa=
+ns-serif;font-weight: 600">Veja a fatura &gt;</a></td></tr></tbody></table>=
+</td></tr></tbody></table>
+                </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+            </tr></tbody></table>
+            <table role=3D"presentation" align=3D"center" class=3D"row floa=
+t-center" style=3D"border-spacing: 0;border-collapse: collapse;padding-top:=
+ 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;m=
+so-table-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;positio=
+n: relative;Margin: 0 auto;float: none;text-align: center;display: table"><=
+tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;paddin=
+g-left: 0;vertical-align: top;text-align: left">
+                <th class=3D"small-12 large-12 columns first last" style=3D=
+"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: au=
+to;border-collapse: collapse;vertical-align: top;color: #11100f;font-family=
+: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;=
+font-weight: 400;text-align: left;font-size: 14px;line-height: 20px;Margin:=
+ 0 auto;width: 616px;padding-top: 12px;mso-padding-top-alt: 12px;padding-bo=
+ttom: 12px;mso-padding-bottom-alt: 12px;padding-left: 24px;padding-right: 2=
+4px"><table role=3D"presentation" style=3D"border-spacing: 0;border-collaps=
+e: collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left:=
+ 0;vertical-align: top;text-align: left;mso-table-lspace: -1pt;mso-table-rs=
+pace: -1pt;width: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0=
+;padding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left"><t=
+h style=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;h=
+yphens: auto;border-collapse: collapse;vertical-align: top;color: #11100f;f=
+ont-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, s=
+ans-serif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: =
+0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 2=
+0px">
+                    <h2 style=3D"padding-top: 0;padding-right: 0;padding-bo=
+ttom: 0;padding-left: 0;Margin: 0;text-align: left;color: inherit;Margin-bo=
+ttom: 16px;font-family: Segoe UI Semibold, SegoeUISemibold, Segoe UI, Segoe=
+UI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 600;=
+font-size: 24px;line-height: 32px;mso-line-height-alt: 32px;word-wrap: norm=
+al;-webkit-text-size-adjust: none">Recursos adicionais</h2>
+                    <ul class=3D"list-items" style=3D"Margin-bottom: 15px;m=
+so-margin-bottom-alt: 15px;Margin-left: 17px;mso-margin-left-alt: 17px;padd=
+ing: 0px;mso-padding-alt: 0px;-webkit-padding-start: 0px">
+                        <li style=3D"font-size: 16px;line-height: 22px;mso-=
+line-height-alt: 22px;Margin-top: 4px;mso-margin-top-alt: 4px;Margin-bottom=
+: 4px;mso-margin-bottom-alt: 4px;Margin-left: 0px;mso-margin-left-alt: 0px;=
+Margin-right: 0px;mso-margin-right-alt: 0px;text-align: -webkit-match-paren=
+t;display: list-item"><a href=3D"https://nam.safelink.emails.azure.net/redi=
+rect/?destination=3Dhttps%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fmicrosoft-36=
+5%2Fcommerce%2Fbilling-and-payments%2Funderstand-your-invoice2&amp;p=3DbT1l=
+NzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmcz0wMDAwMDAwMC0wMDAwLTAwMDA=
+tMDAwMC0wMDAwMDAwMDAwMDAmdT1hZW8mbD11bmRlcnN0YW5kLXlvdXItaW52b2ljZTI%3D" st=
+yle=3D"color: #0078d4;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helveti=
+ca Neue&quot;, Arial, sans-serif;font-weight: 400;padding: 0;text-align: le=
+ft;line-height: 20px;text-decoration: none;text-underline: none;mso-text-un=
+derline: none">Saiba mais sobre sua fatura</a></li>
+                        <li style=3D"font-size: 16px;line-height: 22px;mso-=
+line-height-alt: 22px;Margin-top: 4px;mso-margin-top-alt: 4px;Margin-bottom=
+: 4px;mso-margin-bottom-alt: 4px;Margin-left: 0px;mso-margin-left-alt: 0px;=
+Margin-right: 0px;mso-margin-right-alt: 0px;text-align: -webkit-match-paren=
+t;display: list-item"><a href=3D"https://nam.safelink.emails.azure.net/redi=
+rect/?destination=3Dhttps%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fmicrosoft-36=
+5%2Fcommerce%2Fbilling-and-payments%2Fview-your-bill-or-invoice&amp;p=3DbT1=
+lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmcz0wMDAwMDAwMC0wMDAwLTAwMD=
+AtMDAwMC0wMDAwMDAwMDAwMDAmdT1hZW8mbD12aWV3LXlvdXItYmlsbC1vci1pbnZvaWNl" sty=
+le=3D"color: #0078d4;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetic=
+a Neue&quot;, Arial, sans-serif;font-weight: 400;padding: 0;text-align: lef=
+t;line-height: 20px;text-decoration: none;text-underline: none;mso-text-und=
+erline: none">Saiba como navegar nas suas faturas</a></li>
+                        <li style=3D"font-size: 16px;line-height: 22px;mso-=
+line-height-alt: 22px;Margin-top: 4px;mso-margin-top-alt: 4px;Margin-bottom=
+: 4px;mso-margin-bottom-alt: 4px;Margin-left: 0px;mso-margin-left-alt: 0px;=
+Margin-right: 0px;mso-margin-right-alt: 0px;text-align: -webkit-match-paren=
+t;display: list-item"><a href=3D"https://nam.safelink.emails.azure.net/redi=
+rect/?destination=3Dhttps%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fmicrosoft-36=
+5%2Fcommerce%2Fbilling-and-payments%2Fview-your-bill-or-invoice%23receive-a=
+-copy-of-your-billing-statement-in-email&amp;p=3DbT1lNzMwMTNlNC1hNjZlLTRjOW=
+EtYjM0Yy1iOTdlYjE2ZDE4MzQmcz0wMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwM=
+DAmdT1hZW8mbD12aWV3LXlvdXItYmlsbC1vci1pbnZvaWNlXzI%3D" style=3D"color: #007=
+8d4;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Ari=
+al, sans-serif;font-weight: 400;padding: 0;text-align: left;line-height: 20=
+px;text-decoration: none;text-underline: none;mso-text-underline: none">Alt=
+ere a forma como voc=C3=AA recebe as faturas</a></li>
+                        <li style=3D"font-size: 16px;line-height: 22px;mso-=
+line-height-alt: 22px;Margin-top: 4px;mso-margin-top-alt: 4px;Margin-bottom=
+: 4px;mso-margin-bottom-alt: 4px;Margin-left: 0px;mso-margin-left-alt: 0px;=
+Margin-right: 0px;mso-margin-right-alt: 0px;text-align: -webkit-match-paren=
+t;display: list-item"><a href=3D"https://nam.safelink.emails.azure.net/redi=
+rect/?destination=3Dhttps%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Fmicrosoft-36=
+5%2Fcommerce%2Fbilling-and-payments%2Fpay-for-your-subscription&amp;p=3DbT1=
+lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmcz0wMDAwMDAwMC0wMDAwLTAwMD=
+AtMDAwMC0wMDAwMDAwMDAwMDAmdT1hZW8mbD1wYXktZm9yLXlvdXItc3Vic2NyaXB0aW9u" sty=
+le=3D"color: #0078d4;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetic=
+a Neue&quot;, Arial, sans-serif;font-weight: 400;padding: 0;text-align: lef=
+t;line-height: 20px;text-decoration: none;text-underline: none;mso-text-und=
+erline: none">Altere sua forma de pagamento</a></li>
+                    </ul>
+                </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+            </tr></tbody></table>
+        </center>
+    </td></tr></tbody></table>
+
+<table role=3D"presentation" class=3D"wrapper outer-wrapper divider-light-t=
+op" align=3D"center" style=3D"border-spacing: 0;border-collapse: collapse;p=
+adding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-a=
+lign: top;text-align: left;mso-table-lspace: -1pt;mso-table-rspace: -1pt;wi=
+dth: 100%;border-top: 1px solid #eaebec"><tbody><tr style=3D"padding-top: 0=
+;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;tex=
+t-align: left"><td class=3D"wrapper-inner" style=3D"word-wrap: break-word;-=
+webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-collapse: coll=
+apse;vertical-align: top;color: #11100f;font-family: Segoe UI, SegoeUI, Rob=
+oto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;padding=
+-right: 0;padding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-h=
+eight: 20px;padding-top: 12px;mso-padding-top-alt: 12px;padding-bottom: 12p=
+x;mso-padding-bottom-alt: 12px">
+    <center style=3D"width: 100%;min-width: 640px">
+        <table role=3D"presentation" align=3D"center" class=3D"row float-ce=
+nter" style=3D"border-spacing: 0;border-collapse: collapse;padding-top: 0;p=
+adding-right: 0;padding-bottom: 0;padding-left: 0;vertical-align: top;mso-t=
+able-lspace: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;position: r=
+elative;Margin: 0 auto;float: none;text-align: center;display: table"><tbod=
+y><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;padding-le=
+ft: 0;vertical-align: top;text-align: left">
+            <th class=3D"small-12 large-12 columns first last" style=3D"wor=
+d-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;b=
+order-collapse: collapse;vertical-align: top;color: #11100f;font-family: Se=
+goe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font=
+-weight: 400;text-align: left;font-size: 14px;line-height: 20px;Margin: 0 a=
+uto;width: 616px;padding-top: 12px;mso-padding-top-alt: 12px;padding-bottom=
+: 12px;mso-padding-bottom-alt: 12px;padding-left: 24px;padding-right: 24px"=
+><table role=3D"presentation" style=3D"border-spacing: 0;border-collapse: c=
+ollapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;v=
+ertical-align: top;text-align: left;mso-table-lspace: -1pt;mso-table-rspace=
+: -1pt;width: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0;pad=
+ding-bottom: 0;padding-left: 0;vertical-align: top;text-align: left"><th st=
+yle=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphe=
+ns: auto;border-collapse: collapse;vertical-align: top;color: #11100f;font-=
+family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-=
+serif;font-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;pa=
+dding-left: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 20px"=
+>
+                <h2 style=3D"padding-top: 0;padding-right: 0;padding-bottom=
+: 0;padding-left: 0;Margin: 0;text-align: left;color: inherit;Margin-bottom=
+: 16px;font-family: Segoe UI Semibold, SegoeUISemibold, Segoe UI, SegoeUI, =
+Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 600;font=
+-size: 24px;line-height: 32px;mso-line-height-alt: 32px;word-wrap: normal;-=
+webkit-text-size-adjust: none">Dados da conta</h2>
+                        <p style=3D"color: #11100f;font-family: Segoe UI, S=
+egoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: =
+400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margi=
+n: 0;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt=
+: 22px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px=
+;mso-margin-bottom-alt: 12px"><strong style=3D"font-family: Segoe UI Semibo=
+ld, SegoeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;,=
+ Arial, sans-serif;font-weight: 600">Nome da empresa:</strong> Medicore</p>
+                        <p style=3D"color: #11100f;font-family: Segoe UI, S=
+egoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: =
+400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margi=
+n: 0;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt=
+: 22px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 12px=
+;mso-margin-bottom-alt: 12px"><strong style=3D"font-family: Segoe UI Semibo=
+ld, SegoeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;,=
+ Arial, sans-serif;font-weight: 600">Nome:</strong> Medicore</p>
+                        <p style=3D"color: #11100f;font-family: Segoe UI, S=
+egoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: =
+400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margi=
+n: 0;text-align: left;font-size: 16px;line-height: 22px;mso-line-height-alt=
+: 22px;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bottom: 0;ms=
+o-margin-bottom-alt: 0"><strong style=3D"font-family: Segoe UI Semibold, Se=
+goeUISemibold, Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial=
+, sans-serif;font-weight: 600">Perfil de cobran=C3=A7a:</strong> Medicore</=
+p>
+            </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+        </tr></tbody></table>
+    </center>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+                                <table role=3D"presentation" dir=3D"ltr" al=
+ign=3D"center" class=3D"container footer-template" style=3D"border-spacing:=
+ 0;border-collapse: collapse;padding-top: 0;padding-right: 0;padding-bottom=
+: 0;padding-left: 0;vertical-align: top;mso-table-lspace: -1pt;mso-table-rs=
+pace: -1pt;background: #ffffff;width: 640px;Margin: 0 auto;text-align: inhe=
+rit"><tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;=
+padding-left: 0;vertical-align: top;text-align: left"><td style=3D"word-wra=
+p: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border=
+-collapse: collapse;vertical-align: top;color: #11100f;font-family: Segoe U=
+I, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weig=
+ht: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;M=
+argin: 0;text-align: left;font-size: 14px;line-height: 20px">
+                                    <table role=3D"presentation" class=3D"w=
+rapper outer-wrapper footer-wrapper" align=3D"center" style=3D"border-spaci=
+ng: 0;border-collapse: collapse;padding-top: 0;padding-right: 0;padding-bot=
+tom: 0;padding-left: 0;vertical-align: top;text-align: left;mso-table-lspac=
+e: -1pt;mso-table-rspace: -1pt;width: 100%;background-color: #F0F0F0"><tbod=
+y><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;padding-le=
+ft: 0;vertical-align: top;text-align: left"><td class=3D"wrapper-inner" sty=
+le=3D"word-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphen=
+s: auto;border-collapse: collapse;vertical-align: top;color: #11100f;font-f=
+amily: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-s=
+erif;font-weight: 400;padding-right: 0;padding-left: 0;Margin: 0;text-align=
+: left;font-size: 14px;line-height: 20px;padding-top: 12px;mso-padding-top-=
+alt: 12px;padding-bottom: 12px;mso-padding-bottom-alt: 12px">
+                                        <center style=3D"width: 100%;min-wi=
+dth: 640px">
+
+       =20
+
+<table role=3D"presentation" class=3D"row preFooter" style=3D"border-spacin=
+g: 0;border-collapse: collapse;padding-top: 0;padding-right: 0;padding-bott=
+om: 0;padding-left: 0;vertical-align: top;text-align: left;mso-table-lspace=
+: -1pt;mso-table-rspace: -1pt;padding: 0;width: 100%;position: relative;dis=
+play: table"><tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bo=
+ttom: 0;padding-left: 0;vertical-align: top;text-align: left">
+    <th class=3D"small-12 large-12 columns first last" style=3D"word-wrap: =
+break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-co=
+llapse: collapse;vertical-align: top;color: #11100f;font-family: Segoe UI, =
+SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight:=
+ 400;text-align: left;font-size: 14px;line-height: 20px;Margin: 0 auto;padd=
+ing-left: 24px;padding-right: 24px;padding-top: 12px;mso-padding-top-alt: 1=
+2px;padding-bottom: 12px;mso-padding-bottom-alt: 12px;width: auto"><table r=
+ole=3D"presentation" style=3D"border-spacing: 0;border-collapse: collapse;p=
+adding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-a=
+lign: top;text-align: left;mso-table-lspace: -1pt;mso-table-rspace: -1pt;wi=
+dth: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bott=
+om: 0;padding-left: 0;vertical-align: top;text-align: left"><th style=3D"wo=
+rd-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;=
+border-collapse: collapse;vertical-align: top;color: #11100f;font-family: S=
+egoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;fon=
+t-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-lef=
+t: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 20px">
+        <p style=3D"font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;word-wrap=
+: normal;-webkit-text-size-adjust: none;Margin-bottom: 0;mso-margin-bottom-=
+alt: 0;font-size: 12px;line-height: 16px;mso-line-height-alt: 16px;color: #=
+484644">
+            <span class=3D"margin-right-12" style=3D"Margin-right: 12px;mso=
+-margin-right-alt: 12px">Voc=C3=AA considerou este email =C3=BAtil? </span>
+            <a href=3D"https://nam.safelink.emails.azure.net/trackingfeedba=
+ck/?p=3DbT1lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmZj1Qb3NpdGl2ZSZ=
+iPXB0LWJyJmE9MTgvMDkvMjAyNSAwMjozODo0NSZ1PWFlbw%3D%3D" class=3D"margin-righ=
+t-12" style=3D"font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue=
+&quot;, Arial, sans-serif;font-weight: 400;padding: 0;text-align: left;line=
+-height: 20px;Margin-right: 12px;mso-margin-right-alt: 12px;color: #484644;=
+display: inline-block;text-decoration: underline;text-underline: single">Si=
+m</a>
+            <a href=3D"https://nam.safelink.emails.azure.net/trackingfeedba=
+ck/?p=3DbT1lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmZj1OZWdhdGl2ZSZ=
+iPXB0LWJyJmE9MTgvMDkvMjAyNSAwMjozODo0NSZ1PWFlbw%3D%3D" style=3D"font-family=
+: Segoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;=
+font-weight: 400;padding: 0;text-align: left;line-height: 20px;color: #4846=
+44;display: inline-block;text-decoration: underline;text-underline: single"=
+>N=C3=A3o</a>
+        </p>
+</th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+</tr></tbody></table>
+
+
+                                                                           =
+                =20
+                                           =20
+
+   =20
+<table role=3D"presentation" class=3D"row" style=3D"border-spacing: 0;borde=
+r-collapse: collapse;padding-top: 0;padding-right: 0;padding-bottom: 0;padd=
+ing-left: 0;vertical-align: top;text-align: left;mso-table-lspace: -1pt;mso=
+-table-rspace: -1pt;padding: 0;width: 100%;position: relative;display: tabl=
+e"><tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bottom: 0;pa=
+dding-left: 0;vertical-align: top;text-align: left">
+    <th class=3D"small-12 large-12 columns first last" style=3D"word-wrap: =
+break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;border-co=
+llapse: collapse;vertical-align: top;color: #11100f;font-family: Segoe UI, =
+SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight:=
+ 400;text-align: left;font-size: 14px;line-height: 20px;Margin: 0 auto;padd=
+ing-left: 24px;padding-right: 24px;padding-top: 12px;mso-padding-top-alt: 1=
+2px;padding-bottom: 12px;mso-padding-bottom-alt: 12px;width: auto"><table r=
+ole=3D"presentation" style=3D"border-spacing: 0;border-collapse: collapse;p=
+adding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;vertical-a=
+lign: top;text-align: left;mso-table-lspace: -1pt;mso-table-rspace: -1pt;wi=
+dth: 100%"><tbody><tr style=3D"padding-top: 0;padding-right: 0;padding-bott=
+om: 0;padding-left: 0;vertical-align: top;text-align: left"><th style=3D"wo=
+rd-wrap: break-word;-webkit-hyphens: auto;-moz-hyphens: auto;hyphens: auto;=
+border-collapse: collapse;vertical-align: top;color: #11100f;font-family: S=
+egoe UI, SegoeUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;fon=
+t-weight: 400;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-lef=
+t: 0;Margin: 0;text-align: left;font-size: 14px;line-height: 20px">       =20
+        <p class=3D"margin-bottom-0" style=3D"font-family: Segoe UI, SegoeU=
+I, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;p=
+adding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0;=
+text-align: left;word-wrap: normal;-webkit-text-size-adjust: none;Margin-bo=
+ttom: 0px;mso-margin-bottom-alt: 0px;font-size: 12px;line-height: 16px;mso-=
+line-height-alt: 16px;color: #484644">
+
+            <a href=3D"https://nam.safelink.emails.azure.net/redirect/?dest=
+ination=3Dhttps%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkId%3D521839&amp;=
+p=3DbT1lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZDE4MzQmcz0wMDAwMDAwMC0wMDA=
+wLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAmdT1hZW8mbD1wcml2YWN5LXN0YXRlbWVudA%3D%3D" =
+title=3D"Pol=C3=ADtica de Privacidade" style=3D"font-family: Segoe UI, Sego=
+eUI, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400=
+;padding: 0;text-align: left;line-height: 20px;color: #484644;display: inli=
+ne-block;text-decoration: underline;text-underline: single">Pol=C3=ADtica d=
+e Privacidade</a>           =20
+        </p>
+        <p class=3D"margin-top-8" style=3D"font-family: Segoe UI, SegoeUI, =
+Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif;font-weight: 400;padd=
+ing-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;Margin: 0;tex=
+t-align: left;Margin-bottom: 12px;word-wrap: normal;-webkit-text-size-adjus=
+t: none;Margin-top: 8px;mso-margin-top-alt: 8px;font-size: 12px;line-height=
+: 16px;mso-line-height-alt: 16px;color: #484644">Microsoft Corporation, <sp=
+an class=3D"no-wrap" style=3D"display: inline-block;word-break: keep-all;hy=
+phens: none">One Microsoft Way, =E2=80=8BRedmond, WA 98052=E2=80=8B</span><=
+/p>
+        <img height=3D"20" width=3D"auto" class=3D"logo-microsoft" src=3D"h=
+ttps://images.ecomm.microsoft.com/cdn/mediahandler/azure-emails-templates/p=
+roduction/shared/images/templates/shared/images/logos/microsoft-logo-2x.png=
+" alt=3D"Microsoft" title=3D"Microsoft" style=3D"outline: none;text-decorat=
+ion: none;-ms-interpolation-mode: bicubic;max-width: 100%;clear: both;displ=
+ay: block;height: 20px;max-height: 20px;width: auto">
+    </th>
+<th class=3D"expander" style=3D"word-wrap: break-word;-webkit-hyphens: auto=
+;-moz-hyphens: auto;hyphens: auto;border-collapse: collapse;vertical-align:=
+ top;color: #11100f;font-family: Segoe UI, SegoeUI, Roboto, &quot;Helvetica=
+ Neue&quot;, Arial, sans-serif;font-weight: 400;padding-top: 0;padding-righ=
+t: 0;padding-bottom: 0;padding-left: 0;Margin: 0;text-align: left;font-size=
+: 14px;line-height: 20px;visibility: hidden;width: 0;padding: 0"></th></tr>=
+</tbody></table></th>
+</tr></tbody></table>
+
+                                        </center>
+                                    </td></tr></tbody></table>
+                                </td></tr></tbody></table>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </center>
+            </td>
+        </tr>
+    </tbody></table>
+        <img height=3D"" width=3D"auto" src=3D"https://nam.safelink.emails.=
+azure.net/trackingpixel/?p=3DbT1lNzMwMTNlNC1hNjZlLTRjOWEtYjM0Yy1iOTdlYjE2ZD=
+E4MzQmcz0wMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAmdT1hZW8%3D" alt=3D=
+"" role=3D"presentation" style=3D"outline: none;text-decoration: none;-ms-i=
+nterpolation-mode: bicubic;width: auto;max-width: 100%;clear: both;display:=
+ block">
+   =20
+
+</body></html>=
+
+--=-qNQf3+zIBNRzsesDlZE3/w==--

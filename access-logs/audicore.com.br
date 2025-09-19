@@ -1,0 +1,5 @@
+54.162.231.118 - - [19/Sep/2025:09:23:32 -0300] "GET / HTTP/1.1" 301 0 "-" "Mozilla/5.0 (X11; U; Linux; i686; en-US; rv:1.6) Gecko Debian/1.6-7"
+54.162.231.118 - - [19/Sep/2025:09:23:32 -0300] "GET / HTTP/1.1" 301 0 "-" "Mozilla/5.0 (X11; Linux x86_64; en-US; rv:2.0b2pre) Gecko/20100712 Minefield/4.0b2pre"
+177.154.191.152 - - [19/Sep/2025:09:23:33 -0300] "POST /wp-cron.php?doing_wp_cron=1758284613.6037960052490234375000 HTTP/1.1" 200 0 "-" "WordPress/6.8.2; https://audicore.com.br"
+177.154.191.152 - - [19/Sep/2025:13:29:16 -0300] "POST /wp-cron.php?doing_wp_cron=1758299356.3499279022216796875000 HTTP/1.1" 200 0 "-" "WordPress/6.8.2; https://audicore.com.br"
+66.249.75.134 - - [19/Sep/2025:13:29:14 -0300] "GET /robots.txt HTTP/1.1" 200 96 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"

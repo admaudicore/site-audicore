@@ -1,0 +1,38 @@
+Return-Path: <audicore@br.leia7410.com.br>
+Delivered-To: audicore@br.leia7410.com.br
+Received: from br.leia7410.com.br
+	by br.leia7410.com.br with LMTP
+	id bbYzIomqnmjcTS0Ah08LBg
+	(envelope-from <audicore@br.leia7410.com.br>)
+	for <audicore@br.leia7410.com.br>; Fri, 15 Aug 2025 00:33:29 -0300
+Return-path: <audicore@br.leia7410.com.br>
+Envelope-to: admin@audicore.com.br
+Delivery-date: Fri, 15 Aug 2025 00:33:29 -0300
+Received: from audicore by br.leia7410.com.br with local (Exim 4.96)
+	(envelope-from <audicore@br.leia7410.com.br>)
+	id 1umlC5-00CSMq-1X
+	for admin@audicore.com.br;
+	Fri, 15 Aug 2025 00:33:29 -0300
+To: admin@audicore.com.br
+Subject: =?us-ascii?Q?[My_Blog]_Seu_site_foi_atualizado_para_o_WordPr?=  =?us-ascii?Q?ess_6.8.2?=
+Date: Fri, 15 Aug 2025 03:33:29 +0000
+From: WordPress <wordpress@audicore.com.br>
+Message-ID: <bzzft9kDaKJpiCsExmB0bz3aeTpD84puPZj8quga6es@audicore.com.br>
+X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá! Seu site em https://audicore.com.br foi atualizado automaticamente para o WordPress 6.8.2.
+
+Você não precisa fazer nada. Para saber mais sobre a versão 6.8.2, veja a tela Sobre o WordPress:
+https://audicore.com.br/wp-admin/about.php
+
+Se você passar por qualquer problema ou precisar de suporte, os voluntários nos fóruns de suporte do WordPress.org podem ajudá-lo.
+https://br.wordpress.org/support/forums/
+
+Você também possui alguns plugins e temas com atualizações disponíveis. Atualize-os agora:
+https://audicore.com.br/wp-admin/
+
+A equipe do WordPress
+

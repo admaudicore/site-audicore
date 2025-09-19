@@ -1,0 +1,250 @@
+.turboplugins-container {
+  flex-direction: column;
+  gap: 1em;
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.turboplugins-btn {
+  text-decoration: none;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 8px 16px;
+  background: #51297f;
+  border-radius: 5px;
+  color: #fff;
+  border: unset;
+  cursor: pointer;
+}
+
+.turboplugins-btn-outline {
+  text-decoration: none;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 8px 16px;
+  background: #fff;
+  border-radius: 5px;
+  color: #51297f;
+  border: solid 1px #51297f;
+  cursor: pointer;
+}
+
+#turboplugins-nav {
+  padding: 1rem;
+}
+
+ul.turboplugins-nav-menu {
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1em;
+}
+
+li.turboplugins-nav-item {
+  margin: 0;
+}
+
+a.turboplugins-nav-link {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  font-size: 13px;
+  line-height: 1;
+  transition: background 150ms ease;
+  text-align: center;
+  background: #fff;
+  border-radius: 5px;
+  color: #111;
+  box-shadow: 0 4px 12px -5px rgb(0 0 0 / 20%);
+  padding: 24px 16px;
+}
+
+a.active.turboplugins-nav-link {
+  background: #51297f;
+  color: #fff;
+}
+
+a.turboplugins-nav-link i {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+main#turboplugins-content {
+  padding: 15px;
+  flex: 1;
+}
+
+div#turboplugins-content {
+  margin: 15px 0 0;
+  min-height: 100dvh;
+}
+
+.turboplugins-section {
+  display: none;
+}
+
+.turboplugins-section.active {
+  display: flex;
+  flex-flow: column;
+  gap: 1em;
+}
+
+.turboplugins-card {
+  background: #fff;
+  border-radius: 5px;
+  border: solid 1px #00000010;
+  box-shadow: 0 5px 10px rgb(0 0 0 / 8%);
+}
+
+.turboplugins-card-header {
+  padding: 16px;
+  border-bottom: solid 1px #eaeaea;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.turboplugins-card-header h2 {
+  margin: 0;
+  line-height: 1;
+  color: #51297f;
+}
+
+.turboplugins-card-body,
+.turboplugins-card-footer {
+  padding: 16px;
+}
+
+.turboplugins-section-header {
+  margin-top: 0;
+}
+
+.CodeMirror {
+  border: solid 1px #eaeaea;
+  border-radius: 5px;
+}
+
+.turboplugins-input-container {
+  margin-bottom: 1rem;
+}
+
+.turboplugins-input-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.turboplugins-input-container input,
+.turboplugins-input-container textarea,
+.turboplugins-input-container select {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  padding: 5px 10px;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.turboplugins-input-container .turboplugins-switch input {
+  height: 0;
+  width: 0;
+  border: unset;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.turboplugins-input-container .turboplugins-switch {
+  position: relative;
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+  cursor: pointer;
+}
+
+.turboplugins-input-container .turboplugins-switch .switch {
+  position: relative;
+  width: 32px;
+  height: 16px;
+  display: block;
+  background: #dbdbdb;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.turboplugins-input-container .turboplugins-switch .switch::before {
+  content: "";
+  display: block;
+  height: 12px;
+  width: 12px;
+  background: #f9f9f9;
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: 8px;
+  margin: auto;
+  right: 0;
+  transform: translate(-8px, 0);
+  transition: all 200ms;
+}
+
+.turboplugins-input-container .turboplugins-switch input:checked + .switch {
+  background: #ddf3d0;
+}
+
+.turboplugins-input-container
+  .turboplugins-switch
+  input:checked
+  + .switch::before {
+  background: #69a842;
+  transform: translate(8px, 0);
+}
+
+.turboplugins-table {
+  width: 100%;
+  table-layout: fixed;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.turboplugins-table th,
+.turboplugins-table td {
+  padding: 10px 0;
+  border-bottom: solid 1px #f1f1f1;
+}
+
+.turboplugins-table tr:last-child th,
+.turboplugins-table tr:last-child td {
+  border-bottom: 0;
+}
+
+.temporary-user-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#turboplugins-debuglog {
+  background-color: black;
+  background-image: radial-gradient(rgba(0, 150, 0, 0.75), black 120%);
+  margin: 0;
+  overflow-x: hidden;
+  padding: 1em;
+  color: white;
+  font: 1rem Inconsolata, monospace;
+  text-shadow: 0 0 5px #c8c8c8;
+  border: 0;
+  position: relative;
+  height: 350px;
+}
+
+#turboplugins-debuglog pre {
+  margin: 0;
+}
+
+#turboplugins-debuglog p {
+  line-height: 2;
+  margin: 0;
+}

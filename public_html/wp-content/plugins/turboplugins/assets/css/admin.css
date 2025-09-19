@@ -1,0 +1,13 @@
+.turbotools-logo {
+  max-width: 300px;
+  height: auto;
+}
+
+#toplevel_page_turbotools img {
+  width: 18px;
+}
+
+#toplevel_page_turbotools a {
+  background-image: linear-gradient(90deg, #5c1f85 0%, #2f014c 100%);
+  background-color: transparent;
+}

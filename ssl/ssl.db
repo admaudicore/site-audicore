@@ -1,0 +1,93 @@
+--- 
+files: 
+  certificate: 
+    audicore_com_br_df5a3_53837_1786754382_5febb37742ace40e244a9af3836a7aed: 
+      created: '1755218382'
+      domains: 
+        - audicore.com.br
+        - mail.audicore.com.br
+        - www.audicore.com.br
+        - cpanel.audicore.com.br
+        - webmail.audicore.com.br
+        - webdisk.audicore.com.br
+        - cpcontacts.audicore.com.br
+        - cpcalendars.audicore.com.br
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “audicore.com.br”
+      id: audicore_com_br_df5a3_53837_1786754382_5febb37742ace40e244a9af3836a7aed
+      is_self_signed: 1
+      issuer.commonName: audicore.com.br
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: df5a36732cdcd2ea26657103f5e34e0b07546dd4333985acbb7860ff359e7f96e68b1890e795ca7beb0997550fcfac890b742544d6682f5c76d75ce0242c8f060cc7282381d253b296fb60ed4ce5ca119bc4becd5885aefbcf5bcd300be065011e9d377c3daac64f7b523d305cd08ddb03e49ed6b287d7022eebb51694b0e9601a4ff4583e95f7c082deeb2d025df7fdb8b8d54c7bf8e8994b9decc34b14d1536e5279d7c2c684612dedfa8af47287c35cc73ef6f16a8f86f44f8dca4cf15d65f44683c259f23f8e08a3532baaf113d1dd8570b87e938adc732983413ee30d7c5f47c60e67acbcf46988bba35cc97ead47f6ad4200b162376739172031953837
+      modulus_length: 2048
+      not_after: '1786754382'
+      not_before: '1755218382'
+      serial: bd8c4b6b
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: audicore.com.br
+      validation_type: ~
+    audicore_com_br_f88c3_5f3a7_1763001213_2677c560518aba18719e4278ffe797e9: 
+      created: '1755228729'
+      domains: 
+        - "*.audicore.com.br"
+        - audicore.com.br
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “audicore.com.br” 1755228729.0
+      id: audicore_com_br_f88c3_5f3a7_1763001213_2677c560518aba18719e4278ffe797e9
+      is_self_signed: 0
+      issuer.commonName: R10
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: f88c37af74fadaae243bccbc5bb53af94bf48cef38dd7d60844c24c12cec9b90dcc468832c80c93860c438783ec912c6acb473af5ef4089d4e3f4683da4fd337e8f7e03e3f530b3629352b4c1cecf61e320f804845cc5f3e3fc2ab3a78f08798039370e1f1eb1c22e5d309811e2c012a86b15d42e5f6c42585fd14cd38b5e27cb38a7c250487c6d275ac1afbb8eaaf33a6dd6b25d1429f4fa97ec0ac298ac9890df70a88487f789660e37e81c16b10e213d3198017bb080e02315b3b3b0483d93d0ab70b404989c9ffef30eaaa3a10a962cf18b58f67856b140ee22b5a90024ff7cf7b505b0f7ce228a830a60d58f80424d38de507b315cfe446bfa56cb5f3a7
+      modulus_length: 2048
+      not_after: '1763001213'
+      not_before: '1755225214'
+      serial: 063f585e934962b80b2bc1bcd95664f1bf46
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: audicore.com.br
+      validation_type: dv
+  key: 
+    df5a3_53837_2914be51bce23d0781ab52b850d51d26: 
+      created: '1755218382'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “audicore.com.br”
+      id: df5a3_53837_2914be51bce23d0781ab52b850d51d26
+      key_algorithm: rsaEncryption
+      modulus: df5a36732cdcd2ea26657103f5e34e0b07546dd4333985acbb7860ff359e7f96e68b1890e795ca7beb0997550fcfac890b742544d6682f5c76d75ce0242c8f060cc7282381d253b296fb60ed4ce5ca119bc4becd5885aefbcf5bcd300be065011e9d377c3daac64f7b523d305cd08ddb03e49ed6b287d7022eebb51694b0e9601a4ff4583e95f7c082deeb2d025df7fdb8b8d54c7bf8e8994b9decc34b14d1536e5279d7c2c684612dedfa8af47287c35cc73ef6f16a8f86f44f8dca4cf15d65f44683c259f23f8e08a3532baaf113d1dd8570b87e938adc732983413ee30d7c5f47c60e67acbcf46988bba35cc97ead47f6ad4200b162376739172031953837
+      modulus_length: 2048
+    f88c3_5f3a7_e7dcb731ec5de4fd435c17b84f10a266: 
+      created: '1755228729'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “audicore.com.br” 1755228729.0
+      id: f88c3_5f3a7_e7dcb731ec5de4fd435c17b84f10a266
+      key_algorithm: rsaEncryption
+      modulus: f88c37af74fadaae243bccbc5bb53af94bf48cef38dd7d60844c24c12cec9b90dcc468832c80c93860c438783ec912c6acb473af5ef4089d4e3f4683da4fd337e8f7e03e3f530b3629352b4c1cecf61e320f804845cc5f3e3fc2ab3a78f08798039370e1f1eb1c22e5d309811e2c012a86b15d42e5f6c42585fd14cd38b5e27cb38a7c250487c6d275ac1afbb8eaaf33a6dd6b25d1429f4fa97ec0ac298ac9890df70a88487f789660e37e81c16b10e213d3198017bb080e02315b3b3b0483d93d0ab70b404989c9ffef30eaaa3a10a962cf18b58f67856b140ee22b5a90024ff7cf7b505b0f7ce228a830a60d58f80424d38de507b315cfe446bfa56cb5f3a7
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      df5a36732cdcd2ea26657103f5e34e0b07546dd4333985acbb7860ff359e7f96e68b1890e795ca7beb0997550fcfac890b742544d6682f5c76d75ce0242c8f060cc7282381d253b296fb60ed4ce5ca119bc4becd5885aefbcf5bcd300be065011e9d377c3daac64f7b523d305cd08ddb03e49ed6b287d7022eebb51694b0e9601a4ff4583e95f7c082deeb2d025df7fdb8b8d54c7bf8e8994b9decc34b14d1536e5279d7c2c684612dedfa8af47287c35cc73ef6f16a8f86f44f8dca4cf15d65f44683c259f23f8e08a3532baaf113d1dd8570b87e938adc732983413ee30d7c5f47c60e67acbcf46988bba35cc97ead47f6ad4200b162376739172031953837: 
+        audicore_com_br_df5a3_53837_1786754382_5febb37742ace40e244a9af3836a7aed: ~
+      f88c37af74fadaae243bccbc5bb53af94bf48cef38dd7d60844c24c12cec9b90dcc468832c80c93860c438783ec912c6acb473af5ef4089d4e3f4683da4fd337e8f7e03e3f530b3629352b4c1cecf61e320f804845cc5f3e3fc2ab3a78f08798039370e1f1eb1c22e5d309811e2c012a86b15d42e5f6c42585fd14cd38b5e27cb38a7c250487c6d275ac1afbb8eaaf33a6dd6b25d1429f4fa97ec0ac298ac9890df70a88487f789660e37e81c16b10e213d3198017bb080e02315b3b3b0483d93d0ab70b404989c9ffef30eaaa3a10a962cf18b58f67856b140ee22b5a90024ff7cf7b505b0f7ce228a830a60d58f80424d38de507b315cfe446bfa56cb5f3a7: 
+        audicore_com_br_f88c3_5f3a7_1763001213_2677c560518aba18719e4278ffe797e9: ~
+    subject.commonName: 
+      audicore.com.br: 
+        audicore_com_br_df5a3_53837_1786754382_5febb37742ace40e244a9af3836a7aed: ~
+        audicore_com_br_f88c3_5f3a7_1763001213_2677c560518aba18719e4278ffe797e9: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “audicore.com.br”: audicore_com_br_df5a3_53837_1786754382_5febb37742ace40e244a9af3836a7aed
+      Cert for “audicore.com.br” 1755228729.0: audicore_com_br_f88c3_5f3a7_1763001213_2677c560518aba18719e4278ffe797e9
+  key: 
+    friendly_name: 
+      Key for “audicore.com.br”: df5a3_53837_2914be51bce23d0781ab52b850d51d26
+      Key for “audicore.com.br” 1755228729.0: f88c3_5f3a7_e7dcb731ec5de4fd435c17b84f10a266
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      df5a36732cdcd2ea26657103f5e34e0b07546dd4333985acbb7860ff359e7f96e68b1890e795ca7beb0997550fcfac890b742544d6682f5c76d75ce0242c8f060cc7282381d253b296fb60ed4ce5ca119bc4becd5885aefbcf5bcd300be065011e9d377c3daac64f7b523d305cd08ddb03e49ed6b287d7022eebb51694b0e9601a4ff4583e95f7c082deeb2d025df7fdb8b8d54c7bf8e8994b9decc34b14d1536e5279d7c2c684612dedfa8af47287c35cc73ef6f16a8f86f44f8dca4cf15d65f44683c259f23f8e08a3532baaf113d1dd8570b87e938adc732983413ee30d7c5f47c60e67acbcf46988bba35cc97ead47f6ad4200b162376739172031953837: df5a3_53837_2914be51bce23d0781ab52b850d51d26
+      f88c37af74fadaae243bccbc5bb53af94bf48cef38dd7d60844c24c12cec9b90dcc468832c80c93860c438783ec912c6acb473af5ef4089d4e3f4683da4fd337e8f7e03e3f530b3629352b4c1cecf61e320f804845cc5f3e3fc2ab3a78f08798039370e1f1eb1c22e5d309811e2c012a86b15d42e5f6c42585fd14cd38b5e27cb38a7c250487c6d275ac1afbb8eaaf33a6dd6b25d1429f4fa97ec0ac298ac9890df70a88487f789660e37e81c16b10e213d3198017bb080e02315b3b3b0483d93d0ab70b404989c9ffef30eaaa3a10a962cf18b58f67856b140ee22b5a90024ff7cf7b505b0f7ce228a830a60d58f80424d38de507b315cfe446bfa56cb5f3a7: f88c3_5f3a7_e7dcb731ec5de4fd435c17b84f10a266

@@ -1,0 +1,518 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202509 will be lost/reset.
+# Last config file used to build this data file was /home/audicore/tmp/awstats/ssl/awstats.audicore.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2695                
+POS_VISITOR 9581                
+POS_DAY 12959               
+POS_DOMAIN 3447                
+POS_LOGIN 3858                
+POS_ROBOT 4013                
+POS_WORMS 4525                
+POS_EMAILSENDER 4656                
+POS_EMAILRECEIVER 4799                
+POS_SESSION 13472               
+POS_SIDER 13682               
+POS_FILETYPES 4934                
+POS_DOWNLOADS 5263                
+POS_OS 5311                
+POS_BROWSER 5607                
+POS_SCREENSIZE 6582                
+POS_UNKNOWNREFERER 6656                
+POS_UNKNOWNREFERERBROWSER 7324                
+POS_ORIGIN 7962                
+POS_SEREFERRALS 8103                
+POS_PAGEREFS 8266                
+POS_SEARCHWORDS 8563                
+POS_KEYWORDS 8715                
+POS_MISC 2359                
+POS_ERRORS 8774                
+POS_CLUSTER 3714                
+POS_SIDER_404 8920                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250918223549 86 21040 13572637578955
+FirstTime 20250901010833
+LastTime 20250918223549
+LastUpdate 20250919031959 86 0 86 0 0
+TotalVisits 208                 
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 84                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 4 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 4 22296 2 8 64140
+1 34 34 103689 12 18 22678
+2 10 10 65035 7 8 22479
+3 4 4 43032 3 10 14356
+4 10 55 582357 5 7 10466
+5 4 4 42431 0 6 0
+6 29 152 1433874 6 12 185504
+7 38 147 1815278 5 13 61510
+8 28 97 1219537 6 7 28422
+9 12 30 401960 3 8 13978
+10 18 79 607110 8 73 271635
+11 66 219 1694502 16 60 286417
+12 22 75 744721 1 7 18373
+13 3 4 0 3 4 42641
+14 43 43 167029 14 18 299900
+15 27 73 1358082 10 17 101918
+16 7 52 548747 3 10 41998
+17 9 10 38701 5 15 42312
+18 8 8 28148 5 16 31841
+19 23 83 599030 8 17 29832
+20 14 63 610041 4 13 8152
+21 474 1171 12244076 34 45 54265
+22 147 281 3368716 20 31 445564
+23 4 4 12093 1 2 2484
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+br 909 1970 18734531
+us 91 630 7977217
+za 23 23 206340
+in 3 48 548749
+se 2 9 50430
+nl 1 7 46964
+cn 1 1 6645
+ro 1 1 21522
+gb 1 1 21514
+ar 1 1 20915
+ua 1 7 46964
+ca 1 1 25486
+au 1 2 22296
+ru 1 1 20912
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 108 342440 20250917220636 7
+bingbot/ 81 401509 20250918193429 9
+Googlebot\-Image/ 8 35677 20250917220638 0
+Applebot/ 5 1771 20250917221058 1
+bot[\s_+:,\.\;\/\\-] 3 43155 20250910210942 1
+unknown 3 357 20250918120908 3
+no_user_agent 3 65536 20250918090900 0
+checker 2 43031 20250915103739 0
+facebookexternalhit/ 1 20723 20250912075541 0
+survey 1 37050 20250910165906 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+Unknown 118 112332 0 0
+html 230 3997767 0 0
+webp 10 117552 0 0
+php 635 4064583 0 0
+js 662 7750187 0 0
+gif 6 597412 0 0
+png 100 5354153 0 0
+ttf 1 32424 0 0
+xml 5 1603 0 0
+svg 56 190178 0 0
+map 1 33668 0 0
+jpg 74 1766830 0 0
+css 757 1630520 0 0
+woff2 47 2101276 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+win10 1360 434
+macosx8 1 1
+android10 120 11
+win7 8 2
+ios_iphone 256 58
+bsdnetbsd 1 1
+androidmarshmallow 5 5
+linux 252 29
+androidoreo 2 2
+Unknown 472 465
+androidcupcake 1 1
+android 1 1
+macosx15 221 25
+androidlollipop 1 1
+winxp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 45
+chrome140.0.0.0 265 21
+chrome68.0.3440.106 86 6
+iphone 28 3
+chrome116.0.0.0 7 1
+chrome138.0.0.0 67 5
+chrome130.0.0.0 1 1
+chrome136.0.0.0 3 2
+android 1 1
+chrome137.0.0.0 49 4
+chrome73.0.3683.90 1 1
+chrome88.0.4324.96 1 1
+safari26.0 58 4
+safari9.0 36 36
+chrome100.0.4896.60 1 1
+chrome138.0.7204.183 5 5
+chrome121.0.0.0 1 1
+firefox31.0 1 1
+chrome60.0.3112.107 1 1
+chrome98.0.4758.102 1 1
+chrome139.0.0.0 1258 422
+chrome100.0.4896.75 1 1
+chrome119.0.0.0 48 3
+safari 18 2
+chrome96.0.4664.93 48 3
+chrome101.0.4951.64 1 1
+firefox16.0 1 1
+firefox33.0 2 2
+chrome120.0.0.0 1 1
+chrome101.0.4951.61 1 1
+firefox139.0 2 2
+chrome101.0.4950.0 48 3
+chrome109.0.5414.46 48 3
+firefox120.0 4 4
+chrome45.0.2454.85 7 1
+opera86.0.4363.59 1 1
+chrome101.0.4951.41 1 1
+Unknown 448 441
+chrome131.0.0.0 2 2
+chrome134.0.0.0 2 2
+safari18.6 116 13
+chrome66.0.3359.181 4 4
+firefox19.0 1 1
+chrome100.0.4896.127 1 1
+chrome78.0.3904.108 2 2
+netscape5.0 23 23
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+WhatsApp/2.23.20.0 20250912101151
+\ 20250915085821
+NetworkingExtension/8621.3.11.10.3_Network/4277.140.33_iOS/18.6.2 20250912075545
+Mozilla/5.0 20250914152301
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20250918200549
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250905090550
+WordPress/6.8.2;_https://audicore.com.br 20250918223549
+Mozilla/5.0_Firefox/33.0 20250915150141
+WP_Rocket/Preload 20250918112402
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20250918200548
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+WhatsApp/2.23.20.0 20250912101151
+NetworkingExtension/8621.3.11.10.3_Network/4277.140.33_iOS/18.6.2 20250912075545
+\ 20250915085821
+Hello_from_Palo_Alto_Networks,_find_out_more_about_our_scans_in_https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity 20250905090550
+Iframely/1.3.1_(_https://iframely.com/docs/about) 20250918200549
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20250918200548
+WP_Rocket/Preload 20250918112402
+WordPress/6.8.2;_https://audicore.com.br 20250918223549
+NetSurf/1.2_(NetBSD;_amd64) 20250912061946
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 592 601
+From1 0 0
+From2 2 2
+From3 10 55
+From4 433 2044
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://br.leia7410.com.br:2083 3 3
+http://www.wotbox.com 3 48
+https://br.leia7410.com.br:2087 2 2
+https://www.canva.com 1 1
+https://chatgpt.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 14 31585
+301 38 0
+403 75 5184
+404 63 1054991
+401 1 52
+206 4 14026
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/wp-content/uploads/2025/08/elementor/thumbs/CAPA-SITE-150x150.png 24 https://audicore.com.br/
+/phpform/use/images/admin/1 32 -
+/ 2 -
+/apple-touch-icon-120x120.png 1 -
+/apple-touch-icon-precomposed.png 1 -
+/apple-touch-icon.png 1 -
+/wp-admin/admin-ajax.php 1 https://audicore.com.br/wp-admin/customize.php
+/apple-touch-icon-120x120-precomposed.png 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 84
+177.154.191.152 469 469 1093376 20250918223549 20250918223549 /wp-cron.php
+189.6.25.54 412 1165 13845080 20250914092210
+196.251.70.73 23 23 206340 20250914152301
+179.214.70.226 9 108 1121673 20250918200557
+179.174.57.65 7 61 578635 20250912111537
+104.28.198.102 4 76 725313 20250909065928
+191.181.59.213 4 49 533659 20250909065546
+208.54.41.228 3 48 548751 20250916114854
+189.125.159.242 3 49 549530 20250916114845
+104.28.63.57 3 39 498656 20250906220155
+172.225.223.51 3 27 401749 20250910081422
+149.57.180.9 3 48 548749 20250914044547
+3.94.191.23 3 49 1255428 20250913154228
+66.249.66.39 3 3 23638 20250906175809
+34.212.18.94 3 43 552451 20250907070431
+104.28.63.114 3 50 522974 20250908190142
+35.87.221.90 3 43 552451 20250907070448
+179.245.41.2 3 49 549995 20250907125419
+45.134.142.73 3 48 548749 20250913083541
+34.34.246.178 3 48 548747 20250917165858
+66.249.88.5 2 23 135083 20250912111545
+66.249.88.4 2 25 130995 20250912111545
+172.225.83.25 2 12 45688 20250906214055
+54.90.13.109 2 8 53609 20250905074817
+3.233.107.52 2 3 27513 20250918200549
+54.189.107.153 1 1 6645 20250901082533
+149.57.180.176 1 1 21519 20250914051333
+44.250.243.239 1 1 6641 20250902064554
+66.249.85.9 1 1 20948 20250912111542
+66.249.88.1 0 18 35099 
+52.208.151.205 1 1 20911 20250915225909
+54.221.113.164 1 1 21994 20250911070315
+104.236.26.193 1 1 20915 20250909090813
+151.248.88.25 1 1 21522 20250915085821
+137.184.67.184 1 1 12073 20250917113615
+187.43.175.110 1 11 434009 20250902073831
+157.230.239.58 1 1 12080 20250904013838
+3.81.208.185 1 1 21514 20250913081930
+104.28.144.41 1 1 21381 20250908224637
+141.138.211.251 1 1 21514 20250916122904
+44.194.139.157 0 3 12867 
+185.209.199.150 1 1 20912 20250917055848
+104.28.63.60 1 4 236723 20250906220858
+23.27.145.232 1 1 21519 20250914032555
+66.249.66.42 1 1 10052 20250904235405
+152.42.133.51 1 2 22296 20250916000041
+54.202.145.150 1 1 6645 20250901081956
+54.205.193.109 1 1 6645 20250904084016
+118.25.190.160 1 1 6645 20250906093502
+68.183.48.93 1 1 6641 20250902122318
+198.235.24.48 1 1 25486 20250905090550
+34.182.69.148 1 1 116141 20250915124350
+185.50.251.216 1 7 46964 20250902195610
+34.143.224.100 1 1 21997 20250909024945
+94.102.63.27 1 7 46964 20250901065138
+66.249.66.38 1 1 2041 20250907230625
+3.87.3.148 1 1 6640 20250903084855
+104.11.7.233 1 1 21522 20250918114440
+200.173.49.104 0 1 0 
+190.92.202.79 1 1 20915 20250908140238
+34.209.6.220 1 1 116141 20250913085805
+146.75.191.50 1 1 21384 20250910122555
+54.165.106.85 1 1 21518 20250912061946
+3.83.38.89 1 1 21522 20250910062559
+54.165.26.200 1 1 21516 20250909063331
+100.25.135.16 2 2 13832 20250906064200
+98.80.230.244 1 1 21996 20250907064938
+179.175.54.41 1 8 28574 20250910100017
+68.183.200.61 1 1 12079 20250918081131
+104.237.189.18 2 11 74549 20250906214143
+104.196.49.103 1 1 116141 20250915111029
+35.92.253.54 1 1 6645 20250901082321
+165.227.70.84 1 1 20915 20250909180854
+54.145.18.119 1 1 20913 20250913154223
+104.28.63.99 1 5 40101 20250912075541
+134.209.38.188 1 1 20913 20250909061816
+8.36.86.54 2 2 43031 20250915150141
+139.59.5.190 1 2 22296 20250908175413
+64.227.154.24 1 1 12086 20250903042105
+35.175.104.75 2 2 43036 20250917073722
+54.160.108.251 1 1 21995 20250908071457
+23.27.145.183 1 1 21522 20250915043023
+146.75.191.51 1 8 29046 20250910122119
+54.90.114.81 1 1 21522 20250915080914
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20250901 15 21 66899 11
+20250902 11 27 494255 7
+20250903 13 13 18726 9
+20250904 16 16 36010 9
+20250905 29 35 160329 11
+20250906 615 1446 15547918 14
+20250907 28 154 1678982 16
+20250908 40 104 713202 14
+20250909 29 146 1386744 16
+20250910 22 60 523797 13
+20250911 8 8 43508 5
+20250912 39 159 1069934 13
+20250913 19 110 1987232 11
+20250914 63 126 1165586 12
+20250915 25 26 382312 17
+20250916 20 112 1163604 9
+20250917 23 68 646289 12
+20250918 22 71 665158 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 4
+0s-30s 155
+15mn-30mn 15
+5mn-15mn 5
+2mn-5mn 1
+30mn-1h 15
+1h+ 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 55
+/wp-cron.php 369 0 113 109
+/wp-admin/admin-ajax.php 188 1000815 4 4
+/ 166 3277919 81 64
+/wp-json/elementor/v1/checklist/user-progress 81 49120 0 1
+/wp-login.php 29 223775 3 3
+/wp-content/uploads/elementor/google-fonts/fonts/roboto-fb5169d9.woff2 24 963072 2 18
+/author/turbowp/ 21 157801 1 0
+/wp-content/uploads/elementor/google-fonts/fonts/inter-e9bdaa9d.woff2 20 965120 0 2
+/sample-page/ 19 192927 1 1
+/wp-json/rankmath/v1/updateMeta 17 12814 0 0
+/wp-admin/load-scripts.php 11 397931 0 0
+/wp-admin/load-styles.php 9 869303 0 0
+/category/uncategorized/ 7 51466 1 1
+/2025/08/15/hello-world/ 7 64293 0 1
+/home/ 5 118628 0 0
+/wp-admin/options-general.php 5 304135 0 0
+/sitemap_index.xml 5 1603 0 0
+/wp-admin/ 4 132692 1 0
+/wp-admin/admin.php 4 129949 0 0
+/wp-admin/update-core.php 3 80008 0 0
+/wp-json/rankmath/v1/dashboardWidget 3 6204 0 0
+/wp-admin/post.php 2 439843 0 0
+/wp-admin/nav-menus.php 2 62641 0 0
+/wp-admin/async-upload.php 2 1636 0 0
+/wp-json/elementor-hello-elementor/v1/whats-new 2 15064 0 0
+/wp-admin/options-permalink.php 1 27063 0 0
+/wp-json/wp/v2/widget-types 1 6750 0 0
+/wp-json/elementor/v1/template-library/templates 1 1918 0 0
+/wp-json/elementor/v1/user-data/current-user 1 1974 0 0
+/wp-json/wp/v2/users/me 1 2378 0 0
+/wp-json/wp/v2/settings 1 6979 0 0
+/wp-json/elementor-hello-elementor/v1/admin-settings 1 3759 0 0
+/wp-json/elementor/v1/kit-elements-defaults 1 2 0 0
+/wp-admin/options-discussion.php 1 27084 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 1 13276 0 0
+/wp-admin/options-writing.php 1 26198 0 0
+/wp-json/elementor/v1/site-navigation/recent-posts 1 988 0 0
+/wp-json/elementor-hello-elementor/v1/promotions 1 1073 0 0
+/wp-json/elementor/v1/site-editor/templates 1 2 0 0
+/wp-json/elementor/v1/globals 1 981 0 0
+/wp-json/oembed/1.0/embed 1 2040 0 1
+/wp-admin/customize.php 1 160073 0 0
+/wp-admin/update.php 1 19493 0 0
+/wp-admin/tools.php 1 24209 0 0
+/wp-admin/options-media.php 1 24673 0 0
+/wp-admin/edit.php 1 38410 0 0
+/wp-json/elementor/v1/global-widget/templates 1 2 0 0
+/wp-json/elementor-hello-elementor/v1/theme-settings 2 284 0 0
+/wp-content/plugins/seo-by-rank-math/assets/admin/fonts/Rank-Math.ttf 1 32424 0 0
+/author/turbowp/feed/ 1 2041 1 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 1 81612 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 78196 0 0
+/wp-content/plugins/turbo-cache/assets/js/wpr-beacon.min.js.map 1 33668 0 0
+/wp-admin/profile.php 2 181748 0 1
+/wp-admin/options-reading.php 1 25596 0 0
+END_SIDER
